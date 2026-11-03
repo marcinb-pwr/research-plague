@@ -32,16 +32,17 @@ The browser downloads the catalogue and local source assets from the same site. 
 
 ## Publish with GitHub Pages
 
-The repository includes a publishing workflow in [`.github/workflows/pages.yml`](.github/workflows/pages.yml). A repository checkout is not proof that a public site has been deployed.
+The repository includes a publishing workflow in [`.github/workflows/pages.yml`](.github/workflows/pages.yml). Every push to `main` builds, validates and publishes the website. Pull requests build and validate without publishing. No `PAGES_AUTO_DEPLOY` variable is needed.
 
 1. In the repository, open **Settings → Pages** and select **GitHub Actions** as the publishing source.
-2. Open **Actions → Validate and publish wiki → Run workflow**, choose `main`, and run it.
+2. Push a change to `main`, or open **Actions → Validate and publish wiki → Run workflow**, choose `main`, and run it.
 3. Read the successful `github-pages` deployment's URL from the workflow. That reported URL is the authoritative published address.
-4. For automatic publication after later pushes to `main`, add the repository Actions variable **`PAGES_AUTO_DEPLOY` = `true`**. Without it, pushes and pull requests validate and build the project; publication remains manual.
+
+Use **GitHub Actions**, not **Deploy from a branch**: the homepage and its data bundle are generated into `dist/`. Publishing the repository root directly uploads source files without a root `index.html` and produces a 404. The custom workflow uploads the contents of `dist/` as the Pages artifact.
 
 The workflow uses the built-in repository token and GitHub's Pages environment. It does not require a personal access token. The actions are pinned to verified commits with their upstream major versions recorded in comments.
 
-For this repository, GitHub's standard project-site address would be `https://marcinb-pwr.github.io/research-plague/` after successful deployment, unless a custom domain is configured. Do not treat that address as live until the deployment succeeds.
+For this repository, the project-site address is `https://marcinb-pwr.github.io/research-plague/`. Check the workflow's **deploy** job, not only its **build** job, when diagnosing publication.
 
 See GitHub's official guides on [custom Pages workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages) and [selecting a publishing source](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 

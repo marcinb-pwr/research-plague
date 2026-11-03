@@ -13,10 +13,11 @@
     "workbookSha256": "c77908d946928a2b839d7b1de61497a1ed61274e52125adca973280848a0853a",
     "documentCount": 204,
     "groupCount": 13,
-    "operativeRowCount": 433,
-    "method": "Analytical English paraphrases of the checked workbook and its primary-source review. Every operational chapter is represented. This is not a diplomatic transcription or proof of uniform implementation or effectiveness.",
+    "operativeRowCount": 435,
+    "method": "Analytical English paraphrases, with separately versioned original-language transcriptions and English working translations where available. Edition metadata records coverage, source pages and review status. The workbook is the initial catalogue snapshot; subsequent source-based editorial revisions are recorded in this repository.",
     "relatedNote": "Related chapters share editorial themes; links do not establish historical sequence or causation.",
-    "groupCountNote": "Group counts use one primary filing category per chapter. Thematic filters also include cross-tags, so their totals can overlap."
+    "groupCountNote": "Group counts use one primary filing category per chapter. Thematic filters also include cross-tags, so their totals can overlap.",
+    "updatedAt": "2026-11-04"
   },
   "groups": [
     {
@@ -692,6 +693,7 @@
         "mappingNote": "Printed-page metadata mapped to the original scan; physical PDF page numbering includes preliminaries and duplicate scans."
       },
       "related": [
+        99,
         70,
         94,
         109,
@@ -2405,8 +2407,8 @@
     {
       "id": 99,
       "roman": "XCIX",
-      "title": "Clarify complete household illness reporting",
-      "summary": "Renew immediate reporting for both suspected and apparently non-suspect illness. Clarify that one complete household report discharges the other cohabitants’ duty to report the same illness.",
+      "title": "Reaffirm illness reporting and clarify when one co-resident’s report suffices",
+      "summary": "Reaffirm the duty to report any sick person in a Roman house, monastery or other premises to the district notary, even without signs or suspicion of contagion. Clarify that once one co-resident reports the sick person, other co-residents need not report that same person again. Reinvoke the penalties of the 20 June proclamation.",
       "primaryGroup": "surveillance_tracing",
       "groupIds": [
         "surveillance_tracing",
@@ -2421,10 +2423,12 @@
       "actionLabel": "Renewal",
       "printedPages": "370",
       "provisions": [
-        "Renew immediate reporting for both suspected and apparently non-suspect illness. Clarify that one complete household report discharges the other cohabitants’ duty to report the same illness."
+        "Reaffirm the proclamation of 20 June 1656: residents and co-residents must report sick people to the district notary, including illness without signs or suspicion of contagion.",
+        "Once one co-resident reports the sick person, the other co-residents are released from reporting that same person. This does not abolish the separate reporting duties of clergy or physicians.",
+        "Invoke the penalties in the earlier proclamation. Chapter 55 supplies the reporting details and immediate-notification requirement that chapter 99 recalls without repeating in full."
       ],
-      "provisionKind": "summary",
-      "verificationNote": "Concise analytical paraphrase checked against the chapter’s full operative body and Index Argumentorum. One row per chapter/document, not one distinct intervention or a complete clause transcription.",
+      "provisionKind": "expanded",
+      "verificationNote": "Summary revised against the complete chapter XCIX on printed p. 370 / scan 454 and the expressly referenced chapter LV, especially §§1, 4–5. The original text and English working translation are provided in the separate chapter edition, with explicit AI preparation and pending human review.",
       "source": {
         "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n453/mode/1up",
         "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=454",
@@ -2433,6 +2437,7 @@
         "mappingNote": "Printed-page metadata mapped to the original scan; physical PDF page numbering includes preliminaries and duplicate scans."
       },
       "related": [
+        55,
         86,
         68,
         130,

@@ -14,6 +14,38 @@
   },
   "excerpts": [
     {
+      "id": "co-resident-reporting",
+      "title": "When one co-resident's illness report suffices",
+      "description": "The 24 August 1656 edict reaffirms illness reporting to district notaries and clarifies the exemption from duplicate reporting by co-residents about the same sick person.",
+      "chapterIds": [
+        99
+      ],
+      "printedPages": "370",
+      "scanPages": [
+        454
+      ],
+      "readingGuide": "English paraphrase: report sick people even without signs or suspicion of contagion. Once one co-resident has reported the sick person, the others need not report that same person again. The edict recalls the 20 June proclamation reproduced in chapter 55.",
+      "notes": "Chapter XCIX begins below the ornament halfway down p. 370 and ends with the signatures Il Card. Sforza and Cesare Rasponi Secr. The text above the ornament belongs to chapter XCVIII. A complete transcription and English working translation are available on the chapter 99 page.",
+      "pdf": "excerpts/co-resident-reporting.pdf",
+      "pdfSha256": "d2fa2fc5039d3c6b6a1fd8eadd22640e18c308e5615a94ee9e5faf306c45647c",
+      "pdfBytes": 41412,
+      "pages": [
+        {
+          "scanPage": 454,
+          "printedPage": "370",
+          "image": "excerpts/co-resident-reporting-p1.webp",
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n453/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/co-resident-reporting-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n453/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile"
+    },
+    {
       "id": "health-passes",
       "title": "Health passes, routes and discriminatory exclusions",
       "description": "Rules for named health certificates, route endorsements, free issuance and forged or transferred documents, followed by explicit exclusions based on social and religious status.",
@@ -27,7 +59,6 @@
         362,
         363
       ],
-      "translation": "English paraphrase: certificates must identify each traveller and be endorsed along the journey; they must be issued free. Page 281 excludes vagabonds, able-bodied beggars, Roma and Jews even if they hold health papers.",
       "notes": "Selected pages from chapter XLIII, not the entire chapter. These status exclusions are historical discriminatory rules, not evidence that the named groups carried infection.",
       "pdf": "excerpts/health-passes.pdf",
       "pdfSha256": "669f7fd13a6405514514e5648253a2929c4ce8f7535cd8348e33060d4eb7ba69",
@@ -73,7 +104,8 @@
       "thumbnail": "excerpts/health-passes-thumb.webp",
       "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n359/mode/1up",
       "evidenceType": "Primary-source facsimile",
-      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile"
+      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile",
+      "readingGuide": "English paraphrase: certificates must identify each traveller and be endorsed along the journey; they must be issued free. Page 281 excludes vagabonds, able-bodied beggars, Roma and Jews even if they hold health papers."
     },
     {
       "id": "illness-reporting",
@@ -90,7 +122,6 @@
         384,
         385
       ],
-      "translation": "English paraphrase: report household illness promptly, including illness that shows no sign of plague; physicians must provide signed daily returns, and suspected contagion must be reported without waiting until evening.",
       "notes": "The complete pages include the start of the following chapter on p. 301. This scan contains an earlier duplicate of pp. 297-298; this excerpt uses the continuous sequence at scan pages 381-385.",
       "pdf": "excerpts/illness-reporting.pdf",
       "pdfSha256": "a6b5f79b62d36d17b3e930089e34bbb4c27ecc4d795dcddbeb0b4be58cfe99c3",
@@ -145,7 +176,8 @@
       "thumbnail": "excerpts/illness-reporting-thumb.webp",
       "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n380/mode/1up",
       "evidenceType": "Primary-source facsimile",
-      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile"
+      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile",
+      "readingGuide": "English paraphrase: report household illness promptly, including illness that shows no sign of plague; physicians must provide signed daily returns, and suspected contagion must be reported without waiting until evening."
     },
     {
       "id": "tavern-contact-rules",
@@ -159,7 +191,6 @@
         503,
         504
       ],
-      "translation": "English paraphrase: innkeepers may not seat more than four people at a table. Sick visits are limited to household members and specified necessary religious, clinical, legal and care roles unless permission is obtained.",
       "notes": "The four-person cap applies to tavern tables, not to every gathering in Rome. Chapter CXXVI ends near the top of p. 418, which also begins the next tribunal-suspension order.",
       "pdf": "excerpts/tavern-contact-rules.pdf",
       "pdfSha256": "56a2160723b07acff7d29d39aef67b2eb5d89dda307048cea9de6f59196cd1e9",
@@ -187,7 +218,8 @@
       "thumbnail": "excerpts/tavern-contact-rules-thumb.webp",
       "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n502/mode/1up",
       "evidenceType": "Primary-source facsimile",
-      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile"
+      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile",
+      "readingGuide": "English paraphrase: innkeepers may not seat more than four people at a table. Sick visits are limited to household members and specified necessary religious, clinical, legal and care roles unless permission is obtained."
     },
     {
       "id": "free-cleansing",
@@ -201,7 +233,6 @@
         532,
         533
       ],
-      "translation": "English paraphrase: owners owe no cleansing fee, and disinfectors may not demand one. The same order retains severe penalties for hiding suspect property and rewards disclosure.",
       "notes": "Chapter CXLII ends on p. 447, where the next order begins. The text combines free service with coercion; it does not establish that every worker complied.",
       "pdf": "excerpts/free-cleansing.pdf",
       "pdfSha256": "5d3279afd56edd6a82486e6ab6bfe1172136a1e5a23ec6fde88ecbba98dee906",
@@ -229,7 +260,8 @@
       "thumbnail": "excerpts/free-cleansing-thumb.webp",
       "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n531/mode/1up",
       "evidenceType": "Primary-source facsimile",
-      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile"
+      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile",
+      "readingGuide": "English paraphrase: owners owe no cleansing fee, and disinfectors may not demand one. The same order retains severe penalties for hiding suspect property and rewards disclosure."
     },
     {
       "id": "property-compensation",
@@ -243,7 +275,6 @@
         618,
         619
       ],
-      "translation": "English paraphrase: value belongings before treatment and compensate their owners from community funds for damage, or allow a voluntary sale to the community at the assessed value. Gastaldi supervises cleansing and purchase.",
       "notes": "Chapter CCIX begins partway down p. 532. Compensation follows an offer by the community's leaders; it should not be described as an unconditional treasury payment to all Romans.",
       "pdf": "excerpts/property-compensation.pdf",
       "pdfSha256": "2f17307410f9f60ca6622d0ba171ab974b30c3968736c99c781b1e6da289c6c7",
@@ -271,7 +302,8 @@
       "thumbnail": "excerpts/property-compensation-thumb.webp",
       "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n617/mode/1up",
       "evidenceType": "Primary-source facsimile",
-      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile"
+      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile",
+      "readingGuide": "English paraphrase: value belongings before treatment and compensate their owners from community funds for damage, or allow a voluntary sale to the community at the assessed value. Gastaldi supervises cleansing and purchase."
     },
     {
       "id": "quarantine-cohorts",
@@ -287,7 +319,6 @@
         669,
         670
       ],
-      "translation": "English paraphrase: people who have already spent longer in quarantine should not mix with more recent arrivals. Residents put vessels outside their rooms, withdraw while food is served, and collect it after a signal.",
       "notes": "The cohort and meal procedure appears on p. 582. The same instructions distinguish accommodation by social rank and provide food tickets for those unable to pay.",
       "pdf": "excerpts/quarantine-cohorts.pdf",
       "pdfSha256": "f7682bb1177830bcc921bbb367ce4c11c5d21da9fa610bed4b04e8d8ac94d391",
@@ -333,7 +364,8 @@
       "thumbnail": "excerpts/quarantine-cohorts-thumb.webp",
       "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n666/mode/1up",
       "evidenceType": "Primary-source facsimile",
-      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile"
+      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile",
+      "readingGuide": "English paraphrase: people who have already spent longer in quarantine should not mix with more recent arrivals. Residents put vessels outside their rooms, withdraw while food is served, and collect it after a signal."
     },
     {
       "id": "house-cleansing",
@@ -350,7 +382,6 @@
         704,
         705
       ],
-      "translation": "English paraphrase: 'dirty' workers perform the initial treatment; 'clean' workers finish the process without mixing with them. The protocol calls for at least fifteen days from the first operation to reoccupation, with specified ventilation and fumigation intervals.",
       "notes": "Chapter CCXLII ends near the top of p. 619, followed by another cleansing protocol. This is historical prescription, not current medical or chemical-safety guidance.",
       "pdf": "excerpts/house-cleansing.pdf",
       "pdfSha256": "68a54c89d50e5e8407b4a082f272734d9b9d29bb5bfc2a3c67adeb441a10627d",
@@ -405,7 +436,8 @@
       "thumbnail": "excerpts/house-cleansing-thumb.webp",
       "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n700/mode/1up",
       "evidenceType": "Primary-source facsimile",
-      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile"
+      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile",
+      "readingGuide": "English paraphrase: 'dirty' workers perform the initial treatment; 'clean' workers finish the process without mixing with them. The protocol calls for at least fifteen days from the first operation to reoccupation, with specified ventilation and fumigation intervals."
     },
     {
       "id": "conditional-reopening",
@@ -419,7 +451,6 @@
         641,
         642
       ],
-      "translation": "English paraphrase: reopen movement of people and specified necessities after the recorded last cases and periods of health assurance; require local permission for other household goods. The order is dated 1 March 1658.",
       "notes": "Chapter CCXXVII begins partway down p. 555. The date on p. 556 shows that the documentary sequence extends beyond calendar 1657.",
       "pdf": "excerpts/conditional-reopening.pdf",
       "pdfSha256": "8fd981a1da1197193086ba9eb7c5e938aadecc44a7fc31fd0d400cebd7bc4829",
@@ -447,7 +478,8 @@
       "thumbnail": "excerpts/conditional-reopening-thumb.webp",
       "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n640/mode/1up",
       "evidenceType": "Primary-source facsimile",
-      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile"
+      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile",
+      "readingGuide": "English paraphrase: reopen movement of people and specified necessities after the recorded last cases and periods of health assurance; require local permission for other household goods. The order is dated 1 March 1658."
     },
     {
       "id": "trastevere-cordon",
@@ -460,7 +492,6 @@
       "scanPages": [
         259
       ],
-      "translation": "English paraphrase of the plate heading: topography of the enclosed Trastevere district and Tiber Island.",
       "notes": "The PDF preserves the sideways source page in full. Browser images are rotated for reading, with no content removed. The surrounding explanation is on printed pp. 177-178.",
       "pdf": "excerpts/trastevere-cordon.pdf",
       "pdfSha256": "62077015d8a3b3c2b3a97b6bc9f58d993ed1df49acbd465fb6007f71c6ba4a4d",
@@ -479,7 +510,8 @@
       "thumbnail": "excerpts/trastevere-cordon-thumb.webp",
       "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n258/mode/1up",
       "evidenceType": "Primary-source facsimile",
-      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile"
+      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile",
+      "readingGuide": "English paraphrase of the plate heading: topography of the enclosed Trastevere district and Tiber Island."
     }
   ],
   "hero": {

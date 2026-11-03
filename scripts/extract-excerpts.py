@@ -28,6 +28,19 @@ SOURCE_SHA256 = "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a
 
 SELECTIONS = [
     {
+        "id": "co-resident-reporting",
+        "title": "When one co-resident's illness report suffices",
+        "description": "The 24 August 1656 edict reaffirms illness reporting to district notaries and clarifies the exemption from duplicate reporting by co-residents about the same sick person.",
+        "chapterIds": [99],
+        "printedPages": "370",
+        "scanPages": [454],
+        "printed": ["370"],
+        "readingGuide": "English paraphrase: report sick people even without signs or suspicion of contagion. Once one co-resident has reported the sick person, the others need not report that same person again. The edict recalls the 20 June proclamation reproduced in chapter 55.",
+        "notes": "Chapter XCIX begins below the ornament halfway down p. 370 and ends with the signatures Il Card. Sforza and Cesare Rasponi Secr. The text above the ornament belongs to chapter XCVIII. A complete transcription and English working translation are available on the chapter 99 page.",
+        "longEdge": 2000,
+        "thumbnailLongEdge": 680,
+    },
+    {
         "id": "health-passes",
         "title": "Health passes, routes and discriminatory exclusions",
         "description": "Rules for named health certificates, route endorsements, free issuance and forged or transferred documents, followed by explicit exclusions based on social and religious status.",
@@ -35,7 +48,7 @@ SELECTIONS = [
         "printedPages": "278-281",
         "scanPages": [360, 361, 362, 363],
         "printed": ["278", "279", "280", "281"],
-        "translation": "English paraphrase: certificates must identify each traveller and be endorsed along the journey; they must be issued free. Page 281 excludes vagabonds, able-bodied beggars, Roma and Jews even if they hold health papers.",
+        "readingGuide": "English paraphrase: certificates must identify each traveller and be endorsed along the journey; they must be issued free. Page 281 excludes vagabonds, able-bodied beggars, Roma and Jews even if they hold health papers.",
         "notes": "Selected pages from chapter XLIII, not the entire chapter. These status exclusions are historical discriminatory rules, not evidence that the named groups carried infection.",
     },
     {
@@ -46,7 +59,7 @@ SELECTIONS = [
         "printedPages": "297-301",
         "scanPages": [381, 382, 383, 384, 385],
         "printed": ["297", "298", "299", "300", "301"],
-        "translation": "English paraphrase: report household illness promptly, including illness that shows no sign of plague; physicians must provide signed daily returns, and suspected contagion must be reported without waiting until evening.",
+        "readingGuide": "English paraphrase: report household illness promptly, including illness that shows no sign of plague; physicians must provide signed daily returns, and suspected contagion must be reported without waiting until evening.",
         "notes": "The complete pages include the start of the following chapter on p.301. This scan contains an earlier duplicate of pp.297-298; this excerpt uses the continuous sequence at scan pages381-385.",
     },
     {
@@ -57,7 +70,7 @@ SELECTIONS = [
         "printedPages": "417-418",
         "scanPages": [503, 504],
         "printed": ["417", "418"],
-        "translation": "English paraphrase: innkeepers may not seat more than four people at a table. Sick visits are limited to household members and specified necessary religious, clinical, legal and care roles unless permission is obtained.",
+        "readingGuide": "English paraphrase: innkeepers may not seat more than four people at a table. Sick visits are limited to household members and specified necessary religious, clinical, legal and care roles unless permission is obtained.",
         "notes": "The four-person cap applies to tavern tables, not to every gathering in Rome. Chapter CXXVI ends near the top of p.418, which also begins the next tribunal-suspension order.",
     },
     {
@@ -68,7 +81,7 @@ SELECTIONS = [
         "printedPages": "446-447",
         "scanPages": [532, 533],
         "printed": ["446", "447"],
-        "translation": "English paraphrase: owners owe no cleansing fee, and disinfectors may not demand one. The same order retains severe penalties for hiding suspect property and rewards disclosure.",
+        "readingGuide": "English paraphrase: owners owe no cleansing fee, and disinfectors may not demand one. The same order retains severe penalties for hiding suspect property and rewards disclosure.",
         "notes": "Chapter CXLII ends on p.447, where the next order begins. The text combines free service with coercion; it does not establish that every worker complied.",
     },
     {
@@ -79,7 +92,7 @@ SELECTIONS = [
         "printedPages": "532-533",
         "scanPages": [618, 619],
         "printed": ["532", "533"],
-        "translation": "English paraphrase: value belongings before treatment and compensate their owners from community funds for damage, or allow a voluntary sale to the community at the assessed value. Gastaldi supervises cleansing and purchase.",
+        "readingGuide": "English paraphrase: value belongings before treatment and compensate their owners from community funds for damage, or allow a voluntary sale to the community at the assessed value. Gastaldi supervises cleansing and purchase.",
         "notes": "Chapter CCIX begins partway down p.532. Compensation follows an offer by the community's leaders; it should not be described as an unconditional treasury payment to all Romans.",
     },
     {
@@ -90,7 +103,7 @@ SELECTIONS = [
         "printedPages": "581-584",
         "scanPages": [667, 668, 669, 670],
         "printed": ["581", "582", "583", "584"],
-        "translation": "English paraphrase: people who have already spent longer in quarantine should not mix with more recent arrivals. Residents put vessels outside their rooms, withdraw while food is served, and collect it after a signal.",
+        "readingGuide": "English paraphrase: people who have already spent longer in quarantine should not mix with more recent arrivals. Residents put vessels outside their rooms, withdraw while food is served, and collect it after a signal.",
         "notes": "The cohort and meal procedure appears on p.582. The same instructions distinguish accommodation by social rank and provide food tickets for those unable to pay.",
     },
     {
@@ -101,7 +114,7 @@ SELECTIONS = [
         "printedPages": "615-619",
         "scanPages": [701, 702, 703, 704, 705],
         "printed": ["615", "616", "617", "618", "619"],
-        "translation": "English paraphrase: 'dirty' workers perform the initial treatment; 'clean' workers finish the process without mixing with them. The protocol calls for at least fifteen days from the first operation to reoccupation, with specified ventilation and fumigation intervals.",
+        "readingGuide": "English paraphrase: 'dirty' workers perform the initial treatment; 'clean' workers finish the process without mixing with them. The protocol calls for at least fifteen days from the first operation to reoccupation, with specified ventilation and fumigation intervals.",
         "notes": "Chapter CCXLII ends near the top of p.619, followed by another cleansing protocol. This is historical prescription, not current medical or chemical-safety guidance.",
     },
     {
@@ -112,7 +125,7 @@ SELECTIONS = [
         "printedPages": "555-556",
         "scanPages": [641, 642],
         "printed": ["555", "556"],
-        "translation": "English paraphrase: reopen movement of people and specified necessities after the recorded last cases and periods of health assurance; require local permission for other household goods. The order is dated 1 March1658.",
+        "readingGuide": "English paraphrase: reopen movement of people and specified necessities after the recorded last cases and periods of health assurance; require local permission for other household goods. The order is dated 1 March1658.",
         "notes": "Chapter CCXXVII begins partway down p.555. The date on p.556 shows that the documentary sequence extends beyond calendar1657.",
     },
     {
@@ -124,7 +137,7 @@ SELECTIONS = [
         "scanPages": [259],
         "printed": ["179"],
         "rotate": -90,
-        "translation": "English paraphrase of the plate heading: topography of the enclosed Trastevere district and Tiber Island.",
+        "readingGuide": "English paraphrase of the plate heading: topography of the enclosed Trastevere district and Tiber Island.",
         "notes": "The PDF preserves the sideways source page in full. Browser images are rotated for reading, with no content removed. The surrounding explanation is on printed pp.177-178.",
     },
 ]
@@ -217,7 +230,7 @@ def main() -> None:
             if tuple(copied[index].rect) != tuple(original_page.rect):
                 raise RuntimeError("Page geometry differs for " + sid)
             name = sid + "-p" + str(index + 1) + ".webp"
-            width, height = render(original_page, assets / name, 1500, selection.get("rotate", 0))
+            width, height = render(original_page, assets / name, selection.get("longEdge", 1500), selection.get("rotate", 0))
             pages.append({
                 "image": "excerpts/" + name,
                 "printedPage": printed,
@@ -229,8 +242,8 @@ def main() -> None:
             })
         copied.close()
         thumb_name = sid + "-thumb.webp"
-        render(source[selection["scanPages"][0] - 1], assets / thumb_name, 600, selection.get("rotate", 0), quality=78)
-        entry = {k: clean(v) if isinstance(v, str) else v for k, v in selection.items() if k not in {"printed", "rotate"}}
+        render(source[selection["scanPages"][0] - 1], assets / thumb_name, selection.get("thumbnailLongEdge", 600), selection.get("rotate", 0), quality=78)
+        entry = {k: clean(v) if isinstance(v, str) else v for k, v in selection.items() if k not in {"printed", "rotate", "longEdge", "thumbnailLongEdge"}}
         entry.update({
             "pdf": "excerpts/" + sid + ".pdf",
             "pdfSha256": sha256(pdf_path),

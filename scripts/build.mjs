@@ -6,6 +6,26 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const output = path.join(root, 'dist');
 const catalogue = JSON.parse(await fs.readFile(path.join(root, 'data/catalogue.json'), 'utf8'));
 const sources = JSON.parse(await fs.readFile(path.join(root, 'data/excerpts.json'), 'utf8'));
+const editionDirectory = path.join(root, 'data/editions');
+const editionFiles = (await fs.readdir(editionDirectory)).filter(name => /^\d+\.json$/.test(name)).sort((a, b) => Number(a.split('.')[0]) - Number(b.split('.')[0]));
+const editions = {
+  schemaVersion: 1,
+  entries: await Promise.all(editionFiles.map(async name => {
+    const edition = JSON.parse(await fs.readFile(path.join(editionDirectory, name), 'utf8'));
+    return {
+      chapterId: edition.chapterId,
+      path: 'data/editions/' + name,
+      version: edition.version,
+      scope: edition.coverage.scope,
+      documentDate: edition.document.date,
+      transcriptionStatus: edition.review.transcription.status,
+      translationStatus: edition.review.translation.status,
+      humanReviewStatus: edition.review.humanReview.status,
+      segmentCount: edition.segments.length,
+      sourceExcerptId: edition.source.excerptId
+    };
+  }))
+};
 await fs.rm(output, { recursive: true, force: true });
 await fs.mkdir(output, { recursive: true });
 await fs.cp(path.join(root, 'site'), output, { recursive: true });
@@ -13,8 +33,12 @@ await fs.cp(path.join(root, 'public'), output, { recursive: true });
 await fs.mkdir(path.join(output, 'data'), { recursive: true });
 await fs.copyFile(path.join(root, 'data/catalogue.json'), path.join(output, 'data/catalogue.json'));
 await fs.copyFile(path.join(root, 'data/excerpts.json'), path.join(output, 'data/excerpts.json'));
-const serial = JSON.stringify({ catalogue, sources }).replaceAll('<', '\\u003c').replaceAll('\u2028', '\\u2028').replaceAll('\u2029', '\\u2029');
+await fs.mkdir(path.join(output, 'data/editions'), { recursive: true });
+for (const name of editionFiles) await fs.copyFile(path.join(editionDirectory, name), path.join(output, 'data/editions', name));
+await fs.writeFile(path.join(output, 'data/editions/index.json'), JSON.stringify(editions, null, 2) + '\n');
+const serial = JSON.stringify({ catalogue, sources, editions }).replaceAll('<', '\\u003c').replaceAll('\u2028', '\\u2028').replaceAll('\u2029', '\\u2029');
 await fs.writeFile(path.join(output, 'data.js'), 'window.PLAGUE_DATA = ' + serial + ';\n');
 await fs.writeFile(path.join(output, '.nojekyll'), '');
 console.log('Built static wiki: ' + catalogue.chapters.length + ' chapters, ' + catalogue.groups.length + ' groups, ' + sources.excerpts.length + ' PDF excerpts.');
+console.log('Original texts and English translations: ' + editions.entries.length + ' chapter editions, loaded on demand.');
 console.log('Output: ' + output);

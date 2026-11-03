@@ -1,0 +1,481 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 55,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Bando sopra la Sanità",
+    "englishTitle": "Proclamation on public health",
+    "date": "1656-06-20",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "illness-reporting",
+    "printedPages": "297–301",
+    "scanPages": [
+      381,
+      382,
+      383,
+      384,
+      385
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n380/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=381",
+    "editionYear": 1684
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "Chapter LV starts with its heading on printed p.297 (scan381). Its 17 numbered provisions continue through the top of p.301 (scan385), followed by the dateline and the signatures G. Card. Sacchetti and Cesare Rasponi Secr. Chapter LVI starts below the ornament on p.301 and is excluded. No separate publication certificate follows the signatures of chapter LV.",
+    "includes": [
+      "historical heading",
+      "preamble",
+      "all 17 numbered provisions",
+      "all fourteen district reporting offices in §7",
+      "publication and duration terms within §17",
+      "dateline",
+      "both signatures"
+    ],
+    "excluded": [
+      "running headers and printed page numbers",
+      "printer’s ornaments, sheet signatures, and catchwords",
+      "chapter LVI on the lower part of p.301"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription checked against the page images of the 1684 edition. Long s is rendered as s; line-end hyphenation is joined; printer spacing and apostrophes are regularized. Historical spelling, capitalization, u/v usage, and abbreviations are otherwise retained. Ornament, running headers, printed page numbers, sheet signatures, and catchwords are omitted from the transcription but remain visible in the full-page facsimile. The edition reproduces an order dated 1656; this is the text as printed in 1684.",
+  "paragraphPolicy": "The source’s provision numbers 1–17 are retained. Headings, preamble, dateline, and each signature are separate reading segments. Editorial segment labels describe content and are not historical headings. The roster within §7 retains its line divisions. Provisions spanning pages are joined as single segments, with every source page listed.",
+  "segments": [
+    {
+      "id": "ch55-heading",
+      "kind": "heading",
+      "label": "Historical heading",
+      "language": "it",
+      "original": "CAP. LV.\nBANDO\nSOPRA LA SANITA’.",
+      "english": "Chapter 55\nProclamation\nOn public health.",
+      "sourcePages": [
+        381
+      ],
+      "noteIds": []
+    },
+    {
+      "id": "ch55-preamble",
+      "kind": "preamble",
+      "label": "Preamble",
+      "language": "it",
+      "original": "Premendo sempre più la paterna carità, e vigilanza della Santità di Nostro Signore nella salute publica, e volendo però, che si vadano accrescendo le diligenze già ordinate ne’ Bandi precedenti, alli quali non s’intende derogare in alcuna parte col presente Editto, per commissione espressa di Sua Beatitudine si publicano gl’infrascritti Ordini.",
+      "english": "Since the paternal charity and vigilance of His Holiness Our Lord are increasingly concerned with public health, and since he wishes the precautions already ordered in earlier proclamations to be increased, without intending the present edict to derogate from them in any respect, the following orders are published at the express command of His Beatitude.",
+      "sourcePages": [
+        381
+      ],
+      "noteIds": [
+        "ch55-titles"
+      ]
+    },
+    {
+      "id": "ch55-s01",
+      "kind": "provision",
+      "label": "§1 · Reporting illness and the co-resident exception",
+      "language": "it",
+      "original": "1. Affinche con hauersi esatta notitia di tutti gl’Infermi non manchino loro gli aiuti necessarij, e si possa proueder opportunamente à tutto ciò, che appartiene al beneficio publico, si ordina che ogni volta, che si troui qualche amalato in qualsiuoglia Casa, Monastero, ò altro luogo nella Città di Roma, ancorche l’infermità non dia segno, ò sospetto alcuno di mal Contagioso, siano tenuti quelli, che habitano nella medesima Casa, ò Monastero à denunciarlo, ò farlo denunciar subito all’Officio del Notaro destinato à questo fine per ciascun Rione secondo la nota posta nel presente Bando, specificando tutte le notitie, che hauranno delle circostanze, e del tempo dell’infermità, & il nome del Medico, che la cura. Si dichiara però, che quando vno delli detti cohabitanti hauerà data fedelmente, e legitimamente la denuncia, gli altri cohabitanti saranno disobligati dal denunciare il medemo.",
+      "english": "1. So that, through accurate knowledge of all sick people, they may not lack necessary assistance and appropriate provision may be made for everything pertaining to the public benefit, it is ordered that whenever a sick person is found in any house, monastery, or other place in the city of Rome, even if the illness gives no sign or suspicion of contagious disease, those living in the same house or monastery must report that person, or have that person reported, immediately to the office of the notary designated for this purpose for each district, according to the list set out in this proclamation. They must specify all the information they have about the circumstances and timing of the illness, and the name of the physician treating it. It is nevertheless declared that when one of those co-residents has made the report faithfully and lawfully, the other co-residents shall be released from reporting the same person.",
+      "sourcePages": [
+        381
+      ],
+      "noteIds": [
+        "ch55-reporting",
+        "ch55-medemo"
+      ]
+    },
+    {
+      "id": "ch55-s02",
+      "kind": "provision",
+      "label": "§2 · Reporting the dead",
+      "language": "it",
+      "original": "2. Si ordina parimente, che nello stesso modo, e forma si debbano denunciar li morti.",
+      "english": "2. It is likewise ordered that the dead must be reported in the same manner and form.",
+      "sourcePages": [
+        381
+      ],
+      "noteIds": []
+    },
+    {
+      "id": "ch55-s03",
+      "kind": "provision",
+      "label": "§3 · Cleansing expenses and compensation",
+      "language": "it",
+      "original": "3. E per riconoscere la fede, & obedienza di quelli, che saranno puntuali nel dar le dette denuncie, come sopra, à questi si pagherà intieramente la spesa, che occorresse fare per l’espurgatione delle loro robbe, ò il prezzo delle robbe stesse, quando il caso portasse, che Dio non voglia, che hauessero ad abbruciarsi.",
+      "english": "3. And in recognition of the faithfulness and obedience of those who are punctual in making the aforesaid reports, as above, they shall be paid in full the expense that may need to be incurred for cleansing their belongings, or the value of the belongings themselves if circumstances should require, God forbid, that they be burned.",
+      "sourcePages": [
+        381,
+        382
+      ],
+      "noteIds": [
+        "ch55-cleansing"
+      ]
+    },
+    {
+      "id": "ch55-s04",
+      "kind": "provision",
+      "label": "§4 · Clergy reports and burial permission",
+      "language": "it",
+      "original": "4. Si comanda di più alli Parochi, Vicarij, ò altri, che sotto qualsiuoglia titolo habbiano cura d’anime, che debbano dar subito all’Officio del detto Notaro, come sopra, la denuncia nello stesso modo degl’infermi, e morti, che sono, ò che per l’auuenire saranno nella lor Parochia, ancorche sappiano, che da altri siano già stati denunciati. E di più si comanda alli medesimi, & alli Beccamorti, & à qualsiuoglia altra persona, che non dia sepoltura, nè permetta, ò faccia sepelire alcun cadauero, se prima non hauerà la licenza in scritto di Monsig. Riualdi.",
+      "english": "4. Parish priests, vicars, and others who under any title have the care of souls are further commanded to report immediately to the office of the aforesaid notary, as above and in the same manner, the sick and the dead who are now, or will in future be, in their parish, even if they know that others have already reported them. The same persons, undertakers, and any other person are further commanded not to bury, permit the burial of, or cause any corpse to be buried without first obtaining written permission from Monsignor Riualdi.",
+      "sourcePages": [
+        382
+      ],
+      "noteIds": [
+        "ch55-clergy",
+        "ch55-names"
+      ]
+    },
+    {
+      "id": "ch55-s05",
+      "kind": "provision",
+      "label": "§5 · Physicians’ daily returns and urgent reports",
+      "language": "it",
+      "original": "5. Si vuole in oltre, che oltre le dette denuncie li Medici diano, ò mandino all’Officio del detto Notaro ogni sera nota sottoscritta degli amalati, che hauranno visitati quel giorno, ancorche delli medesimi amalati habbiano già data nota ne’ giorni precedenti, & in dette note specificheranno le circostanze del male. E quando il Medico giudicherà, che l’infermità possa esser sospetta di Contagio, in tal caso dourà darne la denuncia subito senza aspettar la sera.",
+      "english": "5. It is further required that, in addition to these reports, physicians give or send to the office of the aforesaid notary every evening a signed list of the sick whom they have visited that day, even if they have already submitted lists of those same patients on previous days. In those lists they shall specify the circumstances of the illness. When a physician judges that an illness may be suspected of contagion, the physician must report it immediately, without waiting until evening.",
+      "sourcePages": [
+        382
+      ],
+      "noteIds": []
+    },
+    {
+      "id": "ch55-s06",
+      "kind": "provision",
+      "label": "§6 · Hospital patients and the hospital household",
+      "language": "it",
+      "original": "6. Si dichiara però, che in tutti li precedenti capitoli circa l’obligo di denunciare gl’infermi, ò morti, non si comprendano gli amalati, ò morti negli Hospedali, purchè non diano sospetto di male pestilentiale. Mà si dourà ben denunciare, come si è ordinato ne’ detti capitoli precedenti, quando ne gli Hospedali si amali alcun seruente, ò altro della famiglia dell’Hospital medesimo.",
+      "english": "6. It is nevertheless declared that the sick or deceased in hospitals are not included in any of the preceding provisions concerning the duty to report the sick or the dead, provided their cases give rise to no suspicion of pestilential disease. But notification must indeed be made, as ordered in the preceding provisions, when any servant or other member of a hospital’s household falls ill in the hospital.",
+      "sourcePages": [
+        382
+      ],
+      "noteIds": [
+        "ch55-hospital",
+        "ch55-capitolo"
+      ]
+    },
+    {
+      "id": "ch55-s07",
+      "kind": "provision",
+      "label": "§7 · District reporting offices",
+      "language": "it",
+      "original": "7. Gli amalati, ò morti del Rione de’ Monti si douranno denunciare all’Officio del Marchetti à Tor de’ Conti.\nDi quel di Treui all’Arrigone vicino alla Fontana di Treui.\nDi quel di Colonna al Tenaglino vicino Piazza Colonna.\nDi quel di Campo Marzo all’Antonetti sotto Cecchini.\nDi quel di Ponte al Rubino Notaro di Camera in Banchi.\nDi quel di Parione al Tribunale di Monsig. Gouernatore.\nDi quel della Regola al successore del Vespignano alli Giupponari.\nDi quel di S. Eustachio al Moro incontro alla Chiesa di S. Eustachio.\nDi quello di Campitello al Bonanni all’Olmo.\nDi quel della Pigna al Massari incontro a’ Madaleni.\nDi quel di S. Angelo al Cozzardi à Piazza Giudea.\nDi quel di Ripa al Costantini incontro Tor de’ Specchi.\nDi quel di Trasteuere al successor del Decio nella Piazzetta di Ponte Sisto.\nDi quello di Borgo al Notaro di Borgo.",
+      "english": "7. Sick or deceased people in the Monti district must be reported to Marchetti’s office at Tor de’ Conti.\nThose in Treui, to Arrigone near the Treui fountain.\nThose in Colonna, to Tenaglino near Piazza Colonna.\nThose in Campo Marzo, to Antonetti below Cecchini.\nThose in Ponte, to Rubino, notary of the Chamber, in Banchi.\nThose in Parione, to the tribunal of Monsignor the Governor.\nThose in Regola, to Vespignano’s successor at the Giupponari.\nThose in S. Eustachio, to Moro opposite the church of S. Eustachio.\nThose in Campitello, to Bonanni at the Olmo.\nThose in Pigna, to Massari opposite the Madaleni.\nThose in S. Angelo, to Cozzardi at Piazza Giudea.\nThose in Ripa, to Costantini opposite Tor de’ Specchi.\nThose in Trasteuere, to Decio’s successor in the Piazzetta di Ponte Sisto.\nThose in Borgo, to the notary of Borgo.",
+      "sourcePages": [
+        382,
+        383
+      ],
+      "noteIds": [
+        "ch55-names",
+        "ch55-roster"
+      ]
+    },
+    {
+      "id": "ch55-s08",
+      "kind": "provision",
+      "label": "§8 · Removing or receiving belongings",
+      "language": "it",
+      "original": "8. Si comanda di più, che alcuna persona non ardisca di leuare, ò far leuare qualsiuoglia robba da alcuna Casa, Monastero, ò altro luogo, oue sia, ò sia stato per dieci giorni auanti alcun amalato, ò morto, senza licenza in scritto di Monsignor Riualdi, ancorche il male non sia stato sospetto di Contagio, & ancorche le robbe fussero scritture, metallo, danari, gioie, ò qualsiuoglia robba anco non soggetta à riceuer qualità Contagiosa, & ancorche fussero cose proprie della persona, che tentasse di leuarle, e che si leuassero per qualsiuoglia poco tempo, anco per riportarle subito. Si vuole parimente, che alcuno non ardisca di riceuere, ò ritener le robbe leuate contro la dispositione del presente Capitolo.",
+      "english": "8. It is further commanded that no person dare to remove, or have removed, any belongings from any house, monastery, or other place where a sick or dead person is present, or has been present during the preceding ten days, without written permission from Monsignor Riualdi. This applies even if the illness was not suspected of contagion; even if the items are papers, metal, money, jewels, or any other property not susceptible to acquiring a contagious quality; even if they belong to the person attempting to remove them; and even if they are removed for only a very short time, with the intention of returning them immediately. It is likewise required that no one dare to receive or retain belongings removed contrary to this provision.",
+      "sourcePages": [
+        383
+      ],
+      "noteIds": [
+        "ch55-ten-days",
+        "ch55-contagious-quality",
+        "ch55-capitolo",
+        "ch55-names"
+      ]
+    },
+    {
+      "id": "ch55-s09",
+      "kind": "provision",
+      "label": "§9 · Houses closed on health grounds",
+      "language": "it",
+      "original": "9. Mà con maggior rigore si procederà contro quelli, che leuassero, ò facessero leuare alcuna cosa, come sopra, dalle Case serrate per causa della Sanità, ò entrassero in esse, ancorche in esse non sia, ò sia stato alcun amalato, ò morto; nè potrà alcun pretendere ignoranza, che la Casa sia chiusa per causa di Sanità, quando vi sia scritta questa parola SANITA’.",
+      "english": "9. But proceedings shall be taken with greater severity against those who remove, or have removed, anything as above from houses closed on health grounds, or who enter them, even if no sick or dead person is or has been in them. No one may plead ignorance that a house is closed on health grounds when the word SANITA’ (“HEALTH”) is written on it.",
+      "sourcePages": [
+        383
+      ],
+      "noteIds": []
+    },
+    {
+      "id": "ch55-s10",
+      "kind": "provision",
+      "label": "§10 · Household visits and changes of residence",
+      "language": "it",
+      "original": "10. E perche si sono deputati diuersi Gentilhuomini per la visita de’ Quartieri, ò Parocchie della Città, affinche colla notitia, che si haurà dello stato, e bisogno di ciascuna famiglia, e persona si possa prouederui, e soccorrere più opportunamente, e sarà però necessario, che ciascun deputato sappia quelli, che partono da qualsiuoglia Casa posta nel Quartiero, ò Parocchia assegnata alla di lui visita; si ordina, che quelli, che muteranno Case, debbano prima denunciarlo al Deputato della Parocchia, ò Quartiero oue stà la Casa, dalla quale pensa partire.",
+      "english": "10. Because various gentlemen have been appointed to visit the quarters or parishes of the city, so that knowledge of the circumstances and needs of each household and person may enable more appropriate provision and assistance, and because it will therefore be necessary for each appointed officer to know who is leaving any house in the quarter or parish assigned to his visitation, it is ordered that those who move house must first notify the appointed officer of the parish or quarter in which the house they intend to leave is situated.",
+      "sourcePages": [
+        383
+      ],
+      "noteIds": []
+    },
+    {
+      "id": "ch55-s11",
+      "kind": "provision",
+      "label": "§11 · Truthful information to visiting officers",
+      "language": "it",
+      "original": "11. E si ordina di più, che alcuno non lasci di manifestar gl’infermi, ò le infermità, nè in ciò, nè in altro dia alcuna cosa falsa alli detti Deputati, ò à quelli, che saranno mandati da essi per la detta visita; mà che ogni vno dia fedelmente tutta la notitia, che saprà della qualità, e del tempo del male.",
+      "english": "11. It is further ordered that no one fail to disclose sick persons or illnesses, nor give the aforesaid appointed officers, or those sent by them to conduct that visitation, any false information, either on this or on any other matter. Everyone must truthfully provide all the information they know about the nature and timing of the illness.",
+      "sourcePages": [
+        383
+      ],
+      "noteIds": []
+    },
+    {
+      "id": "ch55-s12",
+      "kind": "provision",
+      "label": "§12 · Illness in inns and lodgings",
+      "language": "it",
+      "original": "12. A gli Osti, Camere locande, e Bettolieri si ordina, che non possino senza licenza di Monsignor Riualdi riceuere alcuno, che vi venga amalato, e di quelli, che dopo esser riceuuti sani si amalassero nell’Hosteria, ne diano subito denuncia, come sopra.",
+      "english": "12. Innkeepers, lodging establishments, and tavern keepers are ordered not to receive anyone who arrives ill without permission from Monsignor Riualdi. Those who fall ill in the inn after being received in good health must be reported immediately, as above.",
+      "sourcePages": [
+        383
+      ],
+      "noteIds": [
+        "ch55-lodgings",
+        "ch55-names"
+      ]
+    },
+    {
+      "id": "ch55-s13",
+      "kind": "provision",
+      "label": "§13 · Changes of name",
+      "language": "it",
+      "original": "13. E se bene già è prohibito per altri Bandi il mutarsi nome, nondimeno perche ciò richiede particolar prouedimento nelle presenti congiunture, si ordina, che alcuno in Roma, e suo distretto non si muti nome, ò non si vaglia della detta mutatione, ò in voce, ò in scritto sotto tutte le pene contenute nel presente Bando.",
+      "english": "13. Although changing one’s name is already prohibited by other proclamations, because this requires particular provision in the present circumstances it is ordered that no one in Rome and its district change their name or avail themselves of such a change, either orally or in writing, under all the penalties contained in this proclamation.",
+      "sourcePages": [
+        384
+      ],
+      "noteIds": []
+    },
+    {
+      "id": "ch55-s14",
+      "kind": "provision",
+      "label": "§14 · Gates, walls, and river access",
+      "language": "it",
+      "original": "14. Si riduce à memoria la prohibitione posta nel Bando di Monsignor Gouernatore di entrare, ò vscire nella Città di Roma per altri luoghi, che per le Porte publiche sotto pena della vita, e confiscatione de’ beni. La qual prohibitione, e pena si estende à quelli, ch’entrassero, ò che stando dentro, ò fuori della Città introducessero, ò tentassero d’introdurre lettere, ò qualsiuoglia sorte di cose in Roma per le mura della medesima, ò per quelle Porte, che per li correnti sospetti si terranno serrate, ò pure per qualsiuoglia altra Porta in quell’hora, che la medesima si tiene chiusa da gli Officiali, e con la medesima prohibitione si comprendono quelle persone, ch’entrassero, ò introducessero lettere, ò qualsiuoglia cosa per Fiume senza, che la riconoscano gli Officiali à ciò deputati.",
+      "english": "14. Reminder is given of the prohibition in Monsignor the Governor’s proclamation against entering or leaving the city of Rome anywhere other than through the public gates, on pain of death and confiscation of goods. The same prohibition and penalty extend to those who enter, or who, whether inside or outside the city, bring or attempt to bring letters or things of any kind into Rome by way of its walls, through gates that are kept shut because of the current suspicions, or through any other gate at a time when the officials keep it closed. The same prohibition also covers persons who enter, or bring letters or anything else, by river without inspection by the officials appointed for that purpose.",
+      "sourcePages": [
+        384
+      ],
+      "noteIds": [
+        "ch55-penalties"
+      ]
+    },
+    {
+      "id": "ch55-s15",
+      "kind": "provision",
+      "label": "§15 · Penalties, proceedings, and informers’ shares",
+      "language": "it",
+      "original": "15. E perche si preme, che il presente Editto venga inuiolabilmente osseruato, si dichiara, che qualsiuoglia persona, che vi contrauerrà in parte alcuna, anco con semplice omissione, ò sarà complice di qualsiuoglia trasgressione, incorrerà irremissibilmente nella pena della Galera, & altre anco corporali, e della vita, e confiscatione de’ beni ad arbitrio della Congregatione della Sanità, e si procederà ex officio, e per inquisitione, e che all’accusatore si applicherà la terza parte della detta confiscatione. E quanto alli Parochi, ò Vicarij, se non osserueranno le cose contenute nel Capitolo 4. del presente Editto, incorreranno nella pena della priuatione de’ Beneficij, oltre le sudette pene.",
+      "english": "15. Because it is desired that this edict be observed without violation, it is declared that anyone who contravenes any part of it, even by mere omission, or is an accomplice in any transgression, shall be liable, without remission, to the galleys and other penalties, including corporal penalties, death, and confiscation of goods, at the discretion of the Congregation of Health. Proceedings shall take place on the authorities’ own initiative and by formal inquiry, and the accuser shall be awarded one third of the aforesaid confiscation. As for parish priests or vicars, if they do not observe the provisions contained in §4 of this edict, they shall incur deprivation of their benefices in addition to the aforesaid penalties.",
+      "sourcePages": [
+        384
+      ],
+      "noteIds": [
+        "ch55-penalties",
+        "ch55-legal-terms",
+        "ch55-capitolo"
+      ]
+    },
+    {
+      "id": "ch55-s16",
+      "kind": "provision",
+      "label": "§16 · Reporting others’ noncompliance",
+      "language": "it",
+      "original": "16. Et in tutte le sudette pene incorreranno quelli, che hauendo notitia d’alcuna trasgressione, ò mancamento d’altri circa l’osseruanza del presente Bando non ne daranno subito notitia à Monsig. Gouernatore.",
+      "english": "16. And all the aforesaid penalties shall apply to those who, knowing of another person’s transgression or failure to observe this proclamation, do not immediately inform Monsignor the Governor.",
+      "sourcePages": [
+        384
+      ],
+      "noteIds": [
+        "ch55-penalties"
+      ]
+    },
+    {
+      "id": "ch55-s17",
+      "kind": "provision",
+      "label": "§17 · Persons bound, commencement, and duration",
+      "language": "it",
+      "original": "17. Si dichiara in oltre per ordine espresso di Nostro Signore, che al presente Bando, & à tutte le pene poste in esso soggiaceranno le persone Ecclesiastiche, anco Regolari, e constituite in dignità, e priuilegio tale, che fusse necessario farne special mentione, e che alle Donne, & alli minori, quando non prouino d’esser minori di quattordici anni, il sesso, ò la minorità non suffragherà per la diminutione delle dette pene, come se commettessero delitto atrocissimo, e di lesa Maestà, e che il presente Bando publicato nelli luoghi soliti habbia da osseruarsi inuiolabilmente, passate vintiquattro hore dopo la publicatione, come se fusse stato intimato personalmente à qualsiuoglia persona, e durerà per tutto il tempo solamente, che si terranno le guardie alle Porte per sospetto di Contagio, quali leuate s’intenda riuocato.",
+      "english": "17. It is further declared, by the express command of Our Lord, that ecclesiastical persons shall be subject to this proclamation and all the penalties set out in it, including members of religious orders and persons holding a dignity or privilege such that special mention would be necessary. For women and minors, unless they prove that they are under fourteen years old, sex or minority shall not serve to reduce those penalties, as though they had committed an extremely grave offence and lèse-majesté. Once published in the customary places, this proclamation must be observed without violation after twenty-four hours have elapsed from its publication, as though it had been personally served on every person. It shall remain in force only for as long as guards are maintained at the gates because of suspicion of contagion; when those guards are removed, it shall be understood to be revoked.",
+      "sourcePages": [
+        384,
+        385
+      ],
+      "noteIds": [
+        "ch55-titles",
+        "ch55-persons",
+        "ch55-duration"
+      ]
+    },
+    {
+      "id": "ch55-date",
+      "kind": "dateline",
+      "label": "Dateline",
+      "language": "it",
+      "original": "Dato in Roma 20. Giugno 1656.",
+      "english": "Given in Rome on 20 June 1656.",
+      "sourcePages": [
+        385
+      ],
+      "noteIds": [
+        "ch55-date"
+      ]
+    },
+    {
+      "id": "ch55-sacchetti",
+      "kind": "signature",
+      "label": "First signature",
+      "language": "it",
+      "original": "G. Card. Sacchetti.",
+      "english": "G., Cardinal Sacchetti.",
+      "sourcePages": [
+        385
+      ],
+      "noteIds": []
+    },
+    {
+      "id": "ch55-rasponi",
+      "kind": "signature",
+      "label": "Secretary’s signature",
+      "language": "it",
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "sourcePages": [
+        385
+      ],
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch55-titles",
+      "type": "translation",
+      "text": "Nostro Signore, Sua Beatitudine, and the reference to His Holiness are papal honorifics. The translation retains their formal character; Our Lord here refers to the pope."
+    },
+    {
+      "id": "ch55-reporting",
+      "type": "context",
+      "text": "Chapter 99 expressly recalls the proclamation of 20 June. The requirements of immediate reporting and specified information, and the faithfully and lawfully condition on a co-resident’s report, are explicit here in §1. Chapter 99 does not repeat every one of these details."
+    },
+    {
+      "id": "ch55-medemo",
+      "type": "transcription",
+      "text": "The printed word at the end of §1 reads medemo, an older form corresponding here to medesimo. It is retained in the transcription and translated as the same person."
+    },
+    {
+      "id": "ch55-cleansing",
+      "type": "translation",
+      "text": "Espurgatione is rendered as cleansing, referring to the historical treatment of belongings. This clause promises payment of the treatment expense or the value of belongings burned; it does not itself establish that payment was made."
+    },
+    {
+      "id": "ch55-clergy",
+      "type": "context",
+      "text": "The release from duplicate reporting in §1 applies to co-residents reporting the same person. §4 expressly keeps the clergy’s reporting duty even after others have reported. §5 separately requires physicians’ recurring returns."
+    },
+    {
+      "id": "ch55-names",
+      "type": "translation",
+      "text": "Personal names and addresses are retained in the source’s spelling, including Riualdi, Treui, Campitello, and Trasteuere. The translation does not silently identify these addresses with modern buildings or expand abbreviated personal names. Monsig. is expanded as Monsignor."
+    },
+    {
+      "id": "ch55-hospital",
+      "type": "translation",
+      "text": "Famiglia dell’Hospital means the hospital’s household or establishment, including its servants; it is not translated as a patient’s family. The exception for ordinary hospital cases is qualified by suspicion of pestilential disease, while illness among the hospital household remains reportable."
+    },
+    {
+      "id": "ch55-capitolo",
+      "type": "translation",
+      "text": "Capitolo and capitoli within this proclamation refer to its numbered provisions, not to chapters of Gastaldi’s book. In particular Capitolo 4 in §15 refers to §4 above."
+    },
+    {
+      "id": "ch55-roster",
+      "type": "transcription",
+      "text": "The roster has fourteen district entries. The Pigna notary’s name is read as Massari (the two long-s letters can be misread by OCR); the location is printed a’ Madaleni. The historical names Tenaglino, Vespignano, Cozzardi, and Costantini are retained."
+    },
+    {
+      "id": "ch55-ten-days",
+      "type": "translation",
+      "text": "Per dieci giorni auanti in §8 is rendered as during the preceding ten days, a retrospective condition on the premises from which belongings are removed. The wording does not itself prescribe a ten-day personal quarantine."
+    },
+    {
+      "id": "ch55-contagious-quality",
+      "type": "translation",
+      "text": "Qualità Contagiosa preserves the source’s language about an item’s capacity to acquire contagion. The broad prohibition extends even to items that the edict describes as not susceptible to it."
+    },
+    {
+      "id": "ch55-lodgings",
+      "type": "translation",
+      "text": "Camere locande literally denotes rooms or lodgings for hire. Lodging establishments renders the addressee in the list of operators and premises; no modern hotel category is implied."
+    },
+    {
+      "id": "ch55-penalties",
+      "type": "context",
+      "text": "These clauses prescribe or threaten penalties. They do not establish that a particular penalty was imposed in practice. §15 expressly places the penalties at the discretion of the Congregation of Health."
+    },
+    {
+      "id": "ch55-legal-terms",
+      "type": "translation",
+      "text": "Galera is rendered as the galleys. Ex officio and per inquisitione are rendered as proceedings on the authorities’ own initiative and by formal inquiry; the phrase does not name the ecclesiastical Holy Office. Beneficij means ecclesiastical benefices, not benefits in the modern general sense."
+    },
+    {
+      "id": "ch55-persons",
+      "type": "translation",
+      "text": "Regolari denotes members of religious orders. The wording about women and minors withholds mitigation on grounds of sex or minority, subject to proof of being under fourteen; it should not be paraphrased as an unqualified exemption from every obligation for children. Lesa Maestà is rendered as lèse-majesté, an offence against sovereign authority."
+    },
+    {
+      "id": "ch55-duration",
+      "type": "context",
+      "text": "The promulgation and sunset provisions are part of §17: effect follows twenty-four hours after publication, and duration is tied to guards being maintained at the gates because of suspicion of contagion. This is not a separate certificate that the act of publication occurred."
+    },
+    {
+      "id": "ch55-date",
+      "type": "transcription",
+      "text": "The printed dateline was checked in the image and reads 20 June 1656. The embedded OCR can misread the day as 10."
+    }
+  ],
+  "relations": [
+    {
+      "chapterId": 99,
+      "kind": "clarified-by",
+      "label": "Reaffirmed and clarified by the edict of 24 August 1656",
+      "segmentIds": [
+        "ch55-s01",
+        "ch55-s04",
+        "ch55-s05"
+      ]
+    }
+  ],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "AI-prepared reading transcription compared with all five page images, including boundaries, the district roster, date, and signatures."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation of the transcribed chapter; specialist review pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the complete paired reading transcription and English working translation from the page images; recorded source boundaries and specific editorial notes."
+      },
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistants",
+        "action": "A second AI assistant compared all 22 paired segments against the five page images, with an additional AI comparison of printed pages 299–301. Rechecked the §11 verb dia and the lowercase prouedimento in §13 at enlarged scale. No human or specialist review has yet occurred."
+      }
+    ]
+  }
+}

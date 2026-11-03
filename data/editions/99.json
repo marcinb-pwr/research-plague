@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 99,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "EDITTO. Sopra la denuncia degl’ Infermi.",
+    "englishTitle": "Edict on reporting the sick",
+    "date": "1656-08-24",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "co-resident-reporting",
+    "printedPages": "370",
+    "scanPages": [
+      454
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "Chapter XCIX occupies the lower half of printed page 370, below the ornament. The upper half continues chapter XCVIII. Chapter XCIX ends after the signatures of Cardinal Sforza and Cesare Rasponi; chapter C begins on the following printed page, 371. The complete source page is retained in the facsimile.",
+    "includes": [
+      "chapter heading",
+      "edict title",
+      "complete operative text",
+      "dateline",
+      "both signatures"
+    ],
+    "excluded": [
+      "The continuation of chapter XCVIII above the ornament, including its amnesty and publication formula.",
+      "The running header, printed page number, ornamental border and final catchword CAP."
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription compared with the page image. Long s is rendered as s; line-end hyphenation is joined; printer spacing and apostrophes are regularized. Historical spellings, including qualsiuoglia, vno, hauerà, habitanti, publicato and disobligati, are retained. Abbreviations remain as printed in the Italian transcription and are expanded in the English translation. No words have been supplied to repair missing text.",
+  "paragraphPolicy": "The source prints the operative text and dateline as one paragraph. The passage labels and division into reporting duty, clarification and dateline below are editorial aids for comparing the languages; they are not numbered provisions in the original.",
+  "segments": [
+    {
+      "id": "ch99-heading",
+      "kind": "heading",
+      "label": "Historical heading",
+      "language": "it",
+      "original": "CAP. XCIX.\nEDITTO\nSopra la denuncia degl’ Infermi.",
+      "english": "Chapter 99\nEdict\nOn reporting the sick",
+      "sourcePages": [
+        454
+      ],
+      "noteIds": [
+        "ch99-edition"
+      ]
+    },
+    {
+      "id": "ch99-p1",
+      "kind": "provision",
+      "label": "Reporting duty",
+      "language": "it",
+      "original": "Si riduce à memoria di qualsiuoglia persona l’ordine dato col Bando publicato sotto li 20. Giugno prossimo passato, che quando si scuopra in alcuna Casa, Monastero, ò altro luogo nella Città di Roma alcun’Infermo, ancorche l’infermità non dia segno, ò sospetto alcuno di Contagio, debbano li habitanti, e coabitanti denunciarlo al Notaro del Rione.",
+      "english": "Everyone is reminded of the order given in the proclamation published on 20 June last: whenever a sick person is discovered in any house, monastery, or other place in the city of Rome, even though the illness gives no sign or suspicion of contagion, the residents and co-residents must report that person to the district notary.",
+      "sourcePages": [
+        454
+      ],
+      "noteIds": [
+        "ch99-earlier-order",
+        "ch99-reporting-terms"
+      ]
+    },
+    {
+      "id": "ch99-p2",
+      "kind": "provision",
+      "label": "Co-resident exception and penalties",
+      "language": "it",
+      "original": "Dichiarando, che quando vno delli detti coabitanti hauerà date le denuncie, gli altri coabitanti saranno disobligati dal denunciare il medesimo, si come s’è ordinato nel Bando sudetto, alle cui pene si procederà irremissibilmente contro li trasgressori.",
+      "english": "It is clarified that when one of those co-residents has submitted the reports, the other co-residents are released from the obligation to report the same person, as was ordered in the aforesaid proclamation. The penalties prescribed in that proclamation are to be applied to offenders without remission.",
+      "sourcePages": [
+        454
+      ],
+      "noteIds": [
+        "ch99-same-person",
+        "ch99-reporting-terms",
+        "ch99-penalties"
+      ]
+    },
+    {
+      "id": "ch99-date",
+      "kind": "dateline",
+      "label": "Date and place",
+      "language": "it",
+      "original": "Dat. in Roma li 24. Agosto 1656.",
+      "english": "Given in Rome on 24 August 1656.",
+      "sourcePages": [
+        454
+      ],
+      "noteIds": []
+    },
+    {
+      "id": "ch99-signature-sforza",
+      "kind": "signature",
+      "label": "First signature",
+      "language": "it",
+      "original": "Il Card. Sforza.",
+      "english": "Cardinal Sforza.",
+      "sourcePages": [
+        454
+      ],
+      "noteIds": []
+    },
+    {
+      "id": "ch99-signature-rasponi",
+      "kind": "signature",
+      "label": "Second signature",
+      "language": "it",
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "sourcePages": [
+        454
+      ],
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch99-edition",
+      "type": "context",
+      "text": "This is the Italian text printed in Gastaldi’s 1684 edition, reproducing an edict dated 24 August 1656. The heading and substantive text are Italian; CAP. and Dat. are conventional abbreviated formulae. The facsimile documents this printed edition rather than an independently authenticated 1656 broadside."
+    },
+    {
+      "id": "ch99-earlier-order",
+      "type": "context",
+      "text": "The proclamation of 20 June 1656 expressly recalled here is reproduced in chapter 55. Its §1, printed page 297 (scan 381), requires immediate reporting, specified information about the illness and the physician, and a faithful and lawful report for the co-resident exemption. Those details are not repeated in chapter 99. The earlier proclamation’s date appears on printed page 301 (scan 385)."
+    },
+    {
+      "id": "ch99-reporting-terms",
+      "type": "translation",
+      "text": "Denunciare is rendered as “report”: it denotes an official notification here, rather than necessarily an accusation. Denuncie is plural in the printed second sentence. Rione is rendered as “district”; Notaro del Rione identifies the district notary who receives the notification."
+    },
+    {
+      "id": "ch99-same-person",
+      "type": "translation",
+      "text": "Il medesimo (“the same person”) refers back to the sick person. The exemption concerns other co-residents reporting that same person; it does not discharge all future reporting duties or the separate duties of clergy and physicians. Chapter 55, §4, expressly requires clergy to report even when someone else has already reported the case."
+    },
+    {
+      "id": "ch99-penalties",
+      "type": "translation",
+      "text": "Irremissibilmente is rendered as “without remission.” The edict invokes the earlier proclamation’s penalties without restating them. This is a threat of enforcement in the prescribed rule, not evidence that the penalties were imposed in every case."
+    }
+  ],
+  "relations": [
+    {
+      "chapterId": 55,
+      "kind": "reaffirms",
+      "label": "Reaffirms the proclamation of 20 June 1656",
+      "segmentIds": [
+        "ch99-p1",
+        "ch99-p2"
+      ]
+    }
+  ],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "AI-prepared transcription compared with the complete chapter on the page image."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "English working translation checked against the Italian reading transcription; specialist review pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-03",
+        "actor": "AI assistant",
+        "action": "Located the complete chapter, checked its beginning and ending against scans 454–455, prepared the Italian reading transcription and working English translation, and checked the explicit reference to chapter 55."
+      },
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Compared the reading again with scan 454; divided the single printed paragraph into labelled comparison passages; retained the full dateline and both signatures; recorded source boundaries, transcription policy and translation notes."
+      }
+    ]
+  }
+}

@@ -2,7 +2,7 @@
 
 ## Where to edit
 
-Edit `data/catalogue.json` for chapter summaries, grouping, related chapters, glossary terms and general counsel. Edit `data/excerpts.json` when adding or correcting a source extract. Keep changes to HTML, styling and interactions in `site/`.
+Edit `data/catalogue.json` for chapter summaries, grouping, related chapters, glossary terms and general counsel. Edit `data/excerpts.json` when adding or correcting a source extract. Add original text and paired English translations in `data/editions/<chapter-id>.json`, following [the edition workflow and data contract](docs/EDITIONS.md). Keep changes to HTML, styling and interactions in `site/`.
 
 Rebuild and validate after changes:
 
@@ -12,6 +12,8 @@ npm test
 ```
 
 Do not edit generated `dist/` files directly.
+
+The build derives the edition index from the individual edition files. Do not maintain a separate handwritten coverage count. Excerpt `readingGuide` fields are paraphrases; reserve edition segment `english` fields for translations of the corresponding `original` text.
 
 ## Editorial rules
 

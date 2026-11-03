@@ -18,6 +18,9 @@ const digest=bytes=>crypto.createHash("sha256").update(bytes).digest("hex");
 
 const catalogue=await readJSON("data/catalogue.json");
 const excerpts=await readJSON("data/excerpts.json");
+const editionNames=(await fs.readdir(path.join(root,"data/editions"))).filter(name=>/^\d+\.json$/.test(name));
+const editionDocuments=await Promise.all(editionNames.map(name=>readJSON("data/editions/"+name)));
+const editionByChapter=new Map(editionDocuments.map(e=>[e.chapterId,e]));
 check(Array.isArray(catalogue.chapters),"chapters must be an array");
 check(Array.isArray(catalogue.groups),"groups must be an array");
 const chapters=catalogue.chapters||[];
@@ -77,6 +80,8 @@ for(const e of excerpts.excerpts||[]){
  const label="Excerpt "+e.id;
  check(/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(e.id),label+" has invalid ID");
  check(nonempty(e.title)&&nonempty(e.description),label+" lacks context");
+ check(nonempty(e.readingGuide),label+" needs an explicitly named reading guide");
+ check(!Object.hasOwn(e,"translation"),label+" must not label a paraphrase as translation");
  check(Array.isArray(e.chapterIds)&&e.chapterIds.length>0&&e.chapterIds.every(n=>Number.isInteger(n)&&n>=1&&n<=261),label+" has invalid original chapter references");
  check(nonempty(e.printedPages),label+" lacks printed pagination");
  check(Array.isArray(e.scanPages)&&e.scanPages.length>0&&e.scanPages.every(n=>Number.isInteger(n)&&n>=1&&n<=997),label+" has invalid PDF scan pages");
@@ -95,6 +100,52 @@ for(const e of excerpts.excerpts||[]){
  }
  await localAsset(e.thumbnail,label+" thumbnail");
 }
+const reviewStates=new Set(["ai-draft","ai-checked","human-reviewed"]);
+const passageKinds=new Set(["heading","preamble","provision","dateline","signature","publication"]);
+check(unique(editionDocuments.map(e=>e.chapterId)),"Duplicate full-text edition chapter IDs");
+for(let i=0;i<editionDocuments.length;i++){
+ const e=editionDocuments[i],label="Edition "+e.chapterId+": ";
+ check(e.schemaVersion===1,label+"unsupported schema version");
+ check(chapterIds.has(e.chapterId)&&editionNames[i]===e.chapterId+".json",label+"chapter ID and filename must resolve to the same catalogue chapter");
+ check(/^\d+\.\d+\.\d+$/.test(e.version||""),label+"missing editorial version");
+ check(nonempty(e.document?.originalTitle)&&nonempty(e.document?.englishTitle),label+"missing historical/translated title");
+ check(Array.isArray(e.document?.languages)&&e.document.languages.length>0,label+"missing source languages");
+ check(e.document?.date===null||/^\d{4}-\d{2}-\d{2}$/.test(e.document?.date||""),label+"document date must be ISO or null");
+ check(["complete-chapter","selected-passages"].includes(e.coverage?.scope),label+"invalid coverage scope");
+ check(nonempty(e.coverage?.boundaryNote)&&Array.isArray(e.coverage?.includes)&&Array.isArray(e.coverage?.excluded),label+"coverage must identify boundaries, inclusions and exclusions");
+ check(nonempty(e.transcriptionPolicy)&&nonempty(e.paragraphPolicy),label+"missing transcription/segmentation policy");
+ check(e.source?.archiveId===excerpts.source.archiveId&&e.source?.pdfSha256===excerpts.source.sha256,label+"provenance differs from the source scan");
+ const facsimile=excerpts.excerpts.find(s=>s.id===e.source?.excerptId);
+ check(Boolean(facsimile)&&facsimile.chapterIds.includes(e.chapterId),label+"local facsimile must include this chapter");
+ check(nonempty(e.source?.printedPages)&&Array.isArray(e.source?.scanPages)&&e.source.scanPages.length>0,label+"missing source page locators");
+ check((e.source?.scanPages||[]).every(p=>Number.isInteger(p)&&facsimile?.scanPages.includes(p)),label+"source page missing from local facsimile");
+ const segments=e.segments||[],notes=e.notes||[],ids=new Set(segments.map(s=>s.id)),noteIds=new Set(notes.map(n=>n.id));
+ check(Array.isArray(e.segments)&&segments.length>0&&unique(segments.map(s=>s.id)),label+"missing/duplicate passage IDs");
+ check(Array.isArray(e.notes)&&unique(notes.map(n=>n.id)),label+"duplicate or invalid editorial notes");
+ for(const s of segments){
+  const p=label+s.id+": ";
+  check(new RegExp("^ch"+e.chapterId+"-[a-z0-9-]+$").test(s.id||""),p+"invalid stable passage identifier");
+  check(passageKinds.has(s.kind)&&nonempty(s.label),p+"missing passage kind or label");
+  check(nonempty(s.original)&&nonempty(s.english),p+"original and English translation must both be present");
+  check(e.document.languages.includes(s.language),p+"passage language absent from document metadata");
+  check(Array.isArray(s.sourcePages)&&s.sourcePages.length>0&&s.sourcePages.every(n=>e.source.scanPages.includes(n)),p+"invalid source-page mapping");
+  check(Array.isArray(s.noteIds)&&s.noteIds.every(id=>noteIds.has(id)),p+"unresolved editorial note");
+ }
+ for(const n of notes)check(["transcription","translation","context"].includes(n.type)&&nonempty(n.id)&&nonempty(n.text),label+"invalid note "+n.id);
+ check(Array.isArray(e.relations),label+"relations must be explicit, including an empty array when absent");
+ for(const r of e.relations||[]){
+  check(chapterIds.has(r.chapterId)&&r.chapterId!==e.chapterId&&nonempty(r.kind)&&nonempty(r.label),label+"invalid documentary relation");
+  check(Array.isArray(r.segmentIds)&&r.segmentIds.length>0&&r.segmentIds.every(id=>ids.has(id)),label+"documentary relation lacks supporting passages");
+ }
+ for(const layer of ["transcription","translation"]){
+  check(reviewStates.has(e.review?.[layer]?.status)&&nonempty(e.review?.[layer]?.description),label+"invalid "+layer+" review state");
+ }
+ check(["pending","complete"].includes(e.review?.humanReview?.status),label+"invalid human-review status");
+ check(Array.isArray(e.review?.events)&&e.review.events.length>0&&e.review.events.every(v=>/^\d{4}-\d{2}-\d{2}$/.test(v.date||"")&&nonempty(v.actor)&&nonempty(v.action)),label+"review history needs dates, responsibility and actions");
+ if([e.review?.transcription?.status,e.review?.translation?.status].includes("human-reviewed")){
+  check(e.review.humanReview.status==="complete"&&nonempty(e.review.humanReview.reviewer),label+"human-reviewed text needs a named human reviewer");
+ }
+}
 if(excerpts.hero){
  await localAsset(excerpts.hero.image,"Historical illustration");
  check(nonempty(excerpts.hero.alt)&&nonempty(excerpts.hero.caption),"Illustration lacks descriptive context");
@@ -112,6 +163,7 @@ for(const name of ["site/app.js","scripts/build.mjs"]){
 }
 const htmlPath=path.join(root,"dist/index.html");
 const built=await exists(htmlPath);
+let editionManifest={schemaVersion:1,entries:[]};
 check(built,"dist/index.html missing: run npm run build first");
 if(built){
  const html=await fs.readFile(htmlPath,"utf8");
@@ -125,6 +177,16 @@ if(built){
   if(clean)check(await exists(path.resolve(root,"dist",clean)),"Built HTML references missing local file: "+href);
  }
  for(const relative of seenAssets)check(await exists(path.join(root,"dist",relative)),"Build omitted public asset: "+relative);
+ const manifest=editionManifest=await readJSON("dist/data/editions/index.json");
+ check(manifest.schemaVersion===1&&manifest.entries.length===editionDocuments.length,"Built edition index has stale coverage");
+ for(const entry of manifest.entries){
+  const e=editionByChapter.get(entry.chapterId);
+  check(entry.path==="data/editions/"+entry.chapterId+".json","Unsafe or incorrect edition path");
+  check(Boolean(e)&&entry.version===e.version&&entry.segmentCount===e.segments.length&&entry.scope===e.coverage.scope,"Built edition metadata is stale: "+entry.chapterId);
+  check(Boolean(e)&&entry.transcriptionStatus===e.review.transcription.status&&entry.translationStatus===e.review.translation.status&&entry.humanReviewStatus===e.review.humanReview.status,"Built edition review status is stale: "+entry.chapterId);
+  const copy=await readJSON("dist/"+entry.path);
+  check(JSON.stringify(copy)===JSON.stringify(e),"Build changed/omitted edition content: "+entry.chapterId);
+ }
 }
 
 // Exercise the shipped application, without modifying it or requiring a browser.
@@ -132,19 +194,20 @@ if(built){
 // require browser review. This catches bad data references and route-specific
 // rendering failures that a JavaScript syntax check cannot detect.
 try{
- const nodes=new Map(),listeners=new Map(),stored=new Map();
+ const nodes=new Map(),listeners=new Map(),stored=new Map(),fetches=[];
  const makeNode=id=>({id,innerHTML:"",textContent:"",style:{},
   classList:{add(){},remove(){},toggle(){},contains(){return false;}},
   addEventListener(){},setAttribute(){},focus(){},scrollTo(){},scrollIntoView(){}});
  const node=id=>{if(!nodes.has(id))nodes.set(id,makeNode(id));return nodes.get(id);};
  const location={hash:"#/",href:"https://example.test/research-plague/#/"};
  const context={
-  window:{PLAGUE_DATA:{catalogue,sources:excerpts},scrollY:0,scrollTo(){},
+  window:{PLAGUE_DATA:{catalogue,sources:excerpts,editions:editionManifest},scrollY:0,scrollTo(){},
    addEventListener(type,listener){listeners.set(type,listener);}},
   document:{getElementById:node,querySelector:selector=>node(selector),querySelectorAll:()=>[],
    addEventListener(){},body:{style:{}},title:""},
   location,history:{replaceState(_state,_title,url){location.hash=url;},pushState(_state,_title,url){location.hash=url;}},
   localStorage:{getItem:key=>stored.get(key)||null,setItem(key,value){stored.set(key,value);}},
+  fetch:async url=>{fetches.push(url);const entry=editionManifest.entries.find(e=>"./"+e.path===url);return {ok:Boolean(entry),json:async()=>entry?structuredClone(editionByChapter.get(entry.chapterId)):null};},
   URL,URLSearchParams,Blob,console,setTimeout(){return 1;},clearTimeout(){},navigator:{}
  };
  vm.runInNewContext(await fs.readFile(path.join(root,"site/app.js"),"utf8"),context,{timeout:5000});
@@ -165,6 +228,24 @@ try{
   const markup=renderRoute("#/chapter/"+c.id);
   check(markup.includes('id="citation-'+c.id+'"'),"Chapter route lacks its citation: "+c.id);
  }
+ // Requests may finish after the user leaves a chapter. They must populate
+ // the cache without replacing the current route's content.
+ const awayMarkup=renderRoute("#/chapter/98");
+ await new Promise(resolve=>setImmediate(resolve));
+ check(node("app").innerHTML===awayMarkup,"A late edition response replaced another chapter");
+ for(const entry of editionManifest.entries){
+  const e=editionByChapter.get(entry.chapterId),segment=e.segments.find(s=>s.kind==="provision")||e.segments[0];
+  const markup=renderRoute("#/chapter/"+entry.chapterId+"?passage="+segment.id);
+  check(markup.includes('id="document-edition-'+entry.chapterId+'"'),"Edition reader missing: "+entry.chapterId);
+  check(markup.includes(segment.id)&&markup.includes('lang="en"')&&markup.includes('lang="'+segment.language+'"'),"Paired languages/permalink missing: "+entry.chapterId);
+  check(markup.includes('data-edition-cite="'+entry.chapterId+'"'),"Translation citation control missing: "+entry.chapterId);
+  check(markup.includes('./'+entry.path),"Downloadable edition record missing: "+entry.chapterId);
+  check(markup.includes("version "+entry.version),"Translation citation omits edition version: "+entry.chapterId);
+  check(fetches.filter(url=>url==="./"+entry.path).length===1,"Edition should load once and be cached: "+entry.chapterId);
+ }
+ renderRoute("#/chapters?edition=1");
+ check(node("results-label").textContent.startsWith(editionManifest.entries.length+" of 204"),"Paired-text filter has incorrect coverage");
+ check(fetches.every(url=>editionManifest.entries.some(e=>"./"+e.path===url)),"Application fetched an unlisted edition path");
  for(const g of groups)renderRoute("#/group/"+g.id);
  for(const e of excerpts.excerpts){
   for(let page=1;page<=e.pages.length;page++){

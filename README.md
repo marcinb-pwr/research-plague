@@ -2,13 +2,18 @@
 
 An interactive research wiki for exploring Girolamo Gastaldi's *Tractatus de avertenda et profliganda peste politico-legalis* (Bologna, 1684) and the Roman plague response of 1656–1657, including subsequent orders through 1658.
 
-The site connects **204 chapters of edicts and operational instructions** with **13 analytical groups**, expanded provisions, and selected original-page PDF excerpts. It is a static website: no database, account system or external service is needed to browse the catalogue.
+The site connects **204 chapters of edicts and operational instructions** with **13 analytical groups**, expanded provisions, and selected original-page PDF excerpts. Chapter pages now distinguish summary, facsimile, transcription and translation coverage. The first complete bilingual reading editions cover **chapters 55 and 99**, with aligned Italian and English passages, source-page links, editorial notes and explicit review status.
+
+It is a static website: no database, account system or external service is needed to browse the catalogue. Full chapter editions are loaded on demand.
 
 ## Explore
 
 - Search the chapter catalogue and filter by subject or action.
 - Follow links between thematic groups and chapter pages.
 - Read concise English paraphrases alongside original page images and downloadable PDF excerpts.
+- Read paired original-language text and English working translations where an edition is available; filter the chapter index to find them.
+- Link to an individual passage, copy its versioned translation citation and follow explicit documentary references.
+- Check transcription, translation and human-review status separately.
 - Distinguish enacted orders from general recommendations elsewhere in the treatise.
 - Consult the methodology and glossary before comparing interventions.
 
@@ -59,17 +64,22 @@ The historical excerpts are local assets, so the selected evidence remains reada
 | `site/` | HTML, styles and browser application |
 | `data/catalogue.json` | Group, chapter, supplementary-section and glossary content |
 | `data/excerpts.json` | Excerpt metadata, page mapping and source provenance |
+| `data/editions/*.json` | Versioned original text, English translation, notes and review history per chapter |
 | `public/excerpts/` | Original-page PDF extracts and browser page images |
 | `public/images/` | Historical illustration used by the site |
 | `scripts/build.mjs` | Reproducible static build |
 | `scripts/check.mjs` | Data coverage, references and local asset validation |
 | `dist/` | Generated deployable website; not source-edited |
 
+The build generates `dist/data/editions/index.json` from the edition files. It includes only coverage metadata in the initial application payload; the full texts remain separate downloadable JSON files.
+
 ## Research and corrections
 
 Read [SOURCES.md](SOURCES.md) for bibliographic details, evidence distinctions and pagination. Read [CONTRIBUTING.md](CONTRIBUTING.md) before editing the catalogue or adding an excerpt.
 
-The English summaries and thematic groups are analytical aids, not a critical edition or a complete translation of every legal clause. Orders establish what authorities prescribed; they do not prove uniform compliance or the effectiveness of each measure. Historical remedies are not contemporary medical advice.
+The catalogue summaries and thematic groups are analytical aids. Full-text editions have their own coverage statements and transcription policies; they currently contain AI-prepared, image-checked transcriptions and English working translations, with human specialist review pending. This status is not a certification of textual accuracy. See [the editorial workflow](docs/EDITIONS.md) for adding and reviewing a chapter.
+
+The workbook is the initial catalogue snapshot of 3 November 2026. The JSON catalogue and versioned chapter editions contain subsequent source-based editorial revisions. Orders establish what authorities prescribed; they do not prove uniform compliance or the effectiveness of each measure. Historical remedies are not contemporary medical advice.
 
 ## Rights
 

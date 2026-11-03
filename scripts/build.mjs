@@ -1,0 +1,20 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const output = path.join(root, 'dist');
+const catalogue = JSON.parse(await fs.readFile(path.join(root, 'data/catalogue.json'), 'utf8'));
+const sources = JSON.parse(await fs.readFile(path.join(root, 'data/excerpts.json'), 'utf8'));
+await fs.rm(output, { recursive: true, force: true });
+await fs.mkdir(output, { recursive: true });
+await fs.cp(path.join(root, 'site'), output, { recursive: true });
+await fs.cp(path.join(root, 'public'), output, { recursive: true });
+await fs.mkdir(path.join(output, 'data'), { recursive: true });
+await fs.copyFile(path.join(root, 'data/catalogue.json'), path.join(output, 'data/catalogue.json'));
+await fs.copyFile(path.join(root, 'data/excerpts.json'), path.join(output, 'data/excerpts.json'));
+const serial = JSON.stringify({ catalogue, sources }).replaceAll('<', '\\u003c').replaceAll('\u2028', '\\u2028').replaceAll('\u2029', '\\u2029');
+await fs.writeFile(path.join(output, 'data.js'), 'window.PLAGUE_DATA = ' + serial + ';\n');
+await fs.writeFile(path.join(output, '.nojekyll'), '');
+console.log('Built static wiki: ' + catalogue.chapters.length + ' chapters, ' + catalogue.groups.length + ' groups, ' + sources.excerpts.length + ' PDF excerpts.');
+console.log('Output: ' + output);

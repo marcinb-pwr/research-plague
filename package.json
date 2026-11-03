@@ -1,0 +1,12 @@
+{
+  "name": "research-plague",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An evidence-linked research wiki for Gastaldi's account of the Roman plague response.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

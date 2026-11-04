@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 54,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto: mendicanti alle Scale Sante",
+    "englishTitle": "Edict: begging at the Holy Stairs",
+    "date": "1656-06-20",
+    "place": "Rome",
+    "languages": [
+      "it",
+      "la"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-54",
+    "printedPages": "295–296",
+    "scanPages": [
+      377,
+      378
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n376/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=377",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "295",
+      "296"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 54 through its final signatures on printed pp. 295–296. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        377
+      ],
+      "original": "CAP. LIV.\nEDITTO\nChe non possa farsi ridotto di Mendicanti alle Scale Sante, & altri luoghi iui vicini, eccettuati li Poueri di S. Sisto ad effetto di questuare.",
+      "english": "Chapter 54\nEdict\nThat beggars may not assemble to solicit alms at the Holy Stairs and other nearby places, except the poor of San Sisto.",
+      "language": "it",
+      "noteIds": [
+        "ch54-note1",
+        "ch54-note2"
+      ],
+      "id": "ch54-p1"
+    },
+    {
+      "kind": "preamble",
+      "label": "Issuing authority",
+      "sourcePages": [
+        377
+      ],
+      "original": "Martius miseratione Diuina Episcopus Albanen. S. R. E. Cardinalis Ginnettus S. D. N. Papae Vicarius Generalis, Romanaeque Curiae, eiusque districtus Iudex Ordinarius, &c.",
+      "english": "Marzio, by divine mercy Bishop of Albano, Cardinal Ginetti of the Holy Roman Church, Vicar General of Our Most Holy Lord the Pope, and ordinary judge of the Roman Curia and its district, etc.",
+      "language": "la",
+      "noteIds": [
+        "ch54-note1",
+        "ch54-note2"
+      ],
+      "id": "ch54-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Ban on gathering to solicit alms",
+      "sourcePages": [
+        377,
+        378
+      ],
+      "original": "Volendo la Santità di Nostro Signore prouedere alli disturbi, ed altri inconuenienti, e disordini, che succedono dal Ridotto de’ Poueri Mendicanti, Vagabondi, e Questuanti di qualsiuoglia sorte, che per chiedere l’elemosine, si congregano alle Scale Sante, sotto li Portici, & altri luoghi iui vicini alla Chiesa di S. Giouanni Laterano non senza ammiratione di molti fedeli, che visitano quel santo luogo. Per tanto d’ordine espresso della Santità Sua, ed in conformità del decreto fatto vltimamente dalla Congregatione della Sacra Visita Apostolica, ordiniamo, prohibiamo, e commandiamo à tutti, e qualsiuoglia sorte di Poueri, Bianti, Questuanti, e Mendicanti di qualunque conditione, ancorche Regolari, Romiti, Donne, e Ragazzi, che non possano, ne debbano per l’auuenire andare, nè stare alle dette Scale Sante, nè iui radunarsi per l’effetto, e pretesto sudetto di chiedere Elemosine sotto pena della carcere, essilio da Roma, ed altre più graui à nostro arbitrio: riuocando perciò tutte, e singole licenze, e patenti sin hora concesse di questuare in detto luogo, quali restino di niun valore, nè suffraghino à veruna persona di qualunque conditione si sia tanto Regolare, come Secolare.",
+      "english": "His Holiness Our Lord wishes to remedy the disturbances, inconveniences and disorders arising from the assembly of poor beggars, vagrants and alms-seekers of every kind who gather to ask for alms at the Holy Stairs, under the porticoes and at other nearby places by the church of Saint John Lateran, to the astonishment of many faithful who visit that holy place. Therefore, by His Holiness’s express command and in accordance with the decree recently made by the Congregation of the Sacred Apostolic Visitation, we order and command, and prohibit all kinds of poor persons, itinerant alms-seekers, solicitors of alms and beggars of whatever condition, including members of religious orders, hermits, women and boys, from henceforth going to or remaining at those Holy Stairs, or gathering there for the aforesaid purpose or pretext of asking for alms, on pain of imprisonment, banishment from Rome and other more severe penalties at our discretion. We accordingly revoke every licence and authorization hitherto granted to solicit alms there; these shall be of no value and shall avail no person of whatever condition, whether religious or secular.",
+      "language": "it",
+      "noteIds": [
+        "ch54-note1",
+        "ch54-note2"
+      ],
+      "id": "ch54-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "San Sisto exception",
+      "sourcePages": [
+        378
+      ],
+      "original": "Si dichiara però, che sia lecito, e permesso alli Poueri Mendicanti di S. Sisto andare, e stare sotto li Portici sudetti, e luoghi iui vicini per chiedere, e riceuere l’elemosine in souuentione d’vn opera, e luogo tanto pio, con maggior emolumento, e profitto spirituale di quelli fedeli, che secondo le loro possibilità concorreranno alla souuentione di tanti Poueri Inualidi, che iui si mantengono, ed alla giornata si riceuono.",
+      "english": "It is nevertheless declared lawful and permitted for the poor beggars of San Sisto to go and remain under those porticoes and at the nearby places to ask for and receive alms in support of so pious a work and establishment, with greater spiritual benefit and profit for those faithful who, according to their means, contribute to supporting the many poor infirm persons maintained there and received from day to day.",
+      "language": "it",
+      "noteIds": [
+        "ch54-note1",
+        "ch54-note2"
+      ],
+      "id": "ch54-p4"
+    },
+    {
+      "kind": "provision",
+      "label": "Enforcement and publication",
+      "sourcePages": [
+        378
+      ],
+      "original": "E per l’esatta osseruanza del presente Editto diamo facoltà, e giuntamente commandiamo al Barigello, & altri Esecutori del nostro Tribunale, che vadino, & inuigilino contro quelli, che ritroueranno colpeuoli, ed inosseruanti della prohibitione sudetta. Et accioche da niuno si possi, per loro scusa, allegare ignoranza; vogliamo, che il presente Editto affisso ne’ luoghi sudetti, & altri soliti di questa Città di Roma, habbia forza, come se fosse à ciascuno personalmente notificato: però si guardi di non essere il primo à sperimentare il rigore delle pene, come sopra cominate, quali si eseguiranno irremissibilmente, &c.",
+      "english": "For exact observance of this edict, we authorize and at the same time command the chief enforcement officer and other officers of our tribunal to go and keep watch against those found guilty of failing to observe this prohibition. So that no one may plead ignorance as an excuse, we wish this edict, posted at those places and Rome’s other customary places, to have force as if personally notified to everyone. Let each therefore beware of being the first to experience the severity of the penalties threatened above, which shall be enforced without remission, etc.",
+      "language": "it",
+      "noteIds": [
+        "ch54-note1",
+        "ch54-note2"
+      ],
+      "id": "ch54-p5"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        378
+      ],
+      "original": "Datum Romae ex aedibus nostris hac die 20. mensis Iunij 1656.",
+      "english": "Given at Rome, from our residence, this 20 June 1656.",
+      "language": "la",
+      "noteIds": [
+        "ch54-note1",
+        "ch54-note2"
+      ],
+      "id": "ch54-p6"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        378
+      ],
+      "original": "M. A. Episcopus Ierapolitanus Viceg.",
+      "english": "M. A., Bishop of Hierapolis, Vicegerent.",
+      "language": "la",
+      "noteIds": [
+        "ch54-note1",
+        "ch54-note2"
+      ],
+      "id": "ch54-p7"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        378
+      ],
+      "original": "Ioseph Pallamola Secr.",
+      "english": "Ioseph Pallamola, Secretary.",
+      "language": "la",
+      "noteIds": [
+        "ch54-note1",
+        "ch54-note2"
+      ],
+      "id": "ch54-p8"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch54-note1",
+      "type": "translation",
+      "text": "“Ridotto” means an assembly or gathering here. “Bianti” is rendered as itinerant alms-seekers; its historical social category should not be equated automatically with every person travelling."
+    },
+    {
+      "id": "ch54-note2",
+      "type": "context",
+      "text": "The operative restriction concerns soliciting alms at specified places and retains a named institutional exception. It should not be summarized as a universal ban on every gathering or on entering every church."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

@@ -2,7 +2,7 @@
 
 An interactive research wiki for exploring Girolamo Gastaldi's *Tractatus de avertenda et profliganda peste politico-legalis* (Bologna, 1684) and the Roman plague response of 1656–1657, including subsequent orders through 1658.
 
-The site connects **204 chapters of edicts and operational instructions** with **13 analytical groups**, expanded provisions, and selected original-page PDF excerpts. Chapter pages now distinguish summary, facsimile, transcription and translation coverage. The first complete bilingual reading editions cover **chapters 55 and 99**, with aligned Italian and English passages, source-page links, editorial notes and explicit review status.
+The site connects **204 chapters of edicts and operational instructions** with **13 analytical groups**, expanded provisions, and selected original-page PDF excerpts. Chapter pages now distinguish summary, facsimile, transcription and translation coverage. Complete bilingual reading editions now cover **22 chapters: 42–62 and 99**, with aligned Italian and English passages, source-page links, editorial notes and explicit review status.
 
 It is a static website: no database, account system or external service is needed to browse the catalogue. Full chapter editions are loaded on demand.
 

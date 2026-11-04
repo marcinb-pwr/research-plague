@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 58,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto",
+    "englishTitle": "Edict",
+    "date": "1656-06-24",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-58",
+    "printedPages": "304–305",
+    "scanPages": [
+      388,
+      389
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n387/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=388",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "304",
+      "305"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 58 through its final signatures on printed pp. 304–305. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        388
+      ],
+      "original": "CAP. LVIII.\nEDITTO.",
+      "english": "Chapter 58\nEdict.",
+      "language": "it",
+      "noteIds": [
+        "ch58-note1",
+        "ch58-note2"
+      ],
+      "id": "ch58-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Trace departures from Monte Fiore and its vicinity",
+      "sourcePages": [
+        388
+      ],
+      "original": "Hauendo la Santità di Nostro Signore per la somma accuratezza, e zelo, che tiene della conseruatione della publica salute, stimato necessario di far restringere, e separare il luogo detto di Monte Fiore, e sue vicinanze nell’estremità del Rione di Trasteuere dagl’altri luoghi di esso Rione, per leuare à gl’habitanti di essi luoghi il commercio con gl’altri Rioni della Città. E perche potrebbe essere, che qualcheduno de gli habitanti di essi luoghi, come sopra, ristretti, si fosse da esso prima partito, e venuto ad habitare con le sue robbe in altri luoghi di questa Città, ò altroue, e da ciò poterne nascere notabile pregiudicio della publica salute: Di qui è, che Monsig. Bonelli dell’vna, e l’altra Segnatura Referendario, di Roma, e suo Distretto Gouernatore Generale, e Vicecamerlengo per ouuiare à detto pregiudicio, con il presente Editto, d’ordine della Santità Sua ordina, e comãda à tutti quelli, etiam che fossero Ecclesiastici, ò Regolari, che da otto giorni in quà si fossero partiti da detti luoghi, come sopra, ristretti, e separati, debbano in termine di 24. hore dalla publicatione del presente, e prossimo, denunciarsi nell’Officio di Sua Signoria Illustrissima, con la nota di tutte le robbe, che hanno portate fuori, doue siano andati ad habitare, & habitino, e le ritengano respettivamente, sotto pena della vita, e confiscatione de’ beni.",
+      "english": "His Holiness Our Lord, through his great care and zeal for preserving public health, has judged it necessary to confine and separate the place called Monte Fiore and its vicinity, at the edge of the district of Trastevere, from the other places in that district, to remove its inhabitants’ contact with the city’s other districts. Some inhabitants of these confined places may previously have left and moved with their belongings to other parts of this city or elsewhere, which could cause serious harm to public health. Therefore, to prevent that harm, Monsignor Bonelli, Referendary of both Signatures, Governor General of Rome and its district and Vice-Camerlengo, by His Holiness’s command orders through this edict that everyone, including ecclesiastics and members of religious orders, who has left those confined and separated places within the last eight days must report themselves to the office of His Most Illustrious Lordship within twenty-four hours after publication of the present [edict; following wording unclear], with a list of all belongings they took out, where they went to live, where they now live and where they respectively keep those belongings, on pain of death and confiscation of goods.",
+      "language": "it",
+      "noteIds": [
+        "ch58-note1",
+        "ch58-note2"
+      ],
+      "id": "ch58-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Hosts and others with knowledge",
+      "sourcePages": [
+        388,
+        389
+      ],
+      "original": "E sotto la medema pena comanda à quelli, che gli hauessero ricettati, ò sapessero, ò hauessero notitia alcuna oue si trouuino, debbano in detto termine denunciarlo, come sopra, per poter pigliar l’espediente necessario per la conseruatione sudetta.",
+      "english": "Under the same penalty, he commands those who have sheltered them, or know or have any information about where they are, to report it within that deadline as above, so that the measures necessary for the aforesaid preservation may be taken.",
+      "language": "it",
+      "noteIds": [
+        "ch58-note1",
+        "ch58-note2"
+      ],
+      "id": "ch58-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Publication",
+      "sourcePages": [
+        389
+      ],
+      "original": "E vuole che il presente Editto affisso, e publicato nelli luoghi soliti di Roma ciascheduno oblighi, & astringa, come se le fusse stato personalmente intimato.",
+      "english": "He wishes this edict, posted and published at Rome’s customary places, to oblige and bind everyone as if personally notified.",
+      "language": "it",
+      "noteIds": [
+        "ch58-note1",
+        "ch58-note2"
+      ],
+      "id": "ch58-p4"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        389
+      ],
+      "original": "Dato in Roma questo dì 24. Giugno 1656.",
+      "english": "Given in Rome this 24 June 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch58-note1",
+        "ch58-note2"
+      ],
+      "id": "ch58-p5"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        389
+      ],
+      "original": "Carlo Bonelli Gou. e Vicecamerlengo.",
+      "english": "Carlo Bonelli, Governor and Vice-Camerlengo.",
+      "language": "it",
+      "noteIds": [
+        "ch58-note1",
+        "ch58-note2"
+      ],
+      "id": "ch58-p6"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        389
+      ],
+      "original": "Gio: Andrea Genuense Not. per la Carità.",
+      "english": "Gio. Andrea Genuense, Notary for the Carità.",
+      "language": "it",
+      "noteIds": [
+        "ch58-note1",
+        "ch58-note2"
+      ],
+      "id": "ch58-p7"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch58-note1",
+      "type": "transcription",
+      "text": "After “publicatione del presente” the print appears to read “e prossimo.” This awkward wording is retained; its precise referent is unresolved and is marked in the translation. It does not justify changing the clearly printed twenty-four-hour reporting deadline."
+    },
+    {
+      "id": "ch58-note2",
+      "type": "context",
+      "text": "The named confined area is Monte Fiore and its vicinity at the edge of Trastevere. The text should not by itself be taken as stating that every part of Trastevere had already been sealed at that moment. The retrospective window is eight days."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

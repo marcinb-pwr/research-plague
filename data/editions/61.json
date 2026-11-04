@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 61,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto",
+    "englishTitle": "Edict",
+    "date": "1656-06-26",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-61",
+    "printedPages": "308",
+    "scanPages": [
+      392
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n391/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=392",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "308"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 61 through its final signatures on printed pp. 308. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        392
+      ],
+      "original": "CAP. LXI.\nEDITTO.",
+      "english": "Chapter 61\nEdict.",
+      "language": "it",
+      "noteIds": [
+        "ch61-note1"
+      ],
+      "id": "ch61-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Earlier river restrictions",
+      "sourcePages": [
+        392
+      ],
+      "original": "Essendo con altri Bandi publicati li 2. e 22. del presente mese prouisto, che di notte non si vada per Fiume con Barchetta, nè si passi con quella da vn luogo all’altro dentro le mura della Città. E che ogni Barcarolo ritenga legata dalla parte della Città la sua Barca con Catena, ò Lucchetto, in modo, che non possa esser mossa. E che nessuno ardisca passare da vna parte all’altra il Fiume con Barchetta, ò in altro modo in esso nuotando, sotto pena della Galera, & anco della vita ad arbitrio, e come in essi Bandi, alli quali &c.",
+      "english": "Other proclamations published on the second and twenty-second of this month have provided that no one shall travel on the river by small boat at night, or use one to pass from one place to another within the city walls; that every boatman shall keep his boat secured on the city side with a chain or lock so that it cannot be moved; and that no one shall cross the river from one side to the other by small boat or otherwise by swimming, on pain of the galleys and even death at discretion, as in those proclamations, to which reference is made, etc.",
+      "language": "it",
+      "noteIds": [
+        "ch61-note1"
+      ],
+      "id": "ch61-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Day and night ban in the specified river reach",
+      "sourcePages": [
+        392
+      ],
+      "original": "Con il presente Monsig. Illustrissimo Bonelli, di Roma, e suo Distretto Gouernatore Generale, e V. Camerlengo, inherendo à’ detti Bandi, anco prohibisce sotto le medeme pene, che nessuno ardisca di andare da Ponte Sisto fino alla linea, che è per dirittura dall’vltimo Torrione della Dogana di Ripa inclusiuè incontro al Magazzino del Sale verso il Priorato con Barchetta, ò nuotare nè di giorno, nè di notte, sotto qualsiuoglia pretesto. E vuole, che il presente Editto affisso, e publicato ne i luoghi soliti di Roma, astringa, & oblighi ciascheduno nel termine di tutto hoggi, come se gli fusse stato à ciascheduno personalmente intimato.",
+      "english": "By this edict the Most Illustrious Monsignor Bonelli, Governor General of Rome and its district and Vice-Camerlengo, adhering to those proclamations, further prohibits under the same penalties anyone from travelling by small boat or swimming, by day or night and under any pretext, from Ponte Sisto to the line running straight from the last tower of the Ripa customs house, inclusive, opposite the salt warehouse toward the Priory. He wishes this edict, posted and published at Rome’s customary places, to bind and oblige everyone by the end of today as if personally notified to each.",
+      "language": "it",
+      "noteIds": [
+        "ch61-note1"
+      ],
+      "id": "ch61-p3"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        392
+      ],
+      "original": "Dato in Roma questo dì 26. Giugno 1656.",
+      "english": "Given in Rome this 26 June 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch61-note1"
+      ],
+      "id": "ch61-p4"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        392
+      ],
+      "original": "Carlo Bonelli Gou. e Vicecamerlengo.",
+      "english": "Carlo Bonelli, Governor and Vice-Camerlengo.",
+      "language": "it",
+      "noteIds": [
+        "ch61-note1"
+      ],
+      "id": "ch61-p5"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        392
+      ],
+      "original": "Gio: Andrea Genuense Not. per la Carità.",
+      "english": "Gio. Andrea Genuense, Notary for the Carità.",
+      "language": "it",
+      "noteIds": [
+        "ch61-note1"
+      ],
+      "id": "ch61-p6"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch61-note1",
+      "type": "context",
+      "text": "The edict recalls earlier rules and adds a day-and-night prohibition in a specifically described reach. It should not be summarized as prohibiting all navigation on every part of the Tiber at all times. The source’s landmarks are retained without inventing coordinates."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

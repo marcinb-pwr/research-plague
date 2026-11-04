@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 47,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Bando sopra la Sanità",
+    "englishTitle": "Proclamation on public health",
+    "date": "1656-05-27",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-47",
+    "printedPages": "288",
+    "scanPages": [
+      370
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n369/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=370",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "288"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 47 through its final signatures on printed pp. 288. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        370
+      ],
+      "original": "CAP. XLVII.\nBANDO\nSOPRA LA SANITA’.",
+      "english": "Chapter 47\nProclamation\nOn public health.",
+      "language": "it",
+      "noteIds": [
+        "ch47-note1",
+        "ch47-note2"
+      ],
+      "id": "ch47-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Wider suspension in the Kingdom of Naples",
+      "sourcePages": [
+        370
+      ],
+      "original": "Presentendosi, che continuino il commercio con la Città di Napoli le Città, e luoghi del medesimo Regno, come anco quelli di Toscana, cioè Orbetello, Port’Ercole, Talamone, San Stefano, e Piombino col suo Stato, e l’Isola dell’Elba, perciò colle pene contenute nel Bando publicato li 20. del presente mese, si sospendono tutti li luoghi, Terre, e Città del Regno fin’à tanto che habbiano trasmesse le giustificationi della loro salute, e della prohibitione del commercio colla Città di Napoli, e venendone le giustificationi sudette si publicherà per Editto la reintegratione del commercio.",
+      "english": "Since it is reported that cities and places in the same Kingdom, and also those of Tuscany—namely Orbetello, Porto Ercole, Talamone, San Stefano, Piombino with its territory, and the island of Elba—continue dealings with Naples, all places, towns and cities of the Kingdom are suspended under the penalties contained in the proclamation published on the twentieth of this month, until they have sent documentation of their health and of their prohibition of dealings with Naples. When that documentation arrives, the restoration of dealings will be published by edict.",
+      "language": "it",
+      "noteIds": [
+        "ch47-note1",
+        "ch47-note2"
+      ],
+      "id": "ch47-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Tuscan places and Portoferraio exception",
+      "sourcePages": [
+        370
+      ],
+      "original": "Si sospendono parimente colle medesime pene li luoghi sudetti di Toscana coll’Isola dell’Elba, eccettuatone Portoferraio, oue si gode buona salute, e s’è preuenuto col douuto riguardo.",
+      "english": "The aforesaid places in Tuscany and the island of Elba are likewise suspended under the same penalties, except Portoferraio, where good health prevails and due precautions have been taken.",
+      "language": "it",
+      "noteIds": [
+        "ch47-note1",
+        "ch47-note2"
+      ],
+      "id": "ch47-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Provisions and safe handover at borders",
+      "sourcePages": [
+        370
+      ],
+      "original": "Non si prohibisce però la venuta dal Regno per le robbe non capaci di Contagio, come Animali viuenti, Vini, e Droghe in conformità dell’Editto publicato li 26. del presente. E quanto alle persone, che le conducessero, se non hauranno le necessarie giustificationi per l’ammissione, hauranno alli confini gli ordini opportuni per consegnare con sicurezza le robbe.",
+      "english": "The arrival from the Kingdom of goods regarded as incapable of carrying contagion, such as live animals, wines and spices, is not prohibited, in accordance with the edict published on the twenty-sixth of this month. If the people conveying them do not have the documentation necessary for admission, they will receive appropriate directions at the borders for handing over the goods safely.",
+      "language": "it",
+      "noteIds": [
+        "ch47-note1",
+        "ch47-note2"
+      ],
+      "id": "ch47-p4"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        370
+      ],
+      "original": "Dat. in Roma li 27. Maggio 1656.",
+      "english": "Given in Rome on 27 May 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch47-note1",
+        "ch47-note2"
+      ],
+      "id": "ch47-p5"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        370
+      ],
+      "original": "G. Card. Sacchetti.",
+      "english": "G. Cardinal Sacchetti.",
+      "language": "it",
+      "noteIds": [
+        "ch47-note1",
+        "ch47-note2"
+      ],
+      "id": "ch47-p6"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        370
+      ],
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "language": "it",
+      "noteIds": [
+        "ch47-note1",
+        "ch47-note2"
+      ],
+      "id": "ch47-p7"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch47-note1",
+      "type": "context",
+      "text": "The twentieth- and twenty-sixth-of-May documents are reproduced in chapters 42 and 46. Restoration is conditional on documentation and a further edict; the chapter does not itself restore movement for every place."
+    },
+    {
+      "id": "ch47-note2",
+      "type": "translation",
+      "text": "The classification of goods as not capable of carrying contagion is the source’s historical claim. The border-handover provision distinguishes admission of goods from admission of their carriers."
+    }
+  ],
+  "relations": [
+    {
+      "chapterId": 42,
+      "kind": "recalls",
+      "label": "Penalties in the 20 May proclamation",
+      "segmentIds": [
+        "ch47-p2"
+      ]
+    },
+    {
+      "chapterId": 46,
+      "kind": "recalls",
+      "label": "Exception in the 26 May edict",
+      "segmentIds": [
+        "ch47-p4"
+      ]
+    }
+  ],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

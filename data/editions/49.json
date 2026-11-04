@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 49,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Bando",
+    "englishTitle": "Proclamation",
+    "date": "1656-05-30",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-49",
+    "printedPages": "290",
+    "scanPages": [
+      372
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n371/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=372",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "290"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 49 through its final signatures on printed pp. 290. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        372
+      ],
+      "original": "CAP. XLIX.\nBANDO.",
+      "english": "Chapter 49\nProclamation.",
+      "language": "it",
+      "noteIds": [
+        "ch49-note1",
+        "ch49-note2"
+      ],
+      "id": "ch49-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Arrivals since 20 May must present themselves",
+      "sourcePages": [
+        372
+      ],
+      "original": "Stante la sospensione fattasi con il Bando delli 29. del corrente della Terra di Ciuità Vecchia Monsig. Bonelli di quest’Alma Città di Roma, e suo Distretto, Generale Gouernatore, e V Camerlengo, d’ordine della Santità di Nostro Signore, con il presente Editto ordina, e comanda à tutti quelli, che sono partiti da Ciuità Vecchia dalli 20. del corrente mese di Maggio in quà, e venuti à Roma, di qualsiuoglia stato, grado, e conditione, tanto secolare, come Ecclesiastica, e Regolare, che sotto pena della vita, e confiscatione de’ beni per tutto il presente giorno debbano andare à presentarsi con le robbe, che hanno portate con loro al Commissario della Sanità residente à Ripa, con denunciare il giorno che arriuarno, in compagnia di chi vennero, e che robbe habbiano portate, e doue le ritengano.",
+      "english": "Following the suspension of Civitavecchia by the proclamation of the twenty-ninth of this month, Monsignor Bonelli, Governor General of this venerable city of Rome and its district and Vice-Camerlengo, by command of His Holiness Our Lord, orders through this edict that everyone who has left Civitavecchia since the twentieth of the present month of May and come to Rome, of whatever estate, rank or condition, whether secular, ecclesiastical or a member of a religious order, must, on pain of death and confiscation of goods, present themselves before the end of today, with the belongings they brought, to the Commissioner of Health resident at Ripa. They must report the day they arrived, with whom they came, what belongings they brought and where they keep them.",
+      "language": "it",
+      "noteIds": [
+        "ch49-note1",
+        "ch49-note2"
+      ],
+      "id": "ch49-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Hosts and others with knowledge must report",
+      "sourcePages": [
+        372
+      ],
+      "original": "Et à tutti quelli, etiam di qualsiuoglia stato, grado, e conditione, etiam Ecclesiastica, come sopra, che li ritenessero in casa, ò hauessero notitia, benche minima, di chi sia venuto, come sopra, e doue alloggino, e ritengano le loro robbe, e parimente debbano sotto la medema pena della vita, e confiscatione de’ beni in detto termine di tutto hoggi, notificarlo à Sua Sig. Illustrissima, ò suo Caponotaro infrascritto; per potere opportunamente prouedere à quanto parrà espediente per la conseruatione della publica salute.",
+      "english": "All those, likewise of whatever estate, rank or condition, including ecclesiastics as above, who keep such people in their houses, or have even the slightest knowledge of who has arrived as above, where they lodge or where they keep their belongings, must likewise, under the same penalty of death and confiscation of goods and within the same deadline of the end of today, notify His Most Illustrious Lordship or his undersigned chief notary, so that suitable provision may be made for whatever is considered expedient for preserving public health.",
+      "language": "it",
+      "noteIds": [
+        "ch49-note1",
+        "ch49-note2"
+      ],
+      "id": "ch49-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Binding force of publication",
+      "sourcePages": [
+        372
+      ],
+      "original": "E vuole, che il presente Bando affisso, e publicato per li luoghi soliti di Roma ciascheduno astringa, & oblighi, come se gli fosse stato personalmente intimato.",
+      "english": "He wishes this proclamation, once posted and published at the customary places in Rome, to bind and oblige everyone as if personally notified.",
+      "language": "it",
+      "noteIds": [
+        "ch49-note1",
+        "ch49-note2"
+      ],
+      "id": "ch49-p4"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        372
+      ],
+      "original": "Dat. in Roma questo dì 30. Maggio 1656.",
+      "english": "Given in Rome this 30 May 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch49-note1",
+        "ch49-note2"
+      ],
+      "id": "ch49-p5"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        372
+      ],
+      "original": "Carlo Bonelli Gou. e Vicecamerl.",
+      "english": "Carlo Bonelli, Governor and Vice-Camerlengo.",
+      "language": "it",
+      "noteIds": [
+        "ch49-note1",
+        "ch49-note2"
+      ],
+      "id": "ch49-p6"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        372
+      ],
+      "original": "Gio: Andrea Genuense Not. per la Carità.",
+      "english": "Gio. Andrea Genuense, Notary for the Carità.",
+      "language": "it",
+      "noteIds": [
+        "ch49-note1",
+        "ch49-note2"
+      ],
+      "id": "ch49-p7"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch49-note1",
+      "type": "context",
+      "text": "The retrospective arrival window begins on 20 May; the suspension recalled in the opening is dated 29 May. These are different dates and should not be conflated."
+    },
+    {
+      "id": "ch49-note2",
+      "type": "translation",
+      "text": "Ripa is retained as the location named in the order. “Per la Carità” is retained in the notarial title; no modern institution is substituted."
+    }
+  ],
+  "relations": [
+    {
+      "chapterId": 48,
+      "kind": "implements",
+      "label": "Reporting following the 29 May suspension",
+      "segmentIds": [
+        "ch49-p2"
+      ]
+    }
+  ],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

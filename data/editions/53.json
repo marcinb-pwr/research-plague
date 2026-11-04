@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 53,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto: pagamenti de’ Censi Camerali nel Palazzo Quirinale",
+    "englishTitle": "Edict: payments of Camera dues at the Quirinal Palace",
+    "date": "1656-06-19",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-53",
+    "printedPages": "294–295",
+    "scanPages": [
+      376,
+      377
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n375/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=376",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "294",
+      "295"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 53 through its final signatures on printed pp. 294–295. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        376
+      ],
+      "original": "CAP. LIII.\nEDITTO\nChe li pagamenti de’ Censi Camerali nella Vigilia, e Festa de’ SS. Pietro, e Paolo Apostoli, nel presente anno 1656. si faranno in Camera Apostolica nel Palazzo Quirinale.\nAntonio Barberino per la misericordia di Dio Vescouo di Frascati\nCardinale Antonio, della S. R. C. Camerlengo.",
+      "english": "Chapter 53\nEdict\nThat payments of Camera dues on the eve and feast of Saints Peter and Paul the Apostles in the present year 1656 will be made at the Apostolic Camera in the Quirinal Palace.\nAntonio Barberini, by the mercy of God Bishop of Frascati,\nCardinal Antonio, Camerlengo of the Holy Roman Church.",
+      "language": "it",
+      "noteIds": [
+        "ch53-note1",
+        "ch53-note2",
+        "ch53-note3"
+      ],
+      "id": "ch53-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Required payments and Quirinal location",
+      "sourcePages": [
+        376,
+        377
+      ],
+      "original": "Con il presente publico Editto si notifica à tutti li Feudatarij, & altri, che deuono pagare Censi, Canoni, Liuelli, Risposte, ò altro alla Reuerenda Camera Apostolica nella Vigilia, ò Festa de’ Santi Pietro, e Paolo Apostoli, come nel presente anno 1656. e nelli giorni 28. e 29. del corrente mese di Giugno Vigilia, e Festa delli Santi Apostoli Pietro, e Paolo si farà la Camera per riceuere, conforme il solito, li pagamenti di detti Censi, Liuelli, Canoni, Risposte, & altri pagamenti, e recognitioni, per Regni, Ducati, Città, Terre, Castelli, Ville, Tenute, Casali, Laghi, Selue, Proprietà, Dignità, Beneficij, Officij, Esentioni, Immunità, & altri qualsiuoglia beni, ò ragioni, che hauessero in feudo, Censo, Enfiteusi, Vicariato, Gouerno, Generatione, Nominationi, ò sotto altro Titolo, nel Palazzo Apostolico nel Monte Quirinale nel luogo solito. Però d’ordine di Nostro Signore datoci à bocca, e per l’autorità del nostro Officio di Camerlengato; notifichiamo, ordiniamo, e commandiamo alli medemi feudatarij, & altri sudetti, che per detto pagamento debbano per loro stessi, e loro legitimi Procuratori comparire nelli detti giorni di Vigilia, ò Festa in detta Camera alle hore solite, altrimente contro quelli, che mancheranno si procederà come contrauenienti, e morosi alla dichiaratione della deuolutione de’ feudi, & altro conforme alle bolle, & ordini de’ Sommi Pontefici, nè s’ammetterà scusa alcuna d’ignoranza, ò d’altro, non ostante, che per il passato detti pagamenti siano stati fatti per lo più nel Palazzo Apostolico in Vaticano, ò qualsiuoglia altra cosa, che fusse in contrario, &c.",
+      "english": "This public edict notifies all feudatories and others who owe censi, canoni, livelli, risposte or other payments to the Reverend Apostolic Camera on the eve or feast of Saints Peter and Paul the Apostles that, in the present year 1656, on 28 and 29 June—the eve and feast of those holy apostles—the Camera will convene to receive, as customary, those dues and other payments and acknowledgments for kingdoms, duchies, cities, towns, castles, villages, estates, farmsteads, lakes, woods, properties, dignities, benefices, offices, exemptions, immunities and any other property or rights held in fief, by census tenure, emphyteusis, vicariate, government, “Generatione,” nomination or any other title, at the customary place in the Apostolic Palace on the Quirinal Hill. Therefore, by the oral command of Our Lord and the authority of our office of Camerlengo, we notify, order and command those feudatories and others aforesaid to appear themselves or through their lawful procurators for payment at that Camera at the customary hours on those days. Otherwise proceedings shall be taken against defaulters as offenders and debtors in arrears, for a declaration of reversion of fiefs and other consequences according to the bulls and orders of the supreme pontiffs. No excuse of ignorance or otherwise shall be admitted, notwithstanding that these payments were formerly made mostly at the Apostolic Palace in the Vatican, or anything else to the contrary, etc.",
+      "language": "it",
+      "noteIds": [
+        "ch53-note1",
+        "ch53-note2",
+        "ch53-note3"
+      ],
+      "id": "ch53-p2"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        377
+      ],
+      "original": "Dat. in Roma nella Camera Apostolica li 19. Giugno 1656.",
+      "english": "Given in Rome, at the Apostolic Camera, on 19 June 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch53-note1",
+        "ch53-note2",
+        "ch53-note3"
+      ],
+      "id": "ch53-p3"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        377
+      ],
+      "original": "Per l’Emin. Sig. C. A. C. F. A. Card. Rapaccioli.",
+      "english": "For the Most Eminent Lord C. A. C., F. A. Cardinal Rapaccioli.",
+      "language": "it",
+      "noteIds": [
+        "ch53-note1",
+        "ch53-note2",
+        "ch53-note3"
+      ],
+      "id": "ch53-p4"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        377
+      ],
+      "original": "Franciscus Maria Antaldus Aud.",
+      "english": "Francesco Maria Antaldi, Auditor.",
+      "language": "it",
+      "noteIds": [
+        "ch53-note1",
+        "ch53-note2",
+        "ch53-note3"
+      ],
+      "id": "ch53-p5"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        377
+      ],
+      "original": "Lazarus Bottus Com. Gen.",
+      "english": "Lazarus Bottus, Commissioner General.",
+      "language": "it",
+      "noteIds": [
+        "ch53-note1",
+        "ch53-note2",
+        "ch53-note3"
+      ],
+      "id": "ch53-p6"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        377
+      ],
+      "original": "Franciscus Lucarellus.",
+      "english": "Francesco Lucarelli.",
+      "language": "it",
+      "noteIds": [
+        "ch53-note1",
+        "ch53-note2",
+        "ch53-note3"
+      ],
+      "id": "ch53-p7"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch53-note1",
+      "type": "translation",
+      "text": "The fiscal categories censi, canoni, livelli and risposte are retained in the first list rather than treated as one modern tax. “Deuolutione” here concerns reversion of fiefs, not modern administrative decentralization."
+    },
+    {
+      "id": "ch53-note2",
+      "type": "transcription",
+      "text": "The tenure/title list reads “Generatione.” The unusual term is retained in both columns without conjectural correction. Abbreviations in the first countersignature remain partly unexpanded."
+    },
+    {
+      "id": "ch53-note3",
+      "type": "context",
+      "text": "The order directs the 1656 payments to the Quirinal and contrasts this with the usual Vatican location. It does not itself explain a particular infection-control mechanism."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

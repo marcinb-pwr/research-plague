@@ -2,7 +2,7 @@
 
 The chapter catalogue and the reading editions serve different purposes. The catalogue summarizes and groups documents. An edition provides original-language text and an English translation with enough source and revision information for a reader to inspect individual claims.
 
-The initial editions cover chapters 55 and 99. Their transcriptions were prepared by AI and compared with the page images; their English translations are working drafts. Human specialist review is pending. Never describe these states as a completed critical edition or independent human verification.
+The editions now cover 22 chapters: 42–62 and 99. The 4 November 2026 batch adds the first 20 previously untranslated chapters in catalogue order: 42–54 and 56–62. Chapter 55 and chapter 99 retain their existing editions. Their transcriptions were prepared by AI and compared with the page images; their English translations are working drafts. Human specialist review is pending. Never describe these states as a completed critical edition or independent human verification.
 
 ## Preparation workflow
 

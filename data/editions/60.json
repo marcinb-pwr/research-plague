@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 60,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto per il transito de’ Mietitori",
+    "englishTitle": "Edict on the passage of harvest workers",
+    "date": "1656-06-26",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-60",
+    "printedPages": "307",
+    "scanPages": [
+      391
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n390/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=391",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "307"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 60 through its final signatures on printed pp. 307. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        391
+      ],
+      "original": "CAP. LX.\nEDITTO\nPER IL TRANSITO DE’ MIETITORI.",
+      "english": "Chapter 60\nEdict\nOn the passage of harvest workers.",
+      "language": "it",
+      "noteIds": [
+        "ch60-note1"
+      ],
+      "id": "ch60-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Free certificates for workers who have not entered Rome",
+      "sourcePages": [
+        391
+      ],
+      "original": "Conuenendo di prouedere, che li Mietitori concorsi in gran numero nella Campagna di Roma, partendone à loro arbitrio possano ritornare liberamente alle proprie case, e non trouino impedimento da gl’ordini dati per tutto lo Stato di Nostro Signore, che si sospenda sino à nuouo ordine il Commercio à questa Città, nella quale solamente si restringe il sospetto; si è risoluto di far stampare vna forma particolare de’ bollettini, perche ciascuno di quei Mietitori, che non hanno toccato Roma, partendo accompagnato con vno di essi bollettini, troui libero il transito da per tutto conforme all’ordine, che se ne fà giungere alli Gouernatori, & altri Officiali, e Ministri dello Stato Ecclesiastico. Ciò si notifica per commissione espressa di Nostro Sig. coll’affissione del presente Editto, e con esso si comanda, che tutti quelli, che nel Distretto di Roma hanno Casali, Tenute, ò beni, per li quali habbiano hauuta occasione di valersi dell’opera de’ Mietitori sudetti, mandino in Campidoglio, oue sarà data loro gratis quella quantità di bollettini, che basterà per accompagnare ciascuno di quelli, che partiranno da’ loro Casali, e Tenute, purche i loro Ministri pongano il Sigillo del Padrone, & annotino li nomi, e contrasegni, che si richiedono nel bollettino medesimo, nel che douranno stare auuertiti, che non si commetta alcuna fraude sotto le pene ad arbitrio della Congregatione sopra la Sanità.",
+      "english": "Provision must be made so that the harvest workers who have come in great numbers to the countryside around Rome may, on leaving at their own choice, return freely to their homes without obstruction from the orders issued throughout Our Lord’s State suspending movement and dealings with this city until further order, since suspicion is confined to the city alone. It has therefore been resolved to print a special form of certificate so that each harvest worker who has not entered Rome may, on departing with one of these certificates, find free passage everywhere, in accordance with the order being sent to governors and other officials and officers of the Papal State. This is notified by Our Lord’s express commission through posting this edict. It commands everyone with farmsteads, estates or property in Rome’s district on which they have employed these harvest workers to send to the Capitol, where enough certificates will be given free of charge to accompany each worker departing from their farmsteads and estates, provided that their agents affix the owner’s seal and enter the names and identifying particulars required by the certificate. They must ensure that no fraud is committed, under penalties at the discretion of the Congregation of Health.",
+      "language": "it",
+      "noteIds": [
+        "ch60-note1"
+      ],
+      "id": "ch60-p2"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        391
+      ],
+      "original": "Dat. in Roma li 26. Giugno 1656.",
+      "english": "Given in Rome on 26 June 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch60-note1"
+      ],
+      "id": "ch60-p3"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        391
+      ],
+      "original": "G. Card. Sacchetti.",
+      "english": "G. Cardinal Sacchetti.",
+      "language": "it",
+      "noteIds": [
+        "ch60-note1"
+      ],
+      "id": "ch60-p4"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        391
+      ],
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "language": "it",
+      "noteIds": [
+        "ch60-note1"
+      ],
+      "id": "ch60-p5"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch60-note1",
+      "type": "context",
+      "text": "The privilege concerns harvest workers who have not “touched” Rome, meaning entered or been in the city in this context. It is not a universal exemption for anyone employed in agriculture. Certificates are free but require the owner’s seal and identifying particulars."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

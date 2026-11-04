@@ -47,25 +47,77 @@
     },
     {
       "id": "health-passes",
-      "title": "Health passes, routes and discriminatory exclusions",
-      "description": "Rules for named health certificates, route endorsements, free issuance and forged or transferred documents, followed by explicit exclusions based on social and religious status.",
+      "title": "Border controls, health passes and entry exclusions",
+      "description": "The complete general health proclamation covers entry bans, guarded borders and gates, transport and hosting duties, health certificates, controlled mail and ports, discriminatory exclusions, and enforcement.",
       "chapterIds": [
         43
       ],
-      "printedPages": "278-281",
+      "printedPages": "273-282",
       "scanPages": [
+        355,
+        356,
+        357,
+        358,
+        359,
         360,
         361,
         362,
-        363
+        363,
+        364
       ],
-      "notes": "Selected pages from chapter XLIII, not the entire chapter. These status exclusions are historical discriminatory rules, not evidence that the named groups carried infection.",
+      "readingGuide": "English analytical guide: the proclamation combines restrictions on entry and travel with duties for carriers, hosts, guards and local authorities. Health certificates identify travellers and require route endorsements; issuance is to be free. Page 281 includes discriminatory exclusions based on social and religious status even for people holding health papers.",
+      "notes": "Expanded from four selected pages to the complete ten-page chapter XLIII, including its opening and closing formulae. Chapter XLIV begins on the last retained page. Status exclusions are historical discriminatory rules, not evidence that the named groups carried infection. A complete original-text transcription and English working translation are available on the chapter 43 page.",
       "pdf": "excerpts/health-passes.pdf",
-      "pdfSha256": "669f7fd13a6405514514e5648253a2929c4ce8f7535cd8348e33060d4eb7ba69",
-      "pdfBytes": 151363,
+      "pdfSha256": "196acb9a7c9b5697b59fa2facaa9c73d746bd712ea5dae66251e6c2e5aae7f2d",
+      "pdfBytes": 382769,
       "pages": [
         {
           "image": "excerpts/health-passes-p1.webp",
+          "printedPage": "273",
+          "scanPage": 355,
+          "width": 960,
+          "height": 1500,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n354/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/health-passes-p2.webp",
+          "printedPage": "274",
+          "scanPage": 356,
+          "width": 960,
+          "height": 1500,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n355/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/health-passes-p3.webp",
+          "printedPage": "275",
+          "scanPage": 357,
+          "width": 960,
+          "height": 1500,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n356/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/health-passes-p4.webp",
+          "printedPage": "276",
+          "scanPage": 358,
+          "width": 960,
+          "height": 1500,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n357/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/health-passes-p5.webp",
+          "printedPage": "277",
+          "scanPage": 359,
+          "width": 960,
+          "height": 1500,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n358/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/health-passes-p6.webp",
           "printedPage": "278",
           "scanPage": 360,
           "width": 960,
@@ -74,7 +126,7 @@
           "rotation": 0
         },
         {
-          "image": "excerpts/health-passes-p2.webp",
+          "image": "excerpts/health-passes-p7.webp",
           "printedPage": "279",
           "scanPage": 361,
           "width": 960,
@@ -83,7 +135,7 @@
           "rotation": 0
         },
         {
-          "image": "excerpts/health-passes-p3.webp",
+          "image": "excerpts/health-passes-p8.webp",
           "printedPage": "280",
           "scanPage": 362,
           "width": 960,
@@ -92,20 +144,28 @@
           "rotation": 0
         },
         {
-          "image": "excerpts/health-passes-p4.webp",
+          "image": "excerpts/health-passes-p9.webp",
           "printedPage": "281",
           "scanPage": 363,
           "width": 960,
           "height": 1500,
           "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n362/mode/1up",
           "rotation": 0
+        },
+        {
+          "image": "excerpts/health-passes-p10.webp",
+          "printedPage": "282",
+          "scanPage": 364,
+          "width": 960,
+          "height": 1500,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n363/mode/1up",
+          "rotation": 0
         }
       ],
       "thumbnail": "excerpts/health-passes-thumb.webp",
-      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n359/mode/1up",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n354/mode/1up",
       "evidenceType": "Primary-source facsimile",
-      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile",
-      "readingGuide": "English paraphrase: certificates must identify each traveller and be endorsed along the journey; they must be issued free. Page 281 excludes vagabonds, able-bodied beggars, Roma and Jews even if they hold health papers."
+      "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile"
     },
     {
       "id": "illness-reporting",
@@ -512,6 +572,744 @@
       "evidenceType": "Primary-source facsimile",
       "explanationType": "Analytical English paraphrase; original Italian/Latin remains visible in the facsimile",
       "readingGuide": "English paraphrase of the plate heading: topography of the enclosed Trastevere district and Tiber Island."
+    },
+    {
+      "id": "chapter-42",
+      "title": "Chapter 42 — Proclamation on public health",
+      "description": "Complete original-page facsimile for chapter 42, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        42
+      ],
+      "printedPages": "271–272",
+      "scanPages": [
+        353,
+        354
+      ],
+      "readingGuide": "English analytical guide: Suspend commerce between Naples and its territory and the whole Papal State after reports of suspected contagious disease.",
+      "notes": "From the heading of chapter 42 through its final signatures on printed pp. 271–272. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-42.pdf",
+      "pdfSha256": "44e94d9bf02613d0ba65391704d058a22665326a43f678d168ca3bda8b56d228",
+      "pdfBytes": 80724,
+      "pages": [
+        {
+          "image": "excerpts/chapter-42-p1.webp",
+          "printedPage": "271",
+          "scanPage": 353,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n352/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/chapter-42-p2.webp",
+          "printedPage": "272",
+          "scanPage": 354,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n353/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-42-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n352/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-44",
+      "title": "Chapter 44 — Proclamation on coastal guards because of plague",
+      "description": "Complete original-page facsimile for chapter 44, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        44
+      ],
+      "printedPages": "282–284",
+      "scanPages": [
+        364,
+        365,
+        366
+      ],
+      "readingGuide": "English analytical guide: Guard coasts; restrict arriving ships to designated ports; prohibit unauthorized landings and contact, including vessels driven ashore by storms or pirates.",
+      "notes": "From the heading of chapter 44 through its final signatures on printed pp. 282–284. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-44.pdf",
+      "pdfSha256": "85517cd27a74ef391b7ad0fca5974613d4086d55d96a4d9d2aca9e642c2da72e",
+      "pdfBytes": 122577,
+      "pages": [
+        {
+          "image": "excerpts/chapter-44-p1.webp",
+          "printedPage": "282",
+          "scanPage": 364,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n363/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/chapter-44-p2.webp",
+          "printedPage": "283",
+          "scanPage": 365,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n364/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/chapter-44-p3.webp",
+          "printedPage": "284",
+          "scanPage": 366,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n365/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-44-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n363/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-45",
+      "title": "Chapter 45 — Edict",
+      "description": "Complete original-page facsimile for chapter 45, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        45
+      ],
+      "printedPages": "284–286",
+      "scanPages": [
+        366,
+        367,
+        368
+      ],
+      "readingGuide": "English analytical guide: Order cleaning of streets, courtyards, markets, butcheries, drains, wells and stagnant underground spaces; assign landlord/tenant cleaning costs, regulate waste disposal and prohibit roaming pigs. Several wastes are directed into the flowing Tiber.",
+      "notes": "From the heading of chapter 45 through its final signatures on printed pp. 284–286. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-45.pdf",
+      "pdfSha256": "cb3454f3376862ff61fa8f33f38f175bfb5d56ad9c6125cc4f5012b0c7c4a46a",
+      "pdfBytes": 110841,
+      "pages": [
+        {
+          "image": "excerpts/chapter-45-p1.webp",
+          "printedPage": "284",
+          "scanPage": 366,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n365/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/chapter-45-p2.webp",
+          "printedPage": "285",
+          "scanPage": 367,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n366/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/chapter-45-p3.webp",
+          "printedPage": "286",
+          "scanPage": 368,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n367/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-45-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n365/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-46",
+      "title": "Chapter 46 — Edict",
+      "description": "Complete original-page facsimile for chapter 46, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        46
+      ],
+      "printedPages": "287",
+      "scanPages": [
+        369
+      ],
+      "readingGuide": "English analytical guide: Permit specified animals, wine, spices and similar goods considered incapable of carrying contagion, subject to precautions despite earlier import restrictions.",
+      "notes": "From the heading of chapter 46 through its final signatures on printed pp. 287. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-46.pdf",
+      "pdfSha256": "9bb02f9bc795c09a59a04baef300fa10476dc2b3943bbab955a7ad85216f1389",
+      "pdfBytes": 39196,
+      "pages": [
+        {
+          "image": "excerpts/chapter-46-p1.webp",
+          "printedPage": "287",
+          "scanPage": 369,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n368/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-46-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n368/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-47",
+      "title": "Chapter 47 — Proclamation on public health",
+      "description": "Complete original-page facsimile for chapter 47, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        47
+      ],
+      "printedPages": "288",
+      "scanPages": [
+        370
+      ],
+      "readingGuide": "English analytical guide: Extend exclusion to Neapolitan and connected Tuscan localities and Elba, with a named port exception and limited low-risk commodity exemptions.",
+      "notes": "From the heading of chapter 47 through its final signatures on printed pp. 288. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-47.pdf",
+      "pdfSha256": "650dbdb3192a3fa8a048c9848700e51ea1c76a3959e42402db29e9de3d0a812b",
+      "pdfBytes": 44411,
+      "pages": [
+        {
+          "image": "excerpts/chapter-47-p1.webp",
+          "printedPage": "288",
+          "scanPage": 370,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n369/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-47-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n369/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-48",
+      "title": "Chapter 48 — Proclamation on public health",
+      "description": "Complete original-page facsimile for chapter 48, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        48
+      ],
+      "printedPages": "289",
+      "scanPages": [
+        371
+      ],
+      "readingGuide": "English analytical guide: Suspend movement and dealings with Civitavecchia after two cases among hospital attendants give rise to some suspicion of contagion.",
+      "notes": "From the heading of chapter 48 through its final signatures on printed pp. 289. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-48.pdf",
+      "pdfSha256": "2660bc1c052bad39fa13e44676aa6db33c3abb4a50d6d0decdcebc79367a10ba",
+      "pdfBytes": 34201,
+      "pages": [
+        {
+          "image": "excerpts/chapter-48-p1.webp",
+          "printedPage": "289",
+          "scanPage": 371,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n370/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-48-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n370/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-49",
+      "title": "Chapter 49 — Proclamation",
+      "description": "Complete original-page facsimile for chapter 49, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        49
+      ],
+      "printedPages": "290",
+      "scanPages": [
+        372
+      ],
+      "readingGuide": "English analytical guide: Require recent arrivals from Civitavecchia to report themselves and their goods; extend reporting duties to hosts and people aware of them.",
+      "notes": "From the heading of chapter 49 through its final signatures on printed pp. 290. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-49.pdf",
+      "pdfSha256": "f19334a3c30ebba0e727ced608d2326d8520f3ef4f56f54f4eb91fa4cac9ebe9",
+      "pdfBytes": 48952,
+      "pages": [
+        {
+          "image": "excerpts/chapter-49-p1.webp",
+          "printedPage": "290",
+          "scanPage": 372,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n371/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-49-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n371/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-50",
+      "title": "Chapter 50 — Edict",
+      "description": "Complete original-page facsimile for chapter 50, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        50
+      ],
+      "printedPages": "291",
+      "scanPages": [
+        373
+      ],
+      "readingGuide": "English analytical guide: Prescribe prayers in churches and a prayer against mortality in Mass; grant indulgences for specified prayers, including at home.",
+      "notes": "From the heading of chapter 50 through its final signatures on printed pp. 291. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-50.pdf",
+      "pdfSha256": "d42fe5657992f0dcbd5fe7241e64bcd8114fe8df1801f3e46bc15db901f37920",
+      "pdfBytes": 43944,
+      "pages": [
+        {
+          "image": "excerpts/chapter-50-p1.webp",
+          "printedPage": "291",
+          "scanPage": 373,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n372/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-50-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n372/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-51",
+      "title": "Chapter 51 — Suspension of the town of Nettuno",
+      "description": "Complete original-page facsimile for chapter 51, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        51
+      ],
+      "printedPages": "292",
+      "scanPages": [
+        374
+      ],
+      "readingGuide": "English analytical guide: Precautionarily suspend movement and dealings with Nettuno after reports of illness described as having no appearance of contagion; physicians and experts have been sent to investigate.",
+      "notes": "From the heading of chapter 51 through its final signatures on printed pp. 292. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-51.pdf",
+      "pdfSha256": "61390d6b9da5c083bb1602df88dc1cd0fb11da27f980606c189022ddb9a3c9a5",
+      "pdfBytes": 41941,
+      "pages": [
+        {
+          "image": "excerpts/chapter-51-p1.webp",
+          "printedPage": "292",
+          "scanPage": 374,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n373/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-51-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n373/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-52",
+      "title": "Chapter 52 — Proclamation",
+      "description": "Complete original-page facsimile for chapter 52, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        52
+      ],
+      "printedPages": "293",
+      "scanPages": [
+        375
+      ],
+      "readingGuide": "English analytical guide: Require arrivals from Nettuno to report themselves, possessions and travelling companions; require hosts and others with knowledge to report too.",
+      "notes": "From the heading of chapter 52 through its final signatures on printed pp. 293. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-52.pdf",
+      "pdfSha256": "577be41474e6fb1a410ca614d09bfe8e02b6fd8f6fd4168c1a82f2aecbbe2c3a",
+      "pdfBytes": 44068,
+      "pages": [
+        {
+          "image": "excerpts/chapter-52-p1.webp",
+          "printedPage": "293",
+          "scanPage": 375,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n374/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-52-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n374/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-53",
+      "title": "Chapter 53 — Edict: payments of Camera dues at the Quirinal Palace",
+      "description": "Complete original-page facsimile for chapter 53, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        53
+      ],
+      "printedPages": "294–295",
+      "scanPages": [
+        376,
+        377
+      ],
+      "readingGuide": "English analytical guide: Move customary payments of rents, dues and tribute to the Apostolic Chamber at the Quirinal Palace for the feast of Saints Peter and Paul.",
+      "notes": "From the heading of chapter 53 through its final signatures on printed pp. 294–295. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-53.pdf",
+      "pdfSha256": "5fdc600a12c3926ece84abb5e487e48faf7041db26e0b6c01017096333e2a396",
+      "pdfBytes": 87396,
+      "pages": [
+        {
+          "image": "excerpts/chapter-53-p1.webp",
+          "printedPage": "294",
+          "scanPage": 376,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n375/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/chapter-53-p2.webp",
+          "printedPage": "295",
+          "scanPage": 377,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n376/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-53-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n375/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-54",
+      "title": "Chapter 54 — Edict: begging at the Holy Stairs",
+      "description": "Complete original-page facsimile for chapter 54, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        54
+      ],
+      "printedPages": "295–296",
+      "scanPages": [
+        377,
+        378
+      ],
+      "readingGuide": "English analytical guide: Prohibit gatherings of beggars at the Holy Stairs and Lateran; revoke begging licences there, with an exception for the poor of San Sisto.",
+      "notes": "From the heading of chapter 54 through its final signatures on printed pp. 295–296. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-54.pdf",
+      "pdfSha256": "12e80a33c7023de45b6306e78deadebcbb4602f980111802dcd802b1719e748b",
+      "pdfBytes": 73448,
+      "pages": [
+        {
+          "image": "excerpts/chapter-54-p1.webp",
+          "printedPage": "295",
+          "scanPage": 377,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n376/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/chapter-54-p2.webp",
+          "printedPage": "296",
+          "scanPage": 378,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n377/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-54-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n376/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-56",
+      "title": "Chapter 56 — Edict on beggars",
+      "description": "Complete original-page facsimile for chapter 56, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        56
+      ],
+      "printedPages": "301–303",
+      "scanPages": [
+        385,
+        386,
+        387
+      ],
+      "readingGuide": "English analytical guide: Require beggars to present themselves at designated places and to appointed officials, comply with rules and obtain begging licences; prescribe penalties.",
+      "notes": "From the heading of chapter 56 through its final signatures on printed pp. 301–303. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-56.pdf",
+      "pdfSha256": "3bdba51ad040a10650fb62cc2ef0ef86c3b0da58752ba96f69bf4e542f4acf4e",
+      "pdfBytes": 111799,
+      "pages": [
+        {
+          "image": "excerpts/chapter-56-p1.webp",
+          "printedPage": "301",
+          "scanPage": 385,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n384/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/chapter-56-p2.webp",
+          "printedPage": "302",
+          "scanPage": 386,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n385/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/chapter-56-p3.webp",
+          "printedPage": "303",
+          "scanPage": 387,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n386/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-56-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n384/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-57",
+      "title": "Chapter 57 — Edict",
+      "description": "Complete original-page facsimile for chapter 57, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        57
+      ],
+      "printedPages": "303",
+      "scanPages": [
+        387
+      ],
+      "readingGuide": "English analytical guide: Prohibit physicians, surgeons and barbers from leaving Rome without the governor’s written permission, under threat of death and confiscation.",
+      "notes": "From the heading of chapter 57 through its final signatures on printed pp. 303. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-57.pdf",
+      "pdfSha256": "a29827a475fbce25147b57a741c8879d22ff51f465acdb8518b142783f904c71",
+      "pdfBytes": 39144,
+      "pages": [
+        {
+          "image": "excerpts/chapter-57-p1.webp",
+          "printedPage": "303",
+          "scanPage": 387,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n386/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-57-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n386/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-58",
+      "title": "Chapter 58 — Edict",
+      "description": "Complete original-page facsimile for chapter 58, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        58
+      ],
+      "printedPages": "304–305",
+      "scanPages": [
+        388,
+        389
+      ],
+      "readingGuide": "English analytical guide: Trace people who left confined Monte Fiore and its vicinity at the edge of Trastevere within the previous eight days; require reports of their belongings and accommodation, and reports by hosts and others with knowledge.",
+      "notes": "From the heading of chapter 58 through its final signatures on printed pp. 304–305. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-58.pdf",
+      "pdfSha256": "987607023e5dc8a97bc1f9e583222b74a8ea636cc385638498a8088695910a5e",
+      "pdfBytes": 82952,
+      "pages": [
+        {
+          "image": "excerpts/chapter-58-p1.webp",
+          "printedPage": "304",
+          "scanPage": 388,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n387/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/chapter-58-p2.webp",
+          "printedPage": "305",
+          "scanPage": 389,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n388/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-58-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n387/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-59",
+      "title": "Chapter 59 — Edict",
+      "description": "Complete original-page facsimile for chapter 59, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        59
+      ],
+      "printedPages": "305–306",
+      "scanPages": [
+        389,
+        390
+      ],
+      "readingGuide": "English analytical guide: Suspend congregations except the health congregation and civil courts for fifteen days; retain designated urgent proceedings and prescribe controlled access.",
+      "notes": "From the heading of chapter 59 through its final signatures on printed pp. 305–306. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-59.pdf",
+      "pdfSha256": "0edf59a396967cf8330a9fe69592f8cfc369ef0d3ba2fa0cc6a74da4c163df88",
+      "pdfBytes": 72943,
+      "pages": [
+        {
+          "image": "excerpts/chapter-59-p1.webp",
+          "printedPage": "305",
+          "scanPage": 389,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n388/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/chapter-59-p2.webp",
+          "printedPage": "306",
+          "scanPage": 390,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n389/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-59-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n388/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-60",
+      "title": "Chapter 60 — Edict on the passage of harvest workers",
+      "description": "Complete original-page facsimile for chapter 60, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        60
+      ],
+      "printedPages": "307",
+      "scanPages": [
+        391
+      ],
+      "readingGuide": "English analytical guide: Provide employer-certified safe-return documents for harvest workers who had worked in the Roman countryside without entering Rome.",
+      "notes": "From the heading of chapter 60 through its final signatures on printed pp. 307. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-60.pdf",
+      "pdfSha256": "bb80c547f00e9d4deee7f8a46decbab031c0ab6d6a5c97db42daa0d4f08c86e4",
+      "pdfBytes": 47471,
+      "pages": [
+        {
+          "image": "excerpts/chapter-60-p1.webp",
+          "printedPage": "307",
+          "scanPage": 391,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n390/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-60-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n390/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-61",
+      "title": "Chapter 61 — Edict",
+      "description": "Complete original-page facsimile for chapter 61, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        61
+      ],
+      "printedPages": "308",
+      "scanPages": [
+        392
+      ],
+      "readingGuide": "English analytical guide: Extend restrictions on crossing and navigating the Tiber, including unauthorized crossings in the specified stretch and night traffic.",
+      "notes": "From the heading of chapter 61 through its final signatures on printed pp. 308. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-61.pdf",
+      "pdfSha256": "e46d196beac52b565977d49a9df53aefe16ef591e135a4cf4add381a5e19a190",
+      "pdfBytes": 43058,
+      "pages": [
+        {
+          "image": "excerpts/chapter-61-p1.webp",
+          "printedPage": "308",
+          "scanPage": 392,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n391/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-61-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n391/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-62",
+      "title": "Chapter 62 — Proclamation",
+      "description": "Complete original-page facsimile for chapter 62, with paired original text and English working translation on the chapter page.",
+      "chapterIds": [
+        62
+      ],
+      "printedPages": "309–311",
+      "scanPages": [
+        393,
+        394,
+        395
+      ],
+      "readingGuide": "English analytical guide: Require wood merchants to declare timber stocks, cutting locations, transport vessels and routes so Rome's fuel supply can be organized.",
+      "notes": "From the heading of chapter 62 through its final signatures on printed pp. 309–311. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-62.pdf",
+      "pdfSha256": "838c4165a2af465cf9a60fa0e37d7f2658866640919af02240a0d1175a5ed860",
+      "pdfBytes": 119140,
+      "pages": [
+        {
+          "image": "excerpts/chapter-62-p1.webp",
+          "printedPage": "309",
+          "scanPage": 393,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n392/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/chapter-62-p2.webp",
+          "printedPage": "310",
+          "scanPage": 394,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n393/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/chapter-62-p3.webp",
+          "printedPage": "311",
+          "scanPage": 395,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n394/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-62-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n392/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
     }
   ],
   "hero": {

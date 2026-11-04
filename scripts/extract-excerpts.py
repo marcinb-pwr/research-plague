@@ -42,14 +42,14 @@ SELECTIONS = [
     },
     {
         "id": "health-passes",
-        "title": "Health passes, routes and discriminatory exclusions",
-        "description": "Rules for named health certificates, route endorsements, free issuance and forged or transferred documents, followed by explicit exclusions based on social and religious status.",
+        "title": "Border controls, health passes and entry exclusions",
+        "description": "The complete general health proclamation covers entry bans, guarded borders and gates, transport and hosting duties, health certificates, controlled mail and ports, discriminatory exclusions, and enforcement.",
         "chapterIds": [43],
-        "printedPages": "278-281",
-        "scanPages": [360, 361, 362, 363],
-        "printed": ["278", "279", "280", "281"],
-        "readingGuide": "English paraphrase: certificates must identify each traveller and be endorsed along the journey; they must be issued free. Page 281 excludes vagabonds, able-bodied beggars, Roma and Jews even if they hold health papers.",
-        "notes": "Selected pages from chapter XLIII, not the entire chapter. These status exclusions are historical discriminatory rules, not evidence that the named groups carried infection.",
+        "printedPages": "273-282",
+        "scanPages": [355, 356, 357, 358, 359, 360, 361, 362, 363, 364],
+        "printed": ["273", "274", "275", "276", "277", "278", "279", "280", "281", "282"],
+        "readingGuide": "English analytical guide: the proclamation combines restrictions on entry and travel with duties for carriers, hosts, guards and local authorities. Health certificates identify travellers and require route endorsements; issuance is to be free. Page 281 includes discriminatory exclusions based on social and religious status even for people holding health papers.",
+        "notes": "Expanded from four selected pages to the complete ten-page chapter XLIII, including its opening and closing formulae. Chapter XLIV begins on the last retained page. Status exclusions are historical discriminatory rules, not evidence that the named groups carried infection. A complete original-text transcription and English working translation are available on the chapter 43 page.",
     },
     {
         "id": "illness-reporting",
@@ -205,7 +205,32 @@ def main() -> None:
         },
         "excerpts": [],
     }
-    for selection in SELECTIONS:
+    # Full-text editions can declare new facsimiles without duplicating their page selections here.
+    selections = list(SELECTIONS)
+    fixed_ids = {item["id"] for item in selections}
+    edition_dir = root / "data" / "editions"
+    for edition_file in sorted(edition_dir.glob("*.json"), key=lambda p: int(p.stem)):
+        edition = json.loads(edition_file.read_text())
+        record = edition["source"]
+        if record["excerptId"] in fixed_ids:
+            continue
+        labels = record.get("printedPageLabels")
+        if not labels or len(labels) != len(record["scanPages"]):
+            raise RuntimeError("Explicit printed-page labels required: " + str(edition_file))
+        selections.append({
+            "id": record["excerptId"],
+            "title": "Chapter " + str(edition["chapterId"]) + " — " + edition["document"]["englishTitle"],
+            "description": "Complete original-page facsimile, paired with original text and an English working translation on the chapter page.",
+            "chapterIds": [edition["chapterId"]],
+            "printedPages": record["printedPages"],
+            "scanPages": record["scanPages"],
+            "printed": labels,
+            "readingGuide": "English analytical guide: see the separately labelled complete working translation on the chapter page.",
+            "notes": edition["coverage"]["boundaryNote"],
+            "longEdge": 2000,
+        })
+        fixed_ids.add(record["excerptId"])
+    for selection in selections:
         sid = selection["id"]
         pdf_path = assets / (sid + ".pdf")
         output = fitz.open()

@@ -1,0 +1,973 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 43,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Bando sopra la Sanità",
+    "englishTitle": "Proclamation on public health",
+    "date": "1656-05-22",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "health-passes",
+    "printedPages": "273–282",
+    "scanPages": [
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n354/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=355",
+    "editionYear": 1684
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "Chapter 43 begins with CAP. XLIII. and Bando sopra la Sanità on printed p. 273 (scan 355). Its text continues across all ten pages through the dateline and the two signatures on the upper part of printed p. 282 (scan 364). The ornament and CAP. XLIV. below the signatures mark the next chapter. The earlier four-page excerpt covered only a selection; this edition uses the expanded complete ten-page facsimile.",
+    "includes": [
+      "Chapter number and full proclamation heading",
+      "Introductory preamble within the first operative paragraph",
+      "All 43 unnumbered operative paragraphs, including conditions, exceptions, sanctions and enforcement rules",
+      "Rome dateline of 22 May 1656 and both signatures"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and decorative ornaments",
+      "The heading and opening of chapter 44 on the lower part of printed p. 282; its full page image remains available",
+      "No separate publication certificate is printed within this chapter"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the Italian text printed in Gastaldi’s 1684 edition, prepared from the scan images with OCR used only as an aid. Long s is represented as s; line-end word divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling, u/v forms, capitalization, punctuation and abbreviations are otherwise retained where readable. The opening ornamental capital is integrated into its word. The printed blank in the endorsement formula is represented by an ellipsis and explained locally. Awkward printed forms and unresolved readings are retained and identified in notes rather than silently corrected. No modern reconstruction of an earlier broadside is claimed.",
+  "paragraphPolicy": "The source has 43 unnumbered operative paragraphs. They are kept in order as p01–p43; those identifiers and the descriptive labels are editorial, not clause numbers printed in the source. The introductory preamble remains within p01 because it forms the same printed paragraph. The heading, dateline and each signature are separate paired passages; the dateline is split from the end of the last paragraph for citation. Passages crossing a page boundary list both scan positions.",
+  "segments": [
+    {
+      "id": "ch43-heading",
+      "kind": "heading",
+      "label": "Historical heading",
+      "language": "it",
+      "original": "CAP. XLIII.\nBANDO\nSOPRA LA SANITA’.",
+      "english": "Chapter 43\nProclamation\nOn public health.",
+      "sourcePages": [
+        355
+      ],
+      "noteIds": []
+    },
+    {
+      "id": "ch43-p01",
+      "kind": "provision",
+      "label": "Entry from prohibited or suspended places",
+      "language": "it",
+      "original": "Le congiunture, & il timore degl’imminenti pericoli del Contagio per li mali scopertiui nella Città di Napoli richiedendo, che con ogni applicatione maggiore s’attenda alla conseruatione della salute dello Stato Ecclesiastico, e particolarmente di quest’Alma Città di Roma; dall’Eminentissimo, e Reuerendissimo Sig. Cardinal Sacchetti, per ordine espresso di Nostro Signore si prohibisce, che le persone, animali, mercantie, lettere, ò qualunque altra cosa, che venissero, ò fussero condotte da luoghi, che già sono, ò che per l’auuenire saranno banditi, ò sospesi, e loro territorio, ò poco, ò molto ne hauessero tocco, non entrino nello Stato Ecclesiastico tanto con bollette, come senza, ancorche per transito, sotto pena della vita, e confiscatione de’ loro beni, e perdita delle merci, animali, barche, & altre cose, che contro la forma del presente Bando fossero condotte, ancorche non fossero proprie di chi le conduce.",
+      "english": "Since the circumstances and the fear of imminent dangers of contagion arising from the illnesses discovered in the city of Naples require the preservation of the health of the Papal State, and especially of this venerable city of Rome, to be attended to with the greatest application, His Most Eminent and Most Reverend Lord Cardinal Sacchetti, by the express command of Our Lord, prohibits persons, animals, merchandise, letters, or anything else coming or brought from places already prohibited or suspended, or that shall be so in future, and from their territories—or that have touched them, however briefly—from entering the Papal State, with health passes or without them, even in transit. The penalty is death and confiscation of their goods, together with forfeiture of the merchandise, animals, boats, and other things carried contrary to this proclamation, even when they do not belong to the person conveying them.",
+      "sourcePages": [
+        355
+      ],
+      "noteIds": [
+        "ch43-titles",
+        "ch43-territory-contact",
+        "ch43-passes",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p02",
+      "kind": "provision",
+      "label": "Harbouring, supplying, or failing to report prohibited arrivals",
+      "language": "it",
+      "original": "E nelle medesime pene incorreranno gli Hosti, Albergatori, Bettolieri, Vignaroli, Hortolani, Custodi di Casali, e qualsiuoglia altro, che alle persone, animali, robbe, ò lettere, che vengono da detti luoghi, daranno ricetto alcuno, ò da bere, ò da mangiare, ò in altra maniera fossero complici di qualsisia trasgressione del presente Bando, ò che hauendone notitia non la notificheranno subito, essendo in Roma, agli Officiali da deputarsi à questo fine da Monsignor Gouernatore, & essendo altroue, all’Officiale principale, che risiede in quel luogo.",
+      "english": "The same penalties shall apply to innkeepers, lodging-house keepers, tavern keepers, vineyard workers, gardeners, keepers of farmsteads, and anyone else who gives any shelter, drink, or food to persons, animals, belongings, or letters coming from those places, or is otherwise an accomplice in any breach of this proclamation, or who, knowing of such a breach, does not immediately report it—in Rome, to the officials whom Monsignor the Governor shall appoint for this purpose, and elsewhere to the principal official resident in that place.",
+      "sourcePages": [
+        355,
+        356
+      ],
+      "noteIds": [
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p03",
+      "kind": "provision",
+      "label": "Early disclosure, rewards, and remission",
+      "language": "it",
+      "original": "Dichiarandosi, che à quelli, che reuelaranno, come sopra, si perdonerà, se hauessero riceuuto alcuna persona contro la forma del presente Bando, ò fossero stati negligenti à riuelarlo, purche con la loro denuntia preuengano ogni notitia, che gli Officiali habbiano per altra parte del fatto denuntiato, ò del mancamento, ò colpa del denuntiante. Et in oltre non si lascierà di riconoscere il denuntiante medesimo con mancia, ò premio conueniente ad arbitrio della Congregatione della Sanità. E se quello, che denuntierà, come sopra, sarà contumace della Corte, ò condennato, guadagnerà la propria remissione secondo il delitto, ad arbitrio della Sacra Consulta.",
+      "english": "It is declared that those who disclose matters as above shall be pardoned if they have received anyone contrary to this proclamation or have been negligent in reporting it, provided that their report precedes any information the officials obtain from another source about the reported act, or the reporter’s own failure or fault. Furthermore, the reporter shall also be acknowledged with a suitable gratuity or reward at the discretion of the Congregation of Health. If the person making the report is in default before the court or has been convicted, that person shall obtain remission in their own case according to the offence, at the discretion of the Sacred Consulta.",
+      "sourcePages": [
+        356
+      ],
+      "noteIds": [
+        "ch43-reporting-remission"
+      ]
+    },
+    {
+      "id": "ch43-p04",
+      "kind": "provision",
+      "label": "Carriers and uninterrupted transport to the stated destination",
+      "language": "it",
+      "original": "Si comanda sotto le pene medesime a tutti Mulatieri, Vetturali, Carrari, Procacci, Corrieri, Postiglioni, Vetturini, & altri Condottieri, Marinari, Barcaroli, & altri che in modo alcuno, sotto alcun colore, ò pretesto non caricano, conducano, ò facciano caricare, ò condurre persone, bestiami, lettere, & altre robbe, che venissero direttamente, ò indirettamente anco per transito dalli detti luoghi. E similmente non ardiscano pigliare per strada, ò lasciare, ò scaricare tanto per terra, come per acqua, persona alcuna, ò robbe, ma quelle caricate, che saranno ne’ luoghi non sospetti condurre a’ luoghi destinati colle loro bollette, ò fedi solite, sotto pena della Galera, la quale s’estenderà anco alla pena della vita, secondo la qualità de’ casi ad arbitrio della Congregatione della Sanità.",
+      "english": "Under the same penalties, all muleteers, transporters, carters, courier-carriers, couriers, postilions, hired drivers and other carriers, sailors, boatmen, and others are ordered not to load, convey, or cause to be loaded or conveyed, in any way or under any guise or pretext, persons, livestock, letters, or other belongings coming directly or indirectly, even in transit, from those places. Likewise, they must not take up anyone or any belongings along the way, or leave or unload them, by land or water. What they load in places not considered suspect must be conveyed to the designated destinations with the customary passes or certificates, on pain of the galleys, which penalty may extend to death according to the circumstances, at the discretion of the Congregation of Health.",
+      "sourcePages": [
+        356
+      ],
+      "noteIds": [
+        "ch43-carriers",
+        "ch43-passes",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p05",
+      "kind": "provision",
+      "label": "No return from prohibited places until intercourse is restored",
+      "language": "it",
+      "original": "E perche molti dello Stato Ecclesiastico si ritrouano nelli sopradetti luoghi banditi, ò sospesi, ò per loro interessi si partono di quà per andarui, si dichiara, che tanto quelli, che di presente vi sono, quanto quelli, che per l’auuenire vi anderanno, ò passeranno, non possano ritornare nello Stato Ecclesiastico, sotto pena della vita, & altre dette di sopra, nè vi possano esser ricettati, & ammessi, come sopra, ancorche fossero sani, infinche non sia restituito il libero commercio alli detti luoghi.",
+      "english": "Because many people from the Papal State are in the aforesaid prohibited or suspended places, or leave here to go there for their affairs, it is declared that both those who are presently there and those who shall go there or pass through in future may not return to the Papal State, on pain of death and the other penalties stated above. Nor may they be sheltered or admitted there, as above, even if they are healthy, until unrestricted movement and dealings with those places have been restored.",
+      "sourcePages": [
+        356
+      ],
+      "noteIds": [
+        "ch43-territory-contact",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p06",
+      "kind": "provision",
+      "label": "Daily gate guards near the kingdom’s border and the coast",
+      "language": "it",
+      "original": "Si comanda a tutti li Baroni di qualsiuoglia titolo, ò preeminenza, Gouernatori, Podestà, Magistrati, Priori, Officiali, & altri Sopraintendenti di qualsiuoglia Città, Terra, Castello dello Stato Ecclesiastico per tutto quel tratto di paese, che non è distante più di venti miglia dal confine del Regno di Napoli, e che per ogni altra parte del detto Stato Ecclesiastico non è lontano più di dieci miglia dal mare, che debbano far assistere alle Porte d’essi luoghi ogni giorno guardie sufficienti di persone idonee, & altre, sotto pena della priuatione del loro officio, e di scudi ducento, & altre corporali ad arbitrio della medesima Congregatione.",
+      "english": "All barons, of whatever title or precedence, governors, podestà, magistrates, priors, officials, and other superintendents of any city, town, or castle in the Papal State throughout the territory within twenty miles of the border of the Kingdom of Naples, and in every other part of the State within ten miles of the sea, are ordered to have sufficient guards of suitable persons and others attend daily at the gates of those places, on pain of deprivation of office, two hundred scudi, and other corporal penalties at the discretion of the same Congregation.",
+      "sourcePages": [
+        356,
+        357
+      ],
+      "noteIds": [
+        "ch43-offices-units",
+        "ch43-guard-wording",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p07",
+      "kind": "provision",
+      "label": "Attendance by persons assigned to guard duty",
+      "language": "it",
+      "original": "Si comanda ancora à tutti quelli, che saranno auuisati di douer fare le sopradette guardie, si debbano trouar alle Porte li giorni, & hore, che li saranno intimate, & iui assistere tutto il dì fino che saranno serrate le Porte, sotto pena alli Gentilhuomini di scudi trecento, & a gl’altri d’inferior grado tre tratti di corda in publico.",
+      "english": "All those notified that they must perform the aforesaid guard duty are also ordered to be at the gates on the days and at the hours appointed to them, and to remain there throughout the day until the gates are closed. The penalty for gentlemen is three hundred scudi, and for others of lower rank three hoists of the rope in public.",
+      "sourcePages": [
+        357
+      ],
+      "noteIds": [
+        "ch43-offices-units",
+        "ch43-rope"
+      ]
+    },
+    {
+      "id": "ch43-p08",
+      "kind": "provision",
+      "label": "Travellers’ answers and compliance with oral orders",
+      "language": "it",
+      "original": "Et alli Passaggieri, Viandanti, & altri, che obediscano à quelli, che saranno posti per guardie in terra, ò in mare, e non ricusino di darli il vero nome, e cognome, e patria loro, e dire il luogo doue vengono, ò per doue sono passati, le robbe, ò lettere, che portano, con mostrargli la fede della Sanità, e quando da esse guardie fusse loro ricusato l’ingresso, non entrino per altra Porta, ò per altro luogo, e precettati ad vscire dallo stato Ecclesiastico, & à non contrattare nel detto Stato con alcuno, ò pure precettati à presentarsi à qualche Officiale, ò à non partirsi da qualche luogo, obediscano puntualmente, sotto pena della Galera per dieci anni, e delle pene maggiori anco della vita, che fossero loro comminate nel detto precetto, ancorche questo non sia fatto giudicialmente, mà basti in voce con la proua di due testimonij.",
+      "english": "Travellers, wayfarers, and others must obey those posted as guards on land or at sea. They must not refuse to give their true first name, surname, and place of origin, to state where they come from or through which places they have passed, and what belongings or letters they carry, while showing their health certificate. If the guards refuse them entry, they must not enter by another gate or elsewhere. If ordered to leave the Papal State and have no dealings with anyone in it, or to present themselves to an official, or not to leave a place, they must obey precisely, on pain of ten years in the galleys and any greater penalties, including death, threatened in the order. The order need not be given judicially: an oral order with the evidence of two witnesses is sufficient.",
+      "sourcePages": [
+        357
+      ],
+      "noteIds": [
+        "ch43-passes",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p09",
+      "kind": "provision",
+      "label": "Forcing or evading guarded passages",
+      "language": "it",
+      "original": "Nella pena della vita incorreranno quelli, che sforzeranno, ò cercheranno di sforzare, ò vseranno in qualsiuoglia modo violenze alle Porte, e passi, ò altri luoghi guardati, ouero alle persone, che per detto effetto vi assisteranno; ò alle guardie di mare, ò Feluche, e quelli, che furtiuamente per deludere le guardie passeranno per li luoghi, ò strade, ò campagne per doue è prohibito il passo, ò entreranno nelle Città, Terre, e luoghi guardati passando per le muraglie, ò per altra parte, fuorche per le Porte.",
+      "english": "The death penalty shall apply to those who force or attempt to force, or in any way use violence at, gates, passages, or other guarded places, or against the persons stationed there for that purpose, or against sea guards or feluccas; and to those who secretly evade the guards by passing through places, roads, or countryside where passage is prohibited, or who enter guarded cities, towns, or places by going over the walls or anywhere other than through the gates.",
+      "sourcePages": [
+        357
+      ],
+      "noteIds": [
+        "ch43-feluccas",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p10",
+      "kind": "provision",
+      "label": "Health certificates for entry and a local-worker exception",
+      "language": "it",
+      "original": "Si prohibisce similmente sotto la medesima pena della Galera, & anco della vita ad arbitrio della detta Congregatione, che alcuna persona, ancorche venga da luogo non sospetto, e non bandito, non entri, ò alcun deputato alla guardia, ò altra persona faccia entrare huomo, ò donna in alcun luogo dello Stato Ecclesiastico mediato, ò immediato, che non habbia, e mostri la fede, ò il bollettino della Sanità fatto da persona legitima, & in luogo non sospetto, eccettuando i Vignaroli, huomini de’ Casali, di Saline, e Vetturali, e Lauoratori di fuori soliti à stare nel Territorio, e luogo medesimo, quali si lascieranno entrare con fede però in scriptis del loro Padrone, doue sia scritto il loro nome, cognome, patria, segni, e sigillata col proprio sigillo del lor Padrone.",
+      "english": "Likewise, under the same penalty of the galleys, and even death at the discretion of the Congregation, no person, even when coming from a place neither considered suspect nor prohibited, may enter—and no appointed guard or other person may admit any man or woman to—any place under the Papal State’s indirect or direct rule without possessing and showing a health certificate or pass made by an authorized person in a place not considered suspect. An exception is made for vineyard workers, men employed at farmsteads or saltworks, transporters, and outside labourers accustomed to staying in that same territory and place: they may be admitted, but with a written certificate from their employer stating their first name, surname, place of origin, and distinguishing features, sealed with the employer’s own seal.",
+      "sourcePages": [
+        357,
+        358
+      ],
+      "noteIds": [
+        "ch43-territory-contact",
+        "ch43-passes",
+        "ch43-worker-exception",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p11",
+      "kind": "provision",
+      "label": "Lodging and reporting arrivals",
+      "language": "it",
+      "original": "S’ordina, che qualsiuoglia Albergatore, Hoste, Tauerniere, Padrone di Camere locande, nè qualsiuoglia altra persona riceua alcun forastiero in casa, etiam con titolo d’amicitia, ò parentela, ò altro, nè ritenga, ò permetta, che stia appresso di sè, ò in luogo a sè spettante, ò dia da mangiare, e bere; se prima non haurà visto le fedi, ò bollettino della Sanità del luogo dond’egli viene, fatto nella forma debita. Anzi li sopradetti Hosti, Albergatori, Padroni di Camere locande subito riceuuto alcun forastiero in casa debbano denuntiarlo al Gouernatore, ò Sopraintendente del luogo con mostrarli la fede della Sanità, sotto pena della Galera per cinque anni.",
+      "english": "It is ordered that no lodging-house keeper, innkeeper, tavern keeper, proprietor of rooms for hire, or any other person receive any outsider into a house, even on grounds of friendship, kinship, or any other title; nor keep that person, allow them to stay with them or on premises belonging to them, or give them food and drink, without first seeing the health certificates or pass from the place from which the person comes, made in due form. Moreover, the aforesaid innkeepers, lodging-house keepers, and proprietors of rooms for hire must report an outsider to the governor or superintendent of the place immediately upon receiving them into the house, showing the health certificate, on pain of five years in the galleys.",
+      "sourcePages": [
+        358
+      ],
+      "noteIds": [
+        "ch43-outsiders",
+        "ch43-passes",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p12",
+      "kind": "provision",
+      "label": "Certificates at religious and charitable establishments",
+      "language": "it",
+      "original": "Li Superiori de’ Monasterij, Conuenti, Religioni, Compagnie, ò altro luogo Pio, non doueranno riceuere ne’ luoghi loro persona alcuna, ancorche fosse della sua Religione, se prima non mostrerà la fede della Sanità fatta come sopra, sotto pena della priuatione dell’offitio, e voce attiua, e passiua, & altre anche corporali, e della vita ad arbitrio della medesima Congregatione della Sanità.",
+      "english": "The superiors of monasteries, convents, religious orders, confraternities, or other pious establishments must not receive anyone into their premises, even a member of their own order, unless that person first shows a health certificate made as above. The penalty is deprivation of office and of the rights to elect and be elected, together with other penalties, including corporal punishment and death, at the discretion of the same Congregation of Health.",
+      "sourcePages": [
+        358
+      ],
+      "noteIds": [
+        "ch43-religious-rights",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p13",
+      "kind": "provision",
+      "label": "Written lodging permission in Rome and within three miles",
+      "language": "it",
+      "original": "E perche in Roma, ou’è maggiore il concorso de’ forastieri, deue anco esser maggiore la diligenza, s’ordina, che nella Città medesima, e per tre miglia attorno non possano non solo li detti Albergatori, e Locandieri, mà anco qualsiuoglia altra persona, benche Ecclesiastica, e Regolare, & ogni ministro di persona di qualsisia preeminenza, e dignità, al quale come Maestro di casa, ò con altro titolo possa spettare detta cura, riceuere, ò alloggiare sotto qualsiuoglia colore, ò pretesto alcuna persona, ancorche fosse Ecclesiastica, ò Regolare, e della stessa Religione, e Conuento, oue fosse riceuuto, quando la detta persona venga da luogo distante più di venti miglia, se prima non ne hauerà ottenuta la licenza in scritto da vn’Officiale da deputarsi à questo fine da Monsignor Gouernatore, sotto pena della Galera per cinque anni, e di scudi cinquecento, & altre più graui, secondo la qualità de’ casi, e delle persone ad arbitrio della medesima Congregatione.",
+      "english": "Because Rome has a greater influx of outsiders and must therefore exercise greater diligence, it is ordered that in the city itself and within three miles around it, not only the aforesaid lodging-house keepers and innkeepers but also any other person, including ecclesiastics and members of religious orders, and every servant of a person of any precedence or dignity who, as steward or under another title, may have this responsibility, may not receive or lodge anyone under any guise or pretext—even an ecclesiastic or member of a religious order belonging to the very same order and convent where they are received—if that person comes from a place more than twenty miles away, without first obtaining written permission from an official whom Monsignor the Governor shall appoint for this purpose. The penalties are five years in the galleys, five hundred scudi, and other more severe penalties according to the circumstances and the persons, at the discretion of the same Congregation.",
+      "sourcePages": [
+        358
+      ],
+      "noteIds": [
+        "ch43-outsiders",
+        "ch43-offices-units",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p14",
+      "kind": "provision",
+      "label": "Rural establishments and contact with uncertificated persons",
+      "language": "it",
+      "original": "Si comanda in oltre sotto le sudette pene, che alcun Proueditore, Fattore, Guardiano, Guarda casali, ò capanne, Capouaccaro, Bufalaro, Pescatore, habitanti in Torre, Rocche, Fortezze, Tenute, Vigne, Pretoi, Hosterie, luoghi fuori delle Porte della Città, Terre, e Castelli dello Stato Ecclesiastico, non ricetti, nè in modo alcuno conuersi con persona, la quale non habbia fede della Sanità legitimamente fatta.",
+      "english": "It is further ordered, under the aforesaid penalties, that no purveyor, estate manager, warden, keeper of farmsteads or huts, head cattle-herder, buffalo-herder, fisherman, or inhabitant of towers, strongholds, fortresses, estates, vineyards, “Pretoi” [term uncertain], inns, or places outside the gates of the cities, towns, and castles of the Papal State shelter or have contact in any way with a person who does not possess a duly made health certificate.",
+      "sourcePages": [
+        358
+      ],
+      "noteIds": [
+        "ch43-rural-word",
+        "ch43-passes",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p15",
+      "kind": "provision",
+      "label": "Fiumicino as the permitted mouth of the Tiber",
+      "language": "it",
+      "original": "Non sia alcun Padrone di Barca, ò Tartana, ò qualsiuoglia altro Vascello, nè alcuno Marinaro, ò Pescatore, che ardisca entrare nella bocca della fiumara d’Ostia, mà entrando nel Teuere, vi entri per la bocca di Fiumicino, sotto pena della vita, e perdita del Vascello, e robba, che ci fusse.",
+      "english": "No master of a boat, tartane, or any other vessel, nor any sailor or fisherman, may dare to enter the mouth of the Ostia waterway. When entering the Tiber, they must enter by the mouth at Fiumicino, on pain of death and forfeiture of the vessel and whatever goods may be in it.",
+      "sourcePages": [
+        359
+      ],
+      "noteIds": [
+        "ch43-vessels",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p16",
+      "kind": "provision",
+      "label": "Letters arriving by sea must first go to health officials",
+      "language": "it",
+      "original": "Nella medesima pena della vita incorrerà chi sotto qualsiuoglia pretesto introdurrà, ò farà introdurre in Roma per mezo de’ Procacci, Postiglioni, Staffette, Marinari, ò altre persone, lettere, pieghi, spacci, ò altre scritture, che vengono per Mare, ancorche venissero da luoghi non sospetti, e non sospesi, ò chi le ricapiterà, ò farà ricapitare da terza persona à quelli, a’ quali sono inuiate, ò ad altri, se prima non saranno state portate agli Officiali della Sanità, accioche possino farui le douute, e necessarie diligenze. E nella stessa pena incorreranno quelli, che nella Città di Roma riceueranno le dette lettere, ò scritture, sapendo che sono introdotte contro la prohibitione sudetta.",
+      "english": "The same death penalty shall apply to anyone who, under any pretext, brings or causes to be brought into Rome through courier-carriers, postilions, express messengers, sailors, or other persons, letters, packets, dispatches, or other writings arriving by sea, even from places neither considered suspect nor suspended; or who delivers them, or causes a third person to deliver them, to their intended recipients or to others, unless they have first been taken to the health officials so that the due and necessary precautions may be carried out. The same penalty shall apply to those who receive such letters or writings in the city of Rome knowing that they have been introduced contrary to the aforesaid prohibition.",
+      "sourcePages": [
+        359
+      ],
+      "noteIds": [
+        "ch43-carriers",
+        "ch43-mail",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p17",
+      "kind": "provision",
+      "label": "Passenger and baggage checks for boats and coaches",
+      "language": "it",
+      "original": "Si prohibisce alli Barcaroli, Marinari, e Pescatori il riceuere nelle loro Barche, ouero trasportare nello Stato Ecclesiastico persona alcuna, la quale non habbia il bollettino della Sanità legitimamente fatto, sotto pena della Galera per cinque anni, e della perdita de’ Vascelli, e robbe, che saranno in essi. Et alli Cocchieri, & ad ogni altra persona sotto qualsiuoglia pretesto d’amicitia, ò di parentela l’andare, ò mandare, riceuere nelli Cocchi, ò Carrozze fuori delle Porte per introdurre in Roma, ò altre Città, e luoghi persona alcuna, che non habbia il bollettino della Sanità legitimamente fatto, ò il pigliare in essi Valigie, robbe, ò lettere, delle quali non siano certi, che vengano da luoghi non sospetti, e che prima d’introdurle non le facciano vedere alli Deputati, e Guardie assistenti alle Porte, sotto le medesime pene, contro à quali Deputati, se entrerà in questa forma persona, ò robba senza che habbiano tutte le giustificationi necessarie, si procederà alle pene arbitrarie anco corporali, e della vita.",
+      "english": "Boatmen, sailors, and fishermen are forbidden to receive into their boats or transport into the Papal State anyone who does not have a duly made health pass, on pain of five years in the galleys and forfeiture of the vessels and the goods in them. Coachmen and every other person are likewise forbidden, under any pretext of friendship or kinship, to go or send out, or receive into coaches or carriages outside the gates, anyone without a duly made health pass for the purpose of bringing them into Rome or other cities and places. Nor may they take into those vehicles trunks, belongings, or letters without being certain that they come from places not considered suspect and without showing them to the deputies and guards at the gates before bringing them in. The same penalties apply. Proceedings for discretionary penalties, including corporal punishment and death, shall also be taken against those deputies if any person or belongings enter in this way without all the necessary supporting documents.",
+      "sourcePages": [
+        359
+      ],
+      "noteIds": [
+        "ch43-passes",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p18",
+      "kind": "provision",
+      "label": "Night travel near the Neapolitan frontier",
+      "language": "it",
+      "original": "Non potrà alcuno per le strade permesse a’ confini dello Stato Ecclesiastico verso il Regno di Napoli passare, ò viaggiare passate le due hore di notte con bollettino, ò senza, sotto pena della Galera per sette anni, e scudi cento, eccettuando però li Corrieri, Staffette, e simili, che potranno passare con licenza de’ Commissarij, & Officiali de’ luoghi.",
+      "english": "No one may pass or travel along the permitted roads on the borders of the Papal State facing the Kingdom of Naples after the second hour of the night, with a pass or without one, on pain of seven years in the galleys and one hundred scudi. Couriers, express messengers, and the like are excepted: they may pass with permission from the commissioners and local officials.",
+      "sourcePages": [
+        359
+      ],
+      "noteIds": [
+        "ch43-hours",
+        "ch43-offices-units",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p19",
+      "kind": "provision",
+      "label": "Immediate reporting of infection or suspected contagious illness",
+      "language": "it",
+      "original": "S’ordina à ciascun Medico, Barbiere, & Officiale d’Hospidale, che trouando persona infetta, ò in qualsiuoglia modo sospetta di mal contagioso, & à qualsiuoglia altro, che hauesse in qualsiuoglia modo notitia di persona tale, ancorche sia suo padre, fratello, figliuolo, moglie, ò marito, subito lo riueli, essendo in Roma, all’Officiale deputato da Monsignor Gouernatore, & in altri luoghi, al Gouernatore, ò Officiale supremo del luogo medesimo, sotto pena della vita.",
+      "english": "Every physician, barber, and hospital official who finds a person infected or in any way suspected of contagious illness, and anyone else who in any way learns of such a person—even their father, brother, son, wife, or husband—is ordered to report the matter immediately. In Rome the report must be made to the official appointed by Monsignor the Governor, and elsewhere to the governor or highest official of that place, on pain of death.",
+      "sourcePages": [
+        359,
+        360
+      ],
+      "noteIds": [
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p20",
+      "kind": "provision",
+      "label": "Appointment of health-certificate issuers",
+      "language": "it",
+      "original": "Si comanda sotto pena di scudi cinquecento, & altre corporali ad arbitrio, à tutti li Gouernatori, Podestà, Magistrati, Priori, Officiali di qualsiuoglia Città, e luogo dello Stato Ecclesiastico, che debbano deputare vn’Officiale per fare le fedi, ò bollette della Sanità. E per quei luoghi, che per la loro picciolezza, e qualità de gli habitanti non haueranno persona idonea à questo effetto, basterà che le faccia il Curato del luogo.",
+      "english": "On pain of five hundred scudi and other corporal penalties at discretion, all governors, podestà, magistrates, priors, and officials of every city and place in the Papal State are ordered to appoint an official to make the health certificates or passes. In places that, because of their small size and the circumstances of their inhabitants, have no suitable person for this purpose, it shall suffice for the local parish priest to make them.",
+      "sourcePages": [
+        360
+      ],
+      "noteIds": [
+        "ch43-offices-units",
+        "ch43-passes",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p21",
+      "kind": "provision",
+      "label": "Local eligibility, forty-day residence, and endorsements for travellers",
+      "language": "it",
+      "original": "Non si vuole, che alcuno in qualsiuoglia luogo ardisca di far fede, ò dar bollettino di Sanità à qualsiuoglia viandante, forastiero, ò persona alcuna, che non sia della giurisditione del luogo stesso, ouero non habbia certezza, che habbia habitato nel luogo, ò territorio stesso per quaranta giorni, facendo di ciò espressa mentione li detti bollettini, sotto pena di sette anni di Galera, e di scudi trecento: & alli forastieri, e viandanti non dia fede, ò bollettino di sanità, mà li faccia fede d’esser passato, in piedi della fede, che porta dalla sua patria, ò dal luogo dond’è partito.",
+      "english": "No one in any place may dare to certify or issue a health pass to any wayfarer, outsider, or other person unless that person belongs to the jurisdiction of that place or the issuer is certain that the person has lived in the place or its territory for forty days; this must be expressly mentioned in the passes. The penalty is seven years in the galleys and three hundred scudi. Outsiders and wayfarers are not to be given a health certificate or pass; instead, their passage is to be certified at the foot of the certificate they carry from their place of origin or the place from which they departed.",
+      "sourcePages": [
+        360
+      ],
+      "noteIds": [
+        "ch43-residence",
+        "ch43-outsiders",
+        "ch43-passes",
+        "ch43-mention-reading",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p22",
+      "kind": "provision",
+      "label": "Every traveller must be individually identified",
+      "language": "it",
+      "original": "S’auuerta di non dar bolletta, che habbia da seruire per più persone, come sarebbe il dire Parte N. con tre compagni con vn seruitore, ò simili: mà si specifichino i nomi, e cognomi, età, contrasegni, e qualità di ciascuno; altrimente non si riceueranno, nè quelli, che saranno descritti semplicemente sotto nome di compagni, e seruitore, nè il principale nominato nella bolletta.",
+      "english": "Care must be taken not to issue a pass intended to serve for several persons by saying, for example, “N. departs with three companions, with one servant,” or the like. Instead, the first name, surname, age, distinguishing features, and status of each person must be specified. Otherwise neither those described merely as companions or a servant nor the principal person named in the pass shall be admitted.",
+      "sourcePages": [
+        360
+      ],
+      "noteIds": [
+        "ch43-passes",
+        "ch43-formula-n"
+      ]
+    },
+    {
+      "id": "ch43-p23",
+      "kind": "provision",
+      "label": "Printed forms with handwritten particulars and an official seal",
+      "language": "it",
+      "original": "Si procurerà, doue si potrà facilmente, che li bollettini siano stampati, lasciandoui lo spatio di scriuere à mano li nomi, e contrasegni delle persone, & il giorno, e sotto si scriuerà pur’ à mano il nome del Cancelliero, ò Officiale, che lo dà, & anco sarà bene, che vi si ponga il sigillo dell’Arme delle Città.",
+      "english": "Where this can readily be done, arrangements shall be made for the passes to be printed, leaving space to write by hand the names and distinguishing features of the persons and the day. Beneath, the name of the chancellor or official issuing the pass shall likewise be written by hand. It would also be well to affix the seal bearing the city’s arms.",
+      "sourcePages": [
+        360
+      ],
+      "noteIds": [
+        "ch43-passes"
+      ]
+    },
+    {
+      "id": "ch43-p24",
+      "kind": "provision",
+      "label": "Endorsement at each place of passage",
+      "language": "it",
+      "original": "Si douranno le bollette attergare per tutti li luoghi, doue si passa, dall’Officiale à ciò deputato, ò almeno dalle Guardie, che assistono alle Porte, con notare il giorno, & il nome di chi l’atterga, con queste parole. Vista in N. alli … &c. N. Deputato, ò Commissario.",
+      "english": "The passes must be endorsed at every place through which the traveller passes by the official appointed for that purpose, or at least by the guards stationed at the gates, recording the day and the name of the person making the endorsement, in these words: “Seen at N. on [date], etc. N., Deputy or Commissioner.”",
+      "sourcePages": [
+        360
+      ],
+      "noteIds": [
+        "ch43-endorsements",
+        "ch43-formula-n",
+        "ch43-formula-blank"
+      ]
+    },
+    {
+      "id": "ch43-p25",
+      "kind": "provision",
+      "label": "Missing endorsements as grounds for refusal and punishment",
+      "language": "it",
+      "original": "E però procurino tutti li Passaggieri entrar ne’ luoghi murati, che ordinariamente si passano per andare dal luogo donde partono, à quello doue vanno; perche se non porteranno le loro bollette con le attergationi sudette, non saranno ammessi, nè si riceuerà la scusa d’esser passati per di fuori, ò che non habbiano li Deputati voluto attergarla, perche si presumerà, ch’essi in fraude habbiano euitato il passarui, e che siano passati per li luoghi, ò strade, che saranno proibite; e con questa sola presontione si procederà irremissibilmente, e senz’altre proue alle pene, che saranno imposte à quelli, che passeranno per le dette strade, e luoghi, che si proibiranno.",
+      "english": "All travellers must therefore take care to enter the walled places ordinarily passed through on the journey from their point of departure to their destination. If they do not carry their passes with the aforesaid endorsements, they shall not be admitted. No excuse shall be accepted that they went around the outside, or that the deputies refused to endorse the pass: it shall be presumed that they fraudulently avoided passing through and that they travelled through prohibited places or roads. On this presumption alone, without other evidence and without remission, proceedings shall be taken to impose the penalties laid down for those who pass along the roads and through the places that are prohibited.",
+      "sourcePages": [
+        360,
+        361
+      ],
+      "noteIds": [
+        "ch43-endorsements",
+        "ch43-presumption",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p26",
+      "kind": "provision",
+      "label": "Replacement passes must preserve the previous documentary trail",
+      "language": "it",
+      "original": "E se per sorte per esser i bollettini de’ Passaggieri pieni d’attergationi, non vi resterà luogo di scriuerui, e sarà però necessario far bollettini nuoui, si facciano con esprimere, che si fanno per la causa sudetta, con lasciare in mano del Viandante il bollettino vecchio per sua giustificatione: il qual bollettino vecchio sarà necessario, che il Passaggiero esibisca in altri luoghi.",
+      "english": "If travellers’ passes happen to be so full of endorsements that no room remains for writing, making new passes necessary, the new passes must state that they are made for that reason. The old pass must be left in the traveller’s possession as supporting evidence, and the traveller must present that old pass at other places.",
+      "sourcePages": [
+        361
+      ],
+      "noteIds": [
+        "ch43-endorsements"
+      ]
+    },
+    {
+      "id": "ch43-p27",
+      "kind": "provision",
+      "label": "No blank health passes, even for privileged persons",
+      "language": "it",
+      "original": "Non si diano ad alcuno, ancorche persona cognita d’ottima qualità, anco Ecclesiastica, e Regolare, Bollette in bianco, sotto la pena della Galera per dieci anni, e cento scudi per ciascuna volta, & altre fino alla pena della vita ad arbitrio della medema Congregatione; mà si distribuiscano da’ Deputati à ciò dopo hauer scritti, e sottoscritti di propria mano il nome, cognome, e qualità sopradetta in presenza di quelli, per chi la fà.",
+      "english": "Blank passes must not be given to anyone, even a well-known person of the highest standing, including an ecclesiastic or member of a religious order. The penalty is ten years in the galleys and one hundred scudi for each occasion, together with other penalties up to death at the discretion of the same Congregation. Instead, those appointed for this purpose must distribute them only after writing and signing in their own hand the first name, surname, and aforesaid particulars, in the presence of the person for whom the pass is made.",
+      "sourcePages": [
+        361
+      ],
+      "noteIds": [
+        "ch43-passes",
+        "ch43-medema",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p28",
+      "kind": "provision",
+      "label": "Control of the supply of pass forms",
+      "language": "it",
+      "original": "All’istesse pene soggiaceranno li Stampatori, e qualsiuoglia altra persona, che vendessero, ò donassero bollette ad altri, che alli Deputati alla distributione di esse, e così quelli, che le comprassero, e riceuessero in dono da qualunque non deputato à ciò.",
+      "english": "The same penalties shall apply to printers and anyone else who sells or gives passes to anyone other than those appointed to distribute them, and likewise to those who buy them or receive them as gifts from anyone not appointed for that purpose.",
+      "sourcePages": [
+        361
+      ],
+      "noteIds": [
+        "ch43-passes",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p29",
+      "kind": "provision",
+      "label": "No lending passes; identity questions without prompting",
+      "language": "it",
+      "original": "Similmente incorreranno nelle sudette pene, tanto quelli, che riceueranno, quanto quelli, che presteranno, ò daranno le bollette segnate col loro nome, e contrasegni ad altri, che non l’hauessero, ò le hauessero non sufficienti, e non buone. E per euitar questa fraude, stiano auuertiti li Custodi, e Guardiani de’ passi, e Porte d’interrogare ciascun Passaggiero del nome, cognome, e Patria, senza suggerirli il nome descritto nella bolletta.",
+      "english": "The aforesaid penalties shall likewise apply both to those who receive passes and to those who lend or give passes bearing their own name and identifying marks to others who have none, or whose passes are insufficient or invalid. To prevent this fraud, custodians and guards of passages and gates must take care to ask each traveller their first name, surname, and place of origin without suggesting the name written in the pass.",
+      "sourcePages": [
+        361
+      ],
+      "noteIds": [
+        "ch43-passes",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p30",
+      "kind": "provision",
+      "label": "Forgery and knowing use of a forged pass",
+      "language": "it",
+      "original": "Chi ardirà falsificare le bollette col sigillo della Communità, ò la mano del Deputato à farle, incorrerà nella pena della vita, e confiscatione de’ beni, e così quello, che scientemente si valesse della detta falsità.",
+      "english": "Anyone who dares to falsify passes by counterfeiting the community’s seal or the handwriting of the deputy appointed to make them shall incur the death penalty and confiscation of goods, as shall anyone who knowingly makes use of that forgery.",
+      "sourcePages": [
+        361
+      ],
+      "noteIds": [
+        "ch43-passes",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p31",
+      "kind": "provision",
+      "label": "Certificates and passes must be free",
+      "language": "it",
+      "original": "Li bollettini, e fedi si diano gratis, ne si possa pigliare per essi cosa alcuna, etiam spontaneamente data, ancorche di poco momento, sotto pena della Galera per sette anni, e di scudi trecento.",
+      "english": "Passes and certificates must be issued free of charge. Nothing may be taken for them, even when voluntarily offered and of little value, on pain of seven years in the galleys and three hundred scudi.",
+      "sourcePages": [
+        361
+      ],
+      "noteIds": [
+        "ch43-passes",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p32",
+      "kind": "provision",
+      "label": "Secure walls and gates, report unfunded repairs, and retain the keys",
+      "language": "it",
+      "original": "Si ordina di più à tutti li Baroni di qualsiuoglia titolo, e preminenza, Padroni, Gouernatori, e Superiori delle Città, e Terre non più lontane dal Regno di vinti miglia, nè più distanti dal Mare di dieci miglia, in qualsiuoglia altra parte dello Stato Ecclesiastico, che debbano fare ogni diligenza, e procurare, che le muraglia, e Porte siano sicure, & essendo necessario, le facciano rifare, ò risarcire in maniera tale, che senza licenza del Custode delle Porte nessuno nè di giorno, nè di notte possa entrare ne’ luoghi à lor soggetti. E quando per richiedersi in ciò spesa eccessiua, per la quale non vi ha assegnamento, nè possano farlo, siano tenuti rappresentare l’impossibilità à questa Congregatione della Sanità dentro il termine di vinti giorni. Douranno in oltre, sonate le vintiquattr’hore, far portare le chiaui delle Porte in loro potere, sotto pena dell’indignatione di Sua Santità.",
+      "english": "All barons, of whatever title or precedence, lords, governors, and superiors of cities and towns no farther than twenty miles from the Kingdom, and in every other part of the Papal State no farther than ten miles from the sea, are further ordered to exercise every diligence to ensure that their walls and gates are secure. If necessary they must have them rebuilt or repaired so that no one can enter the places subject to them, by day or night, without permission from the gatekeeper. Where they cannot do this because it requires excessive expenditure for which no funds have been assigned, they must report this impossibility to the Congregation of Health within twenty days. Furthermore, when the twenty-fourth hour has sounded, they must have the gate keys brought into their own possession, on pain of His Holiness’s displeasure.",
+      "sourcePages": [
+        361,
+        362
+      ],
+      "noteIds": [
+        "ch43-offices-units",
+        "ch43-hours",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p33",
+      "kind": "provision",
+      "label": "Garrisoning towers and forts and prohibiting hospitality within them",
+      "language": "it",
+      "original": "Similmente à tutti li Padroni delle Torri, Rocche, e Fortezze, e Custodi di esse, che debbano tenerle ben custodite, e munite con il numero d’huomini, che sono obligati à tenerui; e doue non è il numero prefisso, almeno con tre huomini habili, & idonei, i quali habbiano li loro moschetti, & altri pezzi soliti colla debita munitione: e debbano li detti Torrieri, e Castellani risedere di continuo alle loro Torri, Rocche, e Fortezze colli loro soldati, nè possano far in esse in modo alcuno Hosterie, e Bettole, nè dar da mangiare ad alcuno, che venga da luogo fuori dello Stato Ecclesiastico.",
+      "english": "Likewise, all owners and custodians of towers, strongholds, and fortresses must keep them well guarded and equipped with the number of men they are obliged to maintain there. Where no number has been fixed, they must maintain at least three capable and suitable men, with their muskets and the other customary pieces of ordnance and the necessary ammunition. The tower wardens and castellans must reside continuously at their towers, strongholds, and fortresses with their soldiers. They may not establish inns or taverns there in any manner, nor give food to anyone arriving from a place outside the Papal State.",
+      "sourcePages": [
+        362
+      ],
+      "noteIds": [
+        "ch43-garrisons"
+      ]
+    },
+    {
+      "id": "ch43-p34",
+      "kind": "provision",
+      "label": "Documents and checks at authorized landing places",
+      "language": "it",
+      "original": "Li Gouernatori, ò Commissarij de’ luoghi, oue sarà permesso lo sbarco alle persone, e robbe, che vengono per Mare, non douranno ammettere alcun Vascello, robba, ò persona, se non haurà il Bollettino della Sanità fatto in luogo non sospetto, e la fede del Carico, con rincontrare li contrasegno, & il numero delle persone, e la quantità, e qualità delle robbe, e merci.",
+      "english": "The governors or commissioners of places where persons and goods arriving by sea are permitted to land must not admit any vessel, goods, or person without a health pass made in a place not considered suspect and a cargo certificate. They must check the identifying marks and the number of persons, and the quantity and kind of the belongings and merchandise.",
+      "sourcePages": [
+        362
+      ],
+      "noteIds": [
+        "ch43-passes",
+        "ch43-contrasegno"
+      ]
+    },
+    {
+      "id": "ch43-p35",
+      "kind": "provision",
+      "label": "Day and night warning signals and reports to nearby officials",
+      "language": "it",
+      "original": "Debbano li Torrieri, ò altre Guardie la notte con mortaletti, ò fuoco, & il giorno con fumate, ò mortaletti dar cenno all’occorrenze, & auuisare li Deputati, & altri officiali più vicini di quello, che sarà necessario, sotto pena della priuatione dell’officio, e della Galera per cinque anni, e scudi ducento, & ancora della vita ad arbitrio della Congregatione della Sanità rispetto alli Torrieri, e Castellani, che non risedessero nelle loro Torri, e Fortezze.",
+      "english": "Tower wardens and other guards must signal as the occasion requires, at night with small mortars or fire, and by day with smoke or small mortars, and must inform the nearest deputies and other officials of what is necessary. The penalties are deprivation of office, five years in the galleys, and two hundred scudi; and even death, at the discretion of the Congregation of Health, in the case of tower wardens and castellans who do not reside in their towers and fortresses.",
+      "sourcePages": [
+        362
+      ],
+      "noteIds": [
+        "ch43-signals",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p36",
+      "kind": "provision",
+      "label": "General duty to provide assistance",
+      "language": "it",
+      "original": "S’ordina parimente, che tutti li Commissarij, Gouernatori, Guardie di Terra, ò di Mare, Archibugiero, à Cauallo, Militie, & ogn’altra persona debbano aiutare, e soccorrere in quella parte, che fusse bisogno, richiesti, ò non richiesti per occasione di guardarsi dal mal contagioso, sotto pena della vita, e confiscatione de’ beni.",
+      "english": "It is likewise ordered that all commissioners, governors, guards on land or at sea, mounted arquebusiers, militia, and every other person must help and render assistance wherever needed for protection against contagious illness, whether requested or not, on pain of death and confiscation of goods.",
+      "sourcePages": [
+        362
+      ],
+      "noteIds": [
+        "ch43-arquebusier",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p37",
+      "kind": "provision",
+      "label": "Discriminatory entry exclusions and expulsion orders",
+      "language": "it",
+      "original": "S’ordina ancora, che non si lasci passare, nè entrare dentro alcuna Città, Terra, ò Castello alcun vagabondo, pezzente, Zingaro, Hebrei, ò mendicanti validi, etiam che habbiano il Bollettino della Sanità, e se alcuno di essi sarà trouato fuori delle strade, si faccia ritornare in esse in modo, che siano astretti per retto camino vscir fuori dello Stato Ecclesiastico, si come gli ordina, e contrauenendo, incorrano in pena di tre tratti di corda, e quelli, che li lascieranno entrare, in pena di cento scudi.",
+      "english": "It is also ordered that no vagrant, pauper, Roma person, Jew, or able-bodied beggar be allowed to pass through or enter any city, town, or castle, even if they possess a health pass. If any of them is found off the roads, they must be returned to the roads so that they are compelled to leave the Papal State by a direct route, as is hereby ordered. Those who disobey shall incur three hoists of the rope, and those who allow them to enter a penalty of one hundred scudi.",
+      "sourcePages": [
+        363
+      ],
+      "noteIds": [
+        "ch43-discrimination",
+        "ch43-rope",
+        "ch43-offices-units",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p38",
+      "kind": "provision",
+      "label": "No extortion, unauthorized obstruction, or gifts to officials",
+      "language": "it",
+      "original": "Si comanda di più ad ogni Officiale, Commissario, Deputato, Soldato, Portinaro, Custode di Torri, & à qualsiuoglia persona, che non debba farsi dar mancia, fare alcun insulto, resistenza, ò dar impedimento (se non in quanto richiederà il loro officio, ò l’esecutione de’ Bandi, & ordini dati) à Viandanti, Marinari, & à quelli, che vogliono entrare, ò passare nello Stato Ecclesiastico, nè possano da quelli riceuere robbe, ò danari, etiam spontaneamente date, ò le pigliassero in credenza con pretesto di volerle pagare, & ancorche fusse di poco momento, sotto pena della Galera per dieci anni, & anco della vita ad arbitrio della Congregatione della Sanità.",
+      "english": "Every official, commissioner, deputy, soldier, gatekeeper, tower custodian, and any other person is further ordered not to exact a gratuity, commit any assault, offer resistance, or cause any hindrance—except as required by their office or by the execution of the proclamations and orders issued—to wayfarers, sailors, and those wishing to enter or pass through the Papal State. Nor may they receive goods or money from them, even voluntarily given, or take goods on credit under the pretext of intending to pay for them, however little their value, on pain of ten years in the galleys and even death at the discretion of the Congregation of Health.",
+      "sourcePages": [
+        363
+      ],
+      "noteIds": [
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p39",
+      "kind": "provision",
+      "label": "Officials’ liability for omission and power to mitigate",
+      "language": "it",
+      "original": "Li medesimi Officiali, Soldati, Guardie, & altre persone deputate per mantenimento della Sanità, incorreranno nella pena della vita ogni volta, che contrauerranno alli Bandi publicati, e da publicarsi, ò altri ordini de’ Superiori, benche dati in voce, concernenti il seruicio della Sanità, benche il loro errore fusse d’ommissione. Si lascia però l’arbitrio à Monsignori Commissarij sopra la Sanità, ò ad altri Superiori de’ luoghi, di minuire la pena, secondo la qualità, e circostanze de’ casi.",
+      "english": "The same officials, soldiers, guards, and other persons appointed to maintain public health shall incur the death penalty whenever they contravene proclamations already published or yet to be published, or other orders of their superiors concerning the health service, even when given orally, and even if their fault is one of omission. Monsignori the Commissioners for Health or other local superiors are, however, given discretion to lessen the penalty according to the nature and circumstances of the cases.",
+      "sourcePages": [
+        363
+      ],
+      "noteIds": [
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p40",
+      "kind": "provision",
+      "label": "Local authorities must enforce the proclamation",
+      "language": "it",
+      "original": "S’ordina à tutti li Baroni di qualsiuoglia titolo, ò preeminenza, Gouernatori, Priori, Officiali, & altri Sopraintendenti di qualsiuoglia Città, Terra, e Castello, che sotto pena dell’indignatione di N. S., e d’altre pene, anche corporali, ad arbitrio della Congregatione della Sanità, debbano nelli luoghi della loro giurisditione far osseruare il sopradetto Bando inuiolabilmente.",
+      "english": "All barons, of whatever title or precedence, governors, priors, officials, and other superintendents of every city, town, and castle are ordered to ensure inviolable observance of the aforesaid proclamation in the places within their jurisdiction, on pain of Our Lord’s displeasure and other penalties, including corporal punishment, at the discretion of the Congregation of Health.",
+      "sourcePages": [
+        363
+      ],
+      "noteIds": [
+        "ch43-titles",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p41",
+      "kind": "provision",
+      "label": "The Congregation reserves authority over penalties",
+      "language": "it",
+      "original": "Si riserua la Congregatione della Sanità la facoltà d’alterare, e minuir le pene secondo la qualità de’ casi, anco fino alla pena della vita, e confiscatione de’ beni inclusiue, il che s’intenda anco in quei capi del presente Bando, ne’ quali non s’è posta pena particolare.",
+      "english": "The Congregation of Health reserves the power to alter and reduce penalties according to the nature of the cases, extending even to death and confiscation of goods. This also applies to those clauses of the present proclamation in which no particular penalty has been specified.",
+      "sourcePages": [
+        363
+      ],
+      "noteIds": [
+        "ch43-reserved-penalties",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-p42",
+      "kind": "provision",
+      "label": "Proceedings on official initiative and a one-third reward",
+      "language": "it",
+      "original": "Si dichiara, che all’esecutione del presente Bando si procederà anco ex officio, e ch’all’accusatore s’applicarà la terza parte della confiscatione, è pene.",
+      "english": "It is declared that proceedings to enforce the present proclamation may also be initiated by the authorities ex officio, and that one third of the confiscations and penalties shall be assigned to the accuser.",
+      "sourcePages": [
+        363
+      ],
+      "noteIds": [
+        "ch43-ex-officio",
+        "ch43-conjunction-accent"
+      ]
+    },
+    {
+      "id": "ch43-p43",
+      "kind": "provision",
+      "label": "Clergy, minors, and the proclamation’s commencement",
+      "language": "it",
+      "original": "Si dichiara in oltre, per ordine espresso di N. S., che al presente Bando, & alle pene poste in ciascun capo di esso, soggiacciano le persone Ecclesiastiche, anco Regolari, e priuilegiate di priuilegio tale, che fusse necessario farne special mentione, e ch’alli minori, quando non prouino d’esser minori d’anni quatordici, la minor età non suffragherà per alcuna diminutione delle dette pene, come se commettessero delitto attrocissimo di lesa Maestà, e che il presente Bando publicato in Roma nelli luoghi soliti habbia da osseruarsi inuiolabilmente passati tre giorni nella Città di Roma, e suo distretto, e passati dieci giorni doppo la publicatione in tutti li luoghi sottoposti mediatamente, ò immediatamente allo Stato Ecclesiastico, come se fusse stato publicato in ciascuno di detti luoghi, & intimato personalmente à qualsiuoglia persona.",
+      "english": "It is further declared, by the express command of Our Lord, that ecclesiastics, including members of religious orders and persons enjoying privileges that would require special mention, are subject to this proclamation and to the penalties laid down in each of its clauses. For minors, unless they prove themselves to be under fourteen years of age, minority shall afford no reduction of these penalties, as if they had committed the most atrocious crime of lèse-majesté. Once published in the customary places in Rome, the present proclamation must be inviolably observed after three days in the city of Rome and its district, and after ten days from publication in all places under the indirect or direct rule of the Papal State, as if it had been published in each of those places and personally notified to every person.",
+      "sourcePages": [
+        364
+      ],
+      "noteIds": [
+        "ch43-titles",
+        "ch43-minors",
+        "ch43-commencement",
+        "ch43-penalties"
+      ]
+    },
+    {
+      "id": "ch43-date",
+      "kind": "dateline",
+      "label": "Place and date",
+      "language": "it",
+      "original": "Dato in Roma li 22. Maggio 1656.",
+      "english": "Given in Rome on 22 May 1656.",
+      "sourcePages": [
+        364
+      ],
+      "noteIds": [
+        "ch43-date"
+      ]
+    },
+    {
+      "id": "ch43-signature-sacchetti",
+      "kind": "signature",
+      "label": "Cardinal Sacchetti",
+      "language": "it",
+      "original": "G. Card. Sacchetti.",
+      "english": "G. Cardinal Sacchetti.",
+      "sourcePages": [
+        364
+      ],
+      "noteIds": []
+    },
+    {
+      "id": "ch43-signature-rasponi",
+      "kind": "signature",
+      "label": "Secretary’s signature",
+      "language": "it",
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "sourcePages": [
+        364
+      ],
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch43-titles",
+      "type": "translation",
+      "text": "“Nostro Signore” and “N. S.” refer to the pope, here rendered “Our Lord.” “Monsignor” and other official or honorific titles are retained where an English equivalent would obscure the institutional wording. “Alma” is rendered “venerable,” not as a medical description of Rome."
+    },
+    {
+      "id": "ch43-territory-contact",
+      "type": "translation",
+      "text": "Places described as “banditi” or “sospesi” are prohibited or suspended for the purposes of the proclamation’s entry and movement rules. “Tocco” includes having touched or passed through their territory. “Commercio” here covers movement, contact and dealings, not only the buying and selling of goods. “Mediato, ò immediato” distinguishes indirect from direct papal rule."
+    },
+    {
+      "id": "ch43-passes",
+      "type": "translation",
+      "text": "“Bolletta,” “bollettino” and “fede della Sanità” are rendered as health pass or health certificate according to the passage. The text regulates their issue, identifying particulars, endorsements and recognition. Possession of such a document should not be read as a modern laboratory diagnosis or guarantee of freedom from infection."
+    },
+    {
+      "id": "ch43-penalties",
+      "type": "context",
+      "text": "These are penalties prescribed or threatened by the printed proclamation. The chapter alone does not establish how often they were imposed, whether every threatened sanction was executed, or how enforcement varied. “Galera” is translated as the galleys; discretionary extensions and reductions are preserved in the relevant passages."
+    },
+    {
+      "id": "ch43-reporting-remission",
+      "type": "translation",
+      "text": "The pardon for harbouring or delayed disclosure is conditional on the report preceding information obtained by officials elsewhere. The further remission for a person “contumace della Corte, ò condennato” concerns someone in default before the court or already convicted, and remains subject to the offence and the Sacred Consulta’s discretion. The text does not promise unconditional immunity to every reporter."
+    },
+    {
+      "id": "ch43-carriers",
+      "type": "translation",
+      "text": "The transportation vocabulary distinguishes muleteers, carters, courier-carriers (“Procacci”), couriers, postilions and other carriers. “Condottieri” is read in this transport context, rather than as military commanders. “Staffette” are express messengers."
+    },
+    {
+      "id": "ch43-offices-units",
+      "type": "translation",
+      "text": "Podestà and priors are retained as titles of local office. Scudi and miles are left in the source’s units: this reading edition does not supply a modern monetary or distance conversion. The geographical limits and monetary amounts are translated as printed."
+    },
+    {
+      "id": "ch43-guard-wording",
+      "type": "transcription",
+      "text": "The image on printed p. 275 reads “guardie sufficienti di persone idonee, & altre.” The awkward final “& altre” is retained rather than silently emended to a more natural adjective. The English likewise preserves “and others”; the exact intended sense remains unresolved."
+    },
+    {
+      "id": "ch43-rope",
+      "type": "translation",
+      "text": "“Tratti di corda” refers to the rope-hoisting punishment commonly termed strappado. “Three hoists of the rope” preserves the number and kind of penalty; it does not mean three ordinary lashes. The provision explicitly distinguishes the punishment of gentlemen from that of persons of lower rank."
+    },
+    {
+      "id": "ch43-feluccas",
+      "type": "translation",
+      "text": "“Feluche” is retained as “feluccas,” a vessel designation. In this clause they appear alongside the sea guards as objects of prohibited force or violence; no additional specifications for those vessels are supplied by the chapter."
+    },
+    {
+      "id": "ch43-worker-exception",
+      "type": "context",
+      "text": "The exception is restricted to the named categories of workers accustomed to staying in that territory and place. It requires an employer’s written and sealed certificate containing identifying particulars; it is not an exemption from documentation altogether."
+    },
+    {
+      "id": "ch43-outsiders",
+      "type": "translation",
+      "text": "“Forastiero” is rendered “outsider” because the distinction is local and jurisdictional. It does not necessarily mean a foreign national in the modern sense. Friendship, kinship, ecclesiastical status and membership of the same religious community are expressly addressed in the lodging rules."
+    },
+    {
+      "id": "ch43-religious-rights",
+      "type": "translation",
+      "text": "“Voce attiua, e passiua” is rendered as the rights to elect and be elected. “Religione” in these passages denotes a religious order, not a religion in the modern comparative sense."
+    },
+    {
+      "id": "ch43-rural-word",
+      "type": "transcription",
+      "text": "The word after “Vigne” on printed p. 276 appears to read “Pretoi.” That reading is retained, but its referent remains uncertain; the translation therefore carries the original term with an explicit uncertainty marker. No conjectural replacement with a modern place or building type has been made."
+    },
+    {
+      "id": "ch43-vessels",
+      "type": "translation",
+      "text": "“Tartana” is rendered “tartane,” retaining the historical vessel term. The operative distinction in this passage is between the prohibited Ostia mouth and the specified entry through Fiumicino."
+    },
+    {
+      "id": "ch43-mail",
+      "type": "context",
+      "text": "This paragraph requires letters and other writings arriving by sea to go first to health officials for the necessary precautions. It does not name a particular treatment such as fumigation, and the translation does not supply one or assert that the precautions were medically effective."
+    },
+    {
+      "id": "ch43-hours",
+      "type": "translation",
+      "text": "The phrases “passate le due hore di notte” and “sonate le vintiquattr’hore” are translated as “after the second hour of the night” and “when the twenty-fourth hour has sounded.” They have not been converted to 2 a.m. or midnight: the chapter does not establish a modern clock-time equivalent."
+    },
+    {
+      "id": "ch43-residence",
+      "type": "context",
+      "text": "The forty days in this provision concern eligibility to receive a locally issued certificate, based on residence known to the issuer. The sentence should not be relabelled as a universal forty-day personal quarantine order. Travellers are instead to obtain an endorsement on the certificate they already carry."
+    },
+    {
+      "id": "ch43-mention-reading",
+      "type": "transcription",
+      "text": "The image on printed p. 278 reads “facendo di ciò espressa mentione li detti bollettini.” The apparently missing preposition has not been silently inserted into the Italian. The English conveys the evident requirement to mention the qualifying circumstance in the passes."
+    },
+    {
+      "id": "ch43-formula-n",
+      "type": "translation",
+      "text": "“N.” is a placeholder in the source’s model wording: for the person departing in p22, and for place and official in p24. It is not a supplied historical name."
+    },
+    {
+      "id": "ch43-endorsements",
+      "type": "translation",
+      "text": "“Attergare” and “attergationi” refer to endorsing a document, literally on its back. The translation uses “endorse” and “endorsement,” while preserving the specified date, issuer and repeated checks along the route."
+    },
+    {
+      "id": "ch43-formula-blank",
+      "type": "transcription",
+      "text": "The ellipsis after “alli” in the model endorsement represents the blank left in print for the day, not omitted prose. The English renders that blank as “[date].” “&c.” is rendered “etc.”"
+    },
+    {
+      "id": "ch43-presumption",
+      "type": "context",
+      "text": "The provision expressly permits the prescribed penalties to proceed on the stated presumption alone and without further proof when the required endorsements are absent. It rejects both the explanation that the traveller went around the walls and the explanation that a deputy refused an endorsement. This is a statement of the proclamation’s rule, not a conclusion that a particular traveller actually used a prohibited route."
+    },
+    {
+      "id": "ch43-medema",
+      "type": "transcription",
+      "text": "The image on printed p. 279 reads “medema Congregatione.” That printed form is retained instead of silently expanding it to “medesima”; the English sense is “the same Congregation.”"
+    },
+    {
+      "id": "ch43-garrisons",
+      "type": "context",
+      "text": "The minimum of three capable men applies where no garrison number has been fixed. Where an obligation already fixes the number, the text requires that number. The same paragraph imposes continuous residence and prohibits inns, taverns and feeding arrivals from outside the Papal State within these installations."
+    },
+    {
+      "id": "ch43-contrasegno",
+      "type": "transcription",
+      "text": "The printed wording on p. 280 is “li contrasegno,” with a plural article and singular-looking noun. The transcription preserves it; the English uses “identifying marks” in the context of checking persons and cargo."
+    },
+    {
+      "id": "ch43-signals",
+      "type": "translation",
+      "text": "“Mortaletti” are rendered as small mortars in the signalling context. The text pairs them with fire at night and smoke by day. The discretionary death penalty at the end is expressly attached to the non-residence of tower wardens and castellans."
+    },
+    {
+      "id": "ch43-arquebusier",
+      "type": "transcription",
+      "text": "The source prints “Archibugiero, à Cauallo” in the list of persons required to assist. The singular-looking form and comma are retained in the Italian; the English renders the category as mounted arquebusiers."
+    },
+    {
+      "id": "ch43-discrimination",
+      "type": "context",
+      "text": "This provision explicitly excludes people by ethnic, religious and socioeconomic categories, even when they have health passes. “Zingaro” is the historical term transcribed here and is rendered “Roma person”; “Hebrei” is rendered “Jew.” The text is evidence of discriminatory policy, not evidence that these identities caused or indicated infection. The categories and coercive penalties are included for documentary completeness, not endorsed."
+    },
+    {
+      "id": "ch43-reserved-penalties",
+      "type": "translation",
+      "text": "The source says both “alterare, e minuir” and “anco fino alla pena della vita.” The English preserves this broad power over penalties, including death, without treating it as a promise only to reduce them. The reservation expressly extends to clauses without their own specified penalty."
+    },
+    {
+      "id": "ch43-ex-officio",
+      "type": "translation",
+      "text": "“Ex officio” means that the authorities may act on their own official initiative. The accuser’s one-third share refers to confiscations and the proceeds of pecuniary penalties; the translation retains the source’s general word “penalties” rather than inventing a different fraction or a new entitlement."
+    },
+    {
+      "id": "ch43-conjunction-accent",
+      "type": "transcription",
+      "text": "The conjunction before “pene” on printed p. 281 appears accented as “è.” It is retained in the reading transcription, but translated as “and” in the sentence’s enumerative context."
+    },
+    {
+      "id": "ch43-minors",
+      "type": "context",
+      "text": "The wording withholds mitigation on grounds of minority unless the person proves an age below fourteen. It does not state that all persons under fourteen are exempt from every sanction. The comparison with lèse-majesté is part of the source’s legal formulation, not a modern classification of the offences."
+    },
+    {
+      "id": "ch43-commencement",
+      "type": "context",
+      "text": "The final paragraph makes publication at Rome’s customary places sufficient for the stated legal effect: after three days for Rome and its district and ten days for the other directly or indirectly subject places. It prints no separate certification that publication actually occurred on a specified day, so no calculated commencement date is supplied here."
+    },
+    {
+      "id": "ch43-date",
+      "type": "transcription",
+      "text": "The dateline on printed p. 282 clearly reads “22. Maggio 1656.” An OCR reading of “11” is not followed. This dates the proclamation reprinted within Gastaldi’s 1684 volume; the scanned witness is not presented as a separately authenticated original broadside."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant read all ten chapter page images, checked the heading and closing boundary, and compared the reading transcription with those images. Focused enlargements were inspected for difficult words. Local notes disclose unresolved readings and retained awkward forms. This is not a human-verified diplomatic edition."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with every transcribed passage. Conditions, exceptions, penalties, documentary formulae, date and signatures are retained. Interpretive choices and unresolved wording are explained locally. Human specialist review remains pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-03",
+        "actor": "AI assistant",
+        "action": "Prepared the complete 47-segment reading transcription and English working translation from scans 355–364. Inspected every chapter page and its boundaries, verified the 22 May 1656 dateline, and checked unclear printed readings using focused image crops. Documented the expanded source coverage, exceptions, sanctions, discriminatory categories and remaining uncertainties. Human specialist review remains pending."
+      },
+      {
+        "date": "2026-11-03",
+        "actor": "Additional AI reviewers",
+        "action": "Two additional AI assistants independently compared the complete paired transcription and translation with the page images: one checked the heading and p01–p19 on scans 355–359, including p19’s continuation on scan 360; the other checked p19’s continuation through p43, the dateline and both signatures on scans 360–364. They found no substantive omission or translation discrepancy. Conditions, exceptions, fines and other penalties, documentary checks, discriminatory exclusions, commencement intervals and the 22 May 1656 date were checked. The suggested clarification of Fattore from “estate agent” to “estate manager” was applied. The unresolved readings in the local notes remain explicit. Human specialist review remains pending."
+      }
+    ]
+  }
+}

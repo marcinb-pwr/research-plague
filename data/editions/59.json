@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 59,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto",
+    "englishTitle": "Edict",
+    "date": "1656-06-25",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-59",
+    "printedPages": "305–306",
+    "scanPages": [
+      389,
+      390
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n388/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=389",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "305",
+      "306"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 59 through its final signatures on printed pp. 305–306. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        389
+      ],
+      "original": "CAP. LIX.\nEDITTO.",
+      "english": "Chapter 59\nEdict.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Fifteen-day suspension with health exception",
+      "sourcePages": [
+        389
+      ],
+      "original": "Preuedendosi, che da i congressi, & vnioni di molte persone possa auuenire qualche occasione, che cagioni pericolo di male, dal quale si spera, che la Diuina Bontà habbia da preseruare la Città di Roma, come per la Dio gratia succede sin ad hora. Perciò la Santità di Nostro Signore col presente Editto ordina, che per quindici giorni, da computarsi da hoggi, si sospenda la Segnatura, e tutte le Congregationi (eccettuatane quella della Sanità) con l’essercitio di tutti li Tribunali contentiosi per le cause ciuili.",
+      "english": "It is foreseen that meetings and gatherings of many people may provide an occasion creating a danger of disease, from which it is hoped Divine Goodness will preserve Rome, as by God’s grace has happened until now. Therefore His Holiness Our Lord orders by this edict that, for fifteen days counted from today, the Signatura and all Congregations, except the Congregation of Health, be suspended, together with the work of all contentious tribunals in civil cases.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Local delegates for small wage claims",
+      "sourcePages": [
+        389
+      ],
+      "original": "E perche nel Tribunale di Monsig. Gouernatore sono li casi più miserabili per mercede, per somme di venti scudi in giù, perciò il medesimo Monsig. deputerà in diuersi Rioni alcuni Procuratori (li cui nomi saranno publicati con particolar nota) li quali conoscano, e terminino le cause sudette, come Deputati da Monsignor Gouernatore medesimo.",
+      "english": "Because the Governor’s tribunal hears the most distressed cases concerning wages, for sums of twenty scudi or less, the Governor will appoint procurators in different districts, whose names will be published in a separate notice, to hear and determine these cases as his delegates.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Applications or appeals to other district delegates",
+      "sourcePages": [
+        389
+      ],
+      "original": "E che li ricorsi, quando entrino, saranno deputati li stessi Procuratori per li Rioni, però diuersi, e più vicini al Rione, nel quale essi sono deputati à giudicare.",
+      "english": "When applications or appeals are brought, the same district procurators will be appointed, but different ones, from districts nearest to the district in which the original delegates have been assigned to judge.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p4"
+    },
+    {
+      "kind": "provision",
+      "label": "Vicar’s tribunal",
+      "sourcePages": [
+        389,
+        390
+      ],
+      "original": "Al Tribunale del Signor Card. Vicario si preserua la cognitione delle cause esecutiue non eccedenti le somme di venti scudi.",
+      "english": "The tribunal of the Cardinal Vicar retains jurisdiction over enforcement cases not exceeding twenty scudi.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p5"
+    },
+    {
+      "kind": "provision",
+      "label": "Bills of exchange",
+      "sourcePages": [
+        390
+      ],
+      "original": "A tutti li Tribunali competenti si preserua la cognitione delle polize di cambio, & attioni prouenienti da esso.",
+      "english": "All competent tribunals retain jurisdiction over bills of exchange and actions arising from exchange.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p6"
+    },
+    {
+      "kind": "provision",
+      "label": "Camera debtors and public-debt holders",
+      "sourcePages": [
+        390
+      ],
+      "original": "Al Tribunale di Monsig. Tesoriere si preseruano le cognitioni de i Debitori Camerali mediati, & immediati à fine di poter sodisfare prontamente alli Montisti.",
+      "english": "The Treasurer’s tribunal retains jurisdiction over direct and indirect debtors of the Camera, so that holders of shares in the public debt may be paid promptly.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p7"
+    },
+    {
+      "kind": "provision",
+      "label": "Summary official powers retained",
+      "sourcePages": [
+        390
+      ],
+      "original": "E quanto alli Tribunali del Sig. Card. Camerlengo, Camera, Presidenti di Grascia, Doane, & Annona, si preserua loro l’vso della mano Regia.",
+      "english": "The tribunals of the Cardinal Camerlengo and the Camera, and the presidents responsible for provisions, customs and grain supply, retain use of the mano Regia, the power of direct official enforcement.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p8"
+    },
+    {
+      "kind": "provision",
+      "label": "Prisons",
+      "sourcePages": [
+        390
+      ],
+      "original": "Così si lascia all’arbitrio del Presidente delle Carceri l’vsare le sue facoltà.",
+      "english": "Likewise, the President of the Prisons is left to exercise his powers at his discretion.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p9"
+    },
+    {
+      "kind": "provision",
+      "label": "Port wage and supply cases",
+      "sourcePages": [
+        390
+      ],
+      "original": "Et al Presidente, e Camerlengo di Ripa, come al Presidente di Ripetta si preserua il conoscer le cause di mercede, e di quei che portano le robbe in Roma.",
+      "english": "The President and Camerlengo of Ripa, and the President of Ripetta, retain jurisdiction over wage cases and cases involving those who bring goods into Rome.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p10"
+    },
+    {
+      "kind": "provision",
+      "label": "Capitoline tribunals",
+      "sourcePages": [
+        390
+      ],
+      "original": "Quanto alli Tribunali di Campidoglio si riseruano le Cause di mercedi esecutiue ancora della somma però da venti scudi in giù.",
+      "english": "The Capitoline tribunals retain wage cases, including enforcement cases, but only for sums of twenty scudi or less.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p11"
+    },
+    {
+      "kind": "provision",
+      "label": "Urgent petitions to Congregations",
+      "sourcePages": [
+        390
+      ],
+      "original": "Per le Congregationi de’ Vescoui, e Regolari, del Concilio, d’Immunità, & altre, bisognando alcuna cosa necessaria, potranno mettersi li memoriali nelle Cassette destinate alle Case delli Secretarij, li quali colli Signori Cardinali Prefetti prouederanno alle materie più vrgenti, e speditiue.",
+      "english": "For the Congregations of Bishops and Regulars, of the Council, of Immunity and others, when something necessary is required, petitions may be placed in the designated boxes at the secretaries’ houses. Together with the cardinal prefects, they will attend to the most urgent matters requiring prompt disposal.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p12"
+    },
+    {
+      "kind": "provision",
+      "label": "Hope of restoring ordinary business",
+      "sourcePages": [
+        390
+      ],
+      "original": "Sperandosi in questi giorni con le opportune preuentioni, hauer campo di restituir à tutti li Tribunali la libertà totale d’ogni commercio.",
+      "english": "It is hoped that during these days, with appropriate precautions, it will become possible to restore complete freedom of all dealings to every tribunal.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p13"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        390
+      ],
+      "original": "Dat. in Roma li 25. Giugno 1656.",
+      "english": "Given in Rome on 25 June 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p14"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        390
+      ],
+      "original": "G. Card. Sacchetti.",
+      "english": "G. Cardinal Sacchetti.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p15"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        390
+      ],
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "language": "it",
+      "noteIds": [
+        "ch59-note1",
+        "ch59-note2",
+        "ch59-note3"
+      ],
+      "id": "ch59-p16"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch59-note1",
+      "type": "translation",
+      "text": "“Mercede” is remuneration or wages in these clauses. Scudi are retained without conversion. “Montisti” means holders of shares in funded public debt, not bankers generally."
+    },
+    {
+      "id": "ch59-note2",
+      "type": "translation",
+      "text": "The terse wording of the “ricorsi” clause is rendered as applications or appeals assigned to different nearby district procurators. It should not be read as a detailed modern appellate procedure. “Mano Regia” is retained and briefly glossed rather than translated literally as a royal hand."
+    },
+    {
+      "id": "ch59-note3",
+      "type": "context",
+      "text": "The suspension has a fifteen-day term and numerous retained functions. The closing hope of restoration is not itself a reopening order."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

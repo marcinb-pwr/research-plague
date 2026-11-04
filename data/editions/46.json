@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 46,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto",
+    "englishTitle": "Edict",
+    "date": "1656-05-26",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-46",
+    "printedPages": "287",
+    "scanPages": [
+      369
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n368/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=369",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "287"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 46 through its final signatures on printed pp. 287. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        369
+      ],
+      "original": "CAP. XLVI.\nEDITTO.",
+      "english": "Chapter 46\nEdict.",
+      "language": "it",
+      "noteIds": [
+        "ch46-note1",
+        "ch46-note2"
+      ],
+      "id": "ch46-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Exception for specified provisions",
+      "sourcePages": [
+        369
+      ],
+      "original": "Con li Bandi Generali, & altre prouisionali si è prohibito l’introdurre nello Stato Ecclesiastico Animali, & ogni sorte di Mercantie, che venissero da luogo sospetto di mal Contagioso, ò l’hauessero tocco per strada. Per euitare, in quanto sia possibile, le difficoltà impedienti la communicatione delle robbe non soggette à Contagio, in riguardo del publico seruitio, con il presente Editto d’ordine espresso di Nostro Signore si dichiara, che sarà in libertà di ciascuno il portar nello Stato Ecclesiastico, così per Mare, come per Terra, Grasce d’Animali viuenti, Vini di qualsiuoglia sorte, Droghe, & altre merci incapaci di Contagio, purche le Persone, che condurranno, habbiano seco le giustificationi della buona salute loro, de’ luoghi, d’onde sono partiti, e per li quali sono passati.",
+      "english": "The general proclamations and other provisional orders have prohibited the introduction into the Papal State of animals and every kind of merchandise coming from a place suspected of contagious disease or having touched one on the way. To avoid, as far as possible and for the public service, difficulties obstructing the circulation of goods not subject to contagion, this edict, by the express command of Our Lord, declares that everyone shall be free to bring into the Papal State, by sea or land, provisions consisting of live animals, wines of every kind, spices and other merchandise regarded as incapable of carrying contagion, provided that the persons conveying them carry documentation of their own good health and that of the places from which they departed and through which they passed.",
+      "language": "it",
+      "noteIds": [
+        "ch46-note1",
+        "ch46-note2"
+      ],
+      "id": "ch46-p2"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        369
+      ],
+      "original": "Dat. in Roma li 26. Maggio 1656.",
+      "english": "Given in Rome on 26 May 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch46-note1",
+        "ch46-note2"
+      ],
+      "id": "ch46-p3"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        369
+      ],
+      "original": "G. Card. Sacchetti.",
+      "english": "G. Cardinal Sacchetti.",
+      "language": "it",
+      "noteIds": [
+        "ch46-note1",
+        "ch46-note2"
+      ],
+      "id": "ch46-p4"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        369
+      ],
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "language": "it",
+      "noteIds": [
+        "ch46-note1",
+        "ch46-note2"
+      ],
+      "id": "ch46-p5"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch46-note1",
+      "type": "context",
+      "text": "“Incapaci di Contagio” states the historical classification of the goods, not a modern finding about their safety. The exception retains health-documentation conditions for carriers and their routes."
+    },
+    {
+      "id": "ch46-note2",
+      "type": "translation",
+      "text": "“Grasce” denotes provisions; in “Grasce d’Animali viuenti” it is connected to live animals, not an unrestricted exemption for all foodstuffs."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

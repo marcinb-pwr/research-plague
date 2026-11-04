@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 50,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto",
+    "englishTitle": "Edict",
+    "date": "1656-06-02",
+    "place": "Rome",
+    "languages": [
+      "it",
+      "la"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-50",
+    "printedPages": "291",
+    "scanPages": [
+      373
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n372/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=373",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "291"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 50 through its final signatures on printed pp. 291. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        373
+      ],
+      "original": "CAP. L.\nEDITTO",
+      "english": "Chapter 50\nEdict",
+      "language": "it",
+      "noteIds": [
+        "ch50-note1",
+        "ch50-note2"
+      ],
+      "id": "ch50-p1"
+    },
+    {
+      "kind": "preamble",
+      "label": "Issuing authority",
+      "sourcePages": [
+        373
+      ],
+      "original": "MARTIVS Miseratione Diuina Episcopus Albanen. S. R. E. Card. Ginnettus S. D. N. Papae Vicarius Generalis, Romanaeque Curiae, eiusque districtus Iudex ordinarius, &c.",
+      "english": "Marzio, by divine mercy Bishop of Albano, Cardinal Ginetti of the Holy Roman Church, Vicar General of Our Most Holy Lord the Pope, and ordinary judge of the Roman Curia and its district, etc.",
+      "language": "la",
+      "noteIds": [
+        "ch50-note1",
+        "ch50-note2"
+      ],
+      "id": "ch50-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Evening litanies, Mass prayer and indulgences",
+      "sourcePages": [
+        373
+      ],
+      "original": "D’Ordine espresso di Nostro Signore si fa intendere à tutte le Chiese di Roma, tanto Patriarcali, quanto Collegiate, e Parochiali, & à tutte l’altre Chiese de’ Secolari, e Regolari, etiam di Monache, Oratorij, Compagnie, & altre in qualsiuoglia modo, che ogni sera alle 23. hore dicano le Litanie stampate per le presenti necessità, & occorrenze del Popolo Christiano, e che nelle Messe si aggionga l’oratione, che si contiene nel Messale, Pro vitanda mortalitate tempore Pestilentiae, con efficaci orationi à Dio, acciò con la sua infinita pietà, e misericordia si degni preseruare illesa la Città di Roma, e liberare tutti gl’altri luoghi della Christianità infetti da Morbo Contagioso. Volendo la Santità Sua, che tutti quelli, che si troueranno presenti, ò che reciteranno, come sopra, anco priuatamente nelle Case loro, conseguiscano dieci anni d’Indulgenza, & altre tante quarantene.",
+      "english": "By the express command of Our Lord, all churches in Rome—patriarchal, collegiate and parish churches, and all other churches of secular clergy and religious orders, including those of nuns, oratories, confraternities and all others of whatever kind—are instructed to recite every evening at the twenty-third hour the litanies printed for the present needs and circumstances of the Christian people. At Mass they must add the prayer contained in the Missal, “For averting mortality in time of pestilence,” with fervent prayers to God that, in his infinite compassion and mercy, he may preserve Rome unharmed and deliver every other place in Christendom infected by contagious disease. His Holiness wishes all who are present, or who recite as above even privately in their own houses, to obtain ten years of indulgence and as many forty-day periods.",
+      "language": "it",
+      "noteIds": [
+        "ch50-note1",
+        "ch50-note2"
+      ],
+      "id": "ch50-p3"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        373
+      ],
+      "original": "In quorum, &c. Dat. Romae ex aedibus nostris die 2. Iunij 1656.",
+      "english": "In witness whereof, etc. Given at Rome, from our residence, on 2 June 1656.",
+      "language": "la",
+      "noteIds": [
+        "ch50-note1",
+        "ch50-note2"
+      ],
+      "id": "ch50-p4"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        373
+      ],
+      "original": "M. A. Episcopus Ierapolitanus Viceg.",
+      "english": "M. A., Bishop of Hierapolis, Vicegerent.",
+      "language": "la",
+      "noteIds": [
+        "ch50-note1",
+        "ch50-note2"
+      ],
+      "id": "ch50-p5"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        373
+      ],
+      "original": "Ioseph Pallamola Secr.",
+      "english": "Ioseph Pallamola, Secretary.",
+      "language": "la",
+      "noteIds": [
+        "ch50-note1",
+        "ch50-note2"
+      ],
+      "id": "ch50-p6"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch50-note1",
+      "type": "translation",
+      "text": "“Quarantene” here means forty-day units in the grant of indulgences, not sanitary quarantine. The text presents a spiritual provision; it does not establish a biological effect."
+    },
+    {
+      "id": "ch50-note2",
+      "type": "translation",
+      "text": "The twenty-third hour is retained without converting it to 11 p.m. The Latin titulature and closing formula are translated separately from the Italian operative text. “S. D. N.” and “S. R. E.” are expanded in English."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

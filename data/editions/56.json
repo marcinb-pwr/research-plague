@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 56,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto sopra i Mendicanti",
+    "englishTitle": "Edict on beggars",
+    "date": "1656-06-22",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-56",
+    "printedPages": "301–303",
+    "scanPages": [
+      385,
+      386,
+      387
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n384/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=385",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "301",
+      "302",
+      "303"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 56 through its final signatures on printed pp. 301–303. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        385
+      ],
+      "original": "CAP. LVI.\nEDITTO\nSOPRA I MENDICANTI.\nCarlo Bonelli dell’vna, e l’altra Segnatura Referendario, di Roma, e suo distretto Generale Gouernatore, e V. Camerlengo.",
+      "english": "Chapter 56\nEdict\nOn beggars.\nCarlo Bonelli, Referendary of both Signatures, Governor General of Rome and its district and Vice-Camerlengo.",
+      "language": "it",
+      "noteIds": [
+        "ch56-note1",
+        "ch56-note2",
+        "ch56-note3"
+      ],
+      "id": "ch56-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Registration of men and assessment for licences",
+      "sourcePages": [
+        385,
+        386
+      ],
+      "original": "Preuedendosi che la moltiplicità de’ Mendicanti possa portar pregiudicio alla publica salute, per la facilità, che questi hanno d’incorrere in malatie per il cattiuo cibo, di che si nutriscono, oltre il fetore, che con i loro cattiui habiti apportano à chiunque se gli auuicini. Hà giudicato la singolar prudenza di Nostro Sig. di trouarui pronto rimedio; che perciò in esecutione dell’ordine datoci à bocca dalla Santità Sua, commandiamo con il presente Editto, che ciascun huomo mendicante di qualsiuoglia conditione, patria, & età, purche sia sopra alli sei anni, debba nel termine di due giorni dalla publicatione di questo Editto, rassegnarsi la mattina dalle hore 12. sino alle 15. e la sera dalle 20. sino alle 24. al Portico di Santa Francesca Romana in Campo Vaccino ad vn Notaro, che con l’assistenza di Desiderio de Rossi Sostituto di Campidoglio, & interuento di Don Giuseppe Scacchi, essaminerà la qualità, e sufficienza di ciascuno, che verranno stimati necessitati di mendicare, e consegnarà vn bollettino stampato con le conditioni in esso apposte, le quali douranno da essi osseruarsi, sotto pena di stracciarseli il bollettino in caso d’inosseruanza, e rendersi perciò incapaci di poter mendicare.",
+      "english": "It is foreseen that the great number of beggars may harm public health because they readily fall ill through the bad food on which they subsist, besides the stench their poor clothing brings to anyone approaching them. The singular prudence of Our Lord has judged that a prompt remedy must be found. Therefore, in execution of His Holiness’s oral command, we order by this edict that every male beggar, of whatever condition, homeland or age, provided he is over six years old, must within two days after publication present himself, in the morning from the twelfth to the fifteenth hour or in the evening from the twentieth to the twenty-fourth hour, at the portico of Santa Francesca Romana in Campo Vaccino, to a notary. With the assistance of Desiderio de Rossi, deputy at the Capitol, and the participation of Don Giuseppe Scacchi, the notary will examine each person’s condition and capacity. Those judged to need to beg will receive a printed licence with conditions that they must observe, on pain of having the licence torn up for non-observance and consequently losing permission to beg.",
+      "language": "it",
+      "noteIds": [
+        "ch56-note1",
+        "ch56-note2",
+        "ch56-note3"
+      ],
+      "id": "ch56-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "No begging without a licence",
+      "sourcePages": [
+        386
+      ],
+      "original": "Si prohibisce à tutti quelli, à’ quali non saranno consegnati li bollettini il poter in alcuna maniera, ò in luogo alcuno mendicare; e contrafacendogli s’impone pena della frusta, & essilio, estensiua alla Galera quando per l’età, e complessione, ne siano capaci.",
+      "english": "Everyone who has not received a licence is forbidden to beg in any manner or place. Contravention incurs whipping and banishment, extending to service in the galleys when age and bodily constitution make the person fit for it.",
+      "language": "it",
+      "noteIds": [
+        "ch56-note1",
+        "ch56-note2",
+        "ch56-note3"
+      ],
+      "id": "ch56-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Enforcement and officers’ reward",
+      "sourcePages": [
+        386
+      ],
+      "original": "Dandosi per l’esecutione delle sudette pene, ordine, e facoltà alli Sbirri di qualsiuoglia Tribunale, che trouandone per strada alcuno, che sia d’età minore, lo faccino frustare, & accompagnare fuori delle Porte, con l’impositione dell’essilio; conducendo li maggiori alle Carceri per trasmettersi alla Galera, & alli Sbirri se gli darà tre giulij per ciascheduna volta, che eseguiranno.",
+      "english": "For executing these penalties, officers of any tribunal are ordered and authorized, when they find a minor in the streets, to have that person whipped and escorted outside the gates under sentence of banishment; adults are to be taken to prison for transfer to the galleys. The officers will be given three giulii for each execution of this duty.",
+      "language": "it",
+      "noteIds": [
+        "ch56-note1",
+        "ch56-note2",
+        "ch56-note3"
+      ],
+      "id": "ch56-p4"
+    },
+    {
+      "kind": "provision",
+      "label": "Work in the countryside or residence at San Saba",
+      "sourcePages": [
+        386
+      ],
+      "original": "E perche si vuole anco con gl’istessi vsar tutto quell’atto di carità, che sia possibile, quando essi non voglino vscir volontariamente alla campagna per lauorare alle Saline, ò altri lauorieri, se gli è destinato il luogo di San Saba, oue sotto il comando di Don Curtio Fratoddi, doueranno ricouerar si, eseguendo quanto dal detto gli verrà ordinato, e pigliando da esso il bollettino, senza del quale, essendo alcuno trouato, sarà subitamente frustato, e trasmesso fuori con l’esilio.",
+      "english": "Because it is also wished to show them every possible act of charity, if they do not wish voluntarily to go into the countryside to work at the saltworks or other work, San Saba has been assigned to them. They must take refuge there under the command of Don Curtio Fratoddi, obeying his orders and obtaining a licence from him. Anyone found without it will immediately be whipped and sent out under banishment.",
+      "language": "it",
+      "noteIds": [
+        "ch56-note1",
+        "ch56-note2",
+        "ch56-note3"
+      ],
+      "id": "ch56-p5"
+    },
+    {
+      "kind": "provision",
+      "label": "Registration and accommodation for women",
+      "sourcePages": [
+        386
+      ],
+      "original": "Quanto alle Donne mendicanti, douranno ancor’esse rappresentarsi nel detto luogo alle hore sudette, dal dì vltimo degl’huomini, sino alli duoi seguenti, & iui riportare il bollettino, che sarà concesso, con li riguardi sopradetti, ò gli sarà dato contrasegno per esser accettate all’Hospitio di S. Giacomo, sotto la directione, e cura dell’Abbate Scacchi. Prohibendosi sotto pena della frusta à qualsiuoglia Donna il poter mendicare senza l’hauere appresso di sè il bollettino.",
+      "english": "Women beggars must likewise present themselves at the same place and hours, from the last day assigned to the men through the two following days, and obtain the licence granted under the conditions aforesaid; or they will be given a token for admission to the hospice of San Giacomo under the direction and care of Abbot Scacchi. Every woman is forbidden, on pain of whipping, to beg without carrying her licence.",
+      "language": "it",
+      "noteIds": [
+        "ch56-note1",
+        "ch56-note2",
+        "ch56-note3"
+      ],
+      "id": "ch56-p6"
+    },
+    {
+      "kind": "provision",
+      "label": "Future applications",
+      "sourcePages": [
+        386
+      ],
+      "original": "E perche può darsi caso, che alcuno si riduca in futuro nella necessità, e stato di mendicare, se li prohibisce di ciò la prattica, fino à che non habbia ottenuto il suo bollettino, dal Notaro sudetto, il quale prima di concederli tal bollettino, dourà hauerne l’approuatione dal Sostituto Desiderij, e dal Scacchi sudetti.",
+      "english": "Because someone may in future fall into the need and condition of begging, that person is forbidden to do so until obtaining a licence from the aforesaid notary, who before granting it must obtain approval from the aforesaid deputy Desiderio and Scacchi.",
+      "language": "it",
+      "noteIds": [
+        "ch56-note1",
+        "ch56-note2",
+        "ch56-note3"
+      ],
+      "id": "ch56-p7"
+    },
+    {
+      "kind": "provision",
+      "label": "Publication",
+      "sourcePages": [
+        386,
+        387
+      ],
+      "original": "Et il presente Editto affisso, e publicato che sarà in Campo di Fiore, & altri luoghi soliti di Roma, habbia forza, e vigore, come se fusse stato à ciascuno personalmente intimato, e presentato.",
+      "english": "Once this edict has been posted and published in Campo de’ Fiori and Rome’s other customary places, it shall have force and effect as if personally notified and presented to everyone.",
+      "language": "it",
+      "noteIds": [
+        "ch56-note1",
+        "ch56-note2",
+        "ch56-note3"
+      ],
+      "id": "ch56-p8"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        387
+      ],
+      "original": "Dato in Roma dal Palazzo della nostra solita residenza questo dì 22. Giugno 1656.",
+      "english": "Given in Rome from the palace of our customary residence this 22 June 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch56-note1",
+        "ch56-note2",
+        "ch56-note3"
+      ],
+      "id": "ch56-p9"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        387
+      ],
+      "original": "Carlo Bonelli Gou. e Vicecamerlengo.",
+      "english": "Carlo Bonelli, Governor and Vice-Camerlengo.",
+      "language": "it",
+      "noteIds": [
+        "ch56-note1",
+        "ch56-note2",
+        "ch56-note3"
+      ],
+      "id": "ch56-p10"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        387
+      ],
+      "original": "Gio: Andrea Genuense Not. per la Carità.",
+      "english": "Gio. Andrea Genuense, Notary for the Carità.",
+      "language": "it",
+      "noteIds": [
+        "ch56-note1",
+        "ch56-note2",
+        "ch56-note3"
+      ],
+      "id": "ch56-p11"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch56-note1",
+      "type": "context",
+      "text": "The opening links poverty, diet and clothing to feared disease in the source’s own terms. This is evidence of the authorities’ rationale and coercive policy, not proof that poverty or a person’s status indicated infection."
+    },
+    {
+      "id": "ch56-note2",
+      "type": "translation",
+      "text": "“Bollettino” here is a begging licence, not the travel health pass found in other chapters. Historical hours are retained without a modern-clock conversion; giulii are left in the source’s monetary unit."
+    },
+    {
+      "id": "ch56-note3",
+      "type": "transcription",
+      "text": "The name of the San Saba supervisor is read as “Curtio Fratoddi” from the image. This reading is retained without substituting a guessed modern surname."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

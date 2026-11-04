@@ -76,3 +76,10 @@ Contemporary theories of air, humors, contagion and divine assistance coexist in
 ## Rights and attribution
 
 Gastaldi's original 1684 text is public-domain historical material. The local facsimiles retain the source scan's visual marks and their Internet Archive/Google digitization provenance. Consult the provider's accompanying notices when reusing the scan. This documentation does not assign a blanket license to the new catalogue, English editorial content or application code.
+
+
+## First twenty untranslated chapters — 4 November 2026
+
+The source-linked reading editions now cover chapters 42–62 and 99 (22 chapters). The new batch is 42–54 and 56–62. Nineteen new full-page PDF excerpts were added, and the chapter 43 excerpt was expanded from selected pages to all ten chapter pages (printed 273–282, scans 355–364). Every paired passage identifies its scan positions; chapter boundaries, normalization, translation choices and unresolved readings are documented in each JSON edition. The site now has 29 excerpt records.
+
+Catalogue corrections made during this pass remove an unsupported route requirement from chapter 49, distinguish Monte Fiore and its vicinity from all of Trastevere in chapter 58, identify public-debt holders rather than pensions in chapter 59, and retain the chain-or-lock alternative in chapter 61. Chapter 51 explicitly describes the reported illness as having no appearance of contagion. The source remains a printed historical prescription, not proof of implementation or effect. Human specialist review of the editions is pending.

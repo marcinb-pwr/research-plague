@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 52,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Bando",
+    "englishTitle": "Proclamation",
+    "date": "1656-06-15",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-52",
+    "printedPages": "293",
+    "scanPages": [
+      375
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n374/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=375",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "293"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 52 through its final signatures on printed pp. 293. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        375
+      ],
+      "original": "CAP. LII.\nBANDO.",
+      "english": "Chapter 52\nProclamation.",
+      "language": "it",
+      "noteIds": [
+        "ch52-note1"
+      ],
+      "id": "ch52-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Report arrivals from Nettuno since 8 June",
+      "sourcePages": [
+        375
+      ],
+      "original": "L’Illustriss. e Reuerendiss. Monsig. Carlo Bonelli di Roma, e suo distretto Gouernatore Generale, e Vicecamerlengo, secondo lo stabilimento fatto nella Congregatione sopra la Sanità, con il presente Bando fà intendere, e notifica à qualsiuoglia persona di qualsiuoglia stato, grado, e conditione, tanto secolare, come Ecclesiastica, e Regolare, che dalla Terra di Netunno sia arriuata in Roma dalli 8. del corrente mese in quà inclusiue, debba nel termine di tutto hoggi sotto pena della vita, e confiscatione de’ beni, presentarsi auanti il Commissario della Sanità residente à Ripa con denuntiare il giorno, che arriuarono in compagnia di chi, che robbe habbiano portate, e doue le ritenghino, e doue alloggino, e come siano venuti, & eseguire quel tanto che dal detto Commissario gli sarà ordinato.",
+      "english": "The Most Illustrious and Most Reverend Monsignor Carlo Bonelli, Governor General of Rome and its district and Vice-Camerlengo, in accordance with the decision made in the Congregation of Health, gives notice by this proclamation to every person, of whatever estate, rank or condition, whether secular, ecclesiastical or a member of a religious order, who has arrived in Rome from Nettuno from the eighth of the present month onward, inclusive: before the end of today, on pain of death and confiscation of goods, they must present themselves to the Commissioner of Health resident at Ripa, report the day they arrived, with whom, what belongings they brought, where they keep them, where they lodge and how they came, and carry out whatever the Commissioner orders them.",
+      "language": "it",
+      "noteIds": [
+        "ch52-note1"
+      ],
+      "id": "ch52-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Hosts and others with knowledge must report",
+      "sourcePages": [
+        375
+      ],
+      "original": "Et in oltre si ordina sotto detta pena della vita, e confiscatione de’ beni ad ogni, e qualunque persona, come sopra, che ritenga in Casa, ò che sappia, & habbia notitia alcuna di qualsiuoglia persona venuta, & arriuata in Roma dalli 8. del presente mese in quà, come sopra, ò di loro robbe, portate, e venute parimente dalla detta Terra di Netunno, debba dentro detto termine notificarlo à Sua Signoria Illustrissima, ò suo infrascritto Notaro, per potere opportunamente prouedere à quanto parerà espediente per la conseruatione della publica salute, e vuole, che il presente Bando affisso, e publicato per li luoghi soliti di Roma oblighi, & astringa ciascheduno, come se gli fosse stato personalmente intimato.",
+      "english": "Furthermore, under the same penalty of death and confiscation of goods, every person aforesaid who keeps in their house, or knows or has any information about, anyone who has come and arrived in Rome since the eighth of this month as above, or about their belongings likewise brought from Nettuno, must notify His Most Illustrious Lordship or his undersigned notary within that deadline, so that suitable provision may be made for whatever is considered expedient for preserving public health. He wishes this proclamation, once posted and published at Rome’s customary places, to oblige and bind everyone as if personally notified.",
+      "language": "it",
+      "noteIds": [
+        "ch52-note1"
+      ],
+      "id": "ch52-p3"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        375
+      ],
+      "original": "Et in fede, &c. Dato in Roma questo dì 15. Giugno 1656.",
+      "english": "In witness, etc. Given in Rome this 15 June 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch52-note1"
+      ],
+      "id": "ch52-p4"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        375
+      ],
+      "original": "Carlo Bonelli Gou. e Vicecamerl.",
+      "english": "Carlo Bonelli, Governor and Vice-Camerlengo.",
+      "language": "it",
+      "noteIds": [
+        "ch52-note1"
+      ],
+      "id": "ch52-p5"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        375
+      ],
+      "original": "Gio: Andrea Genuense Not. per la Carità.",
+      "english": "Gio. Andrea Genuense, Notary for the Carità.",
+      "language": "it",
+      "noteIds": [
+        "ch52-note1"
+      ],
+      "id": "ch52-p6"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch52-note1",
+      "type": "context",
+      "text": "The reporting window is retrospective to 8 June inclusive, rather than beginning on the date of the order. The text requires companions, belongings, locations and manner of travel, as well as compliance with the Commissioner’s directions."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

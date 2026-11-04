@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 45,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto",
+    "englishTitle": "Edict",
+    "date": "1656-05-26",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-45",
+    "printedPages": "284–286",
+    "scanPages": [
+      366,
+      367,
+      368
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n365/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=366",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "284",
+      "285",
+      "286"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 45 through its final signatures on printed pp. 284–286. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        366
+      ],
+      "original": "CAP. XLV.\nEDITTO\nAntonio Barberino per la misericordia di Dio Vescouo di Frascati\nCardinale Antonio della S. R. C. Camerlengo.",
+      "english": "Chapter 45\nEdict\nAntonio Barberini, by the mercy of God Bishop of Frascati,\nCardinal Antonio, Camerlengo of the Holy Roman Church.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p1"
+    },
+    {
+      "kind": "preamble",
+      "label": "Purpose and renewal of earlier orders",
+      "sourcePages": [
+        366,
+        367
+      ],
+      "original": "Per conseruatione della Sanità, & ouuiare all’infettione d’aria, che potrebbe causarsi dalle immonditie, materie sporche, & acque putrefatte, che continuamente contro la forma de nostri Ordini si vedono in questa Città, è necessario mantenerla netta, e polita. Però d’ordine espresso di N. Sig. datoci à bocca, e con l’interuento degl’Illustrissimi Signori Mastri di Strade habbiamo stabiliti gl’infrascritti Ordini; e prima rinouando tutti, e singoli Bandi, Ordini, & Editti altre volte publicati, in quanto però non sono contrarij al presente Editto, ordiniamo, e commandiamo,",
+      "english": "To preserve health and prevent the infection of the air that might be caused by the refuse, filthy materials and putrid waters continually seen in this city contrary to our orders, it must be kept clean. Therefore, by the express oral command of Our Lord, and with the participation of the Most Illustrious Masters of Streets, we have established the following orders. First renewing all proclamations, orders and edicts previously published, insofar as they do not conflict with this edict, we order and command:",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "No dumping in public or private streets",
+      "sourcePages": [
+        367
+      ],
+      "original": "Che nessuna persona di qualsiuoglia stato, grado, honore, dignità, e preeminenza si sia, ardisca, ò presuma sotto qualsiuoglia pretesto buttare, ò far buttare nelle strade, ò vicoli tanto publichi, quanto priuati, piazze, & altri luoghi, ceneracci, lisciacci, cani, gatti, ò altra qualsiuoglia sorte di carne, & animali morti, immondezze, & altre quali si siano materie, & acque sporche, sotto pena di scudi 25. moneta per ciascuno, e per ciascheduna volta, da applicarsi ad arbitrio nostro, e di detti Signori Mastri di Strade.",
+      "english": "No person, of whatever estate, rank, honour, dignity or precedence, shall dare or presume under any pretext to throw, or cause to be thrown, into public or private streets or alleys, squares or other places, ash waste, spent lye, dogs, cats, any other kind of flesh or dead animals, refuse, or any other filthy materials and waters, on pain of twenty-five scudi in currency for each person and each offence, to be applied at our discretion and that of the Masters of Streets.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Remove manure and waste to the river current",
+      "sourcePages": [
+        367
+      ],
+      "original": "Che nessuna persona, come sopra, ardisca mettere, e ritenere nelle strade, e loro Cortili, siti, ò scoperti alcuna quantità di stabio, letame, & altra sorte d’immondezze, e materie sporche, mà quelle subito leuate dalli loro luoghi, e stalle immediatamente portarle, e farle condurre al fiume à i luoghi soliti con buttarle nella corrente dell’acqua, in maniera, che non habbia la robba à restare à render fetore nelle ripe del Teuere, sotto pena di scudi cinquanta per ciascheduno, e per ciascheduna volta che sarà trouato in contrario, d’applicarsi come sopra.",
+      "english": "No person aforesaid shall place or keep any quantity of dung, manure, other refuse or filthy materials in streets, courtyards, sites or open spaces. Once removed from their premises and stables, these must immediately be carried or conveyed to the river at the customary places and thrown into the current, so that the material does not remain to cause a stench on the banks of the Tiber, on pain of fifty scudi for each person and each offence, to be applied as above.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p4"
+    },
+    {
+      "kind": "provision",
+      "label": "Three-day cleaning deadline and disused wells",
+      "sourcePages": [
+        367
+      ],
+      "original": "Che tutte, e singole persone, come sopra, le quali hanno i loro luoghi, Cortili, Cantine, e Pozzi ripieni di stabij, immondezze, materie, & acque sporche, e putrefatte, debbano sotto la medema pena frà tre giorni prossimi hauerli del tutto netti, ò vuotati, con portare la robba à’ luoghi soliti, come sopra, e quelli, che haueranno li detti Pozzi de’ quali si sia tralasciato l’vso, debbano riempirli, e rimutarli in maniera, che non venga à restarui acqua, e materia, che renda puzza, e fetore.",
+      "english": "All persons aforesaid whose premises, courtyards, cellars or wells are filled with dung, refuse, filthy or putrid materials or waters must, under the same penalty, have them entirely cleaned or emptied within the next three days, carrying the material to the customary places as above. Those with such wells that have fallen out of use must fill and alter them so that water or material producing foul smells and stench cannot remain there.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p5"
+    },
+    {
+      "kind": "provision",
+      "label": "Tenants act if landlords fail",
+      "sourcePages": [
+        367
+      ],
+      "original": "Auuertendo che non essendosi adempite, ò non adempiendosi le cose sudette da’ Padroni delle Case frà tre giorni dopo la publicatione del presente Editto, oltre l’essere incorsi nelle pene sudette, siano tenuti li pigionanti farlo, e farlo fare loro istessi frà altri tre giorni à spese di detti Padroni, sotto le medesime pene, dandoli facoltà di potersi rimborsare di quel tanto che haueranno speso, e ritenerselo nelle pigioni, che douranno pagare.",
+      "english": "If the owners of houses have not fulfilled or do not fulfil these requirements within three days after publication of this edict, besides their incurring the stated penalties, the tenants must themselves perform or arrange the work within a further three days at the owners’ expense, under the same penalties. They are authorized to reimburse themselves for what they spend by deducting it from the rent they must pay.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p6"
+    },
+    {
+      "kind": "provision",
+      "label": "Slaughter waste and drains",
+      "sourcePages": [
+        367,
+        368
+      ],
+      "original": "Che alli Macellari, Pelapiedi, & altri, che con loro essercitio hanno robba, che rende fetore, non sia lecito poter ritenere nelle loro rimesse, macelli, e luoghi sanguaccio, e materia putrida, mà quello subito nell’istesso giorno, che macelleranno, ò haueranno fatto, debbano portarlo, e buttarlo à fiume, che vada nella corrente, come sopra, & hauendoci chiauiuchette debbano mantenerle nette, e pulite, in maniera, che il sangue, e materia, che ci si butta non resti ferma, mà che corra liberamente, nè meno li sia lecito buttare la detta materia alla bocca delle Chiauiuche publiche, sotto pena di scudi 25. e tre tratti di corda per ciascuno, e per ciascheduna volta.",
+      "english": "Butchers, preparers of animal feet and others whose trades produce foul-smelling material may not keep blood waste or putrid matter in their sheds, slaughterhouses or premises. On the very day of slaughtering or producing it, they must carry it to the river and throw it into the current as above. Where there are small drains, they must keep them clean so that blood and matter thrown into them do not stagnate but flow freely. Nor may they throw this matter at the mouths of public sewers, on pain of twenty-five scudi and three hoists of the rope for each person and each offence.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p7"
+    },
+    {
+      "kind": "provision",
+      "label": "Shell vegetables indoors and remove husks",
+      "sourcePages": [
+        368
+      ],
+      "original": "Si prohibisce à tutti, e singoli Herbaroli, Fruttaroli, Matriciani, & altre persone, che scafano Piselli, Faue, Fagioli, & altre cose simili nelle Piazze, strade, vicoli auanti le loro Botteghe, e Case, quelle per l’auuenire debbano scafare nelle loro Botteghe, e Case, e nelli luoghi sopradetti, & immediatamente le dette scafature, e scorze mandarle à fiume alli Porti soliti con buttarle nella corrente dell’acqua sotto le medesime pene.",
+      "english": "All vegetable sellers, fruit sellers, Matriciani and other persons who shell peas, broad beans, beans and similar things in squares, streets or alleys before their shops and houses are prohibited from doing so; henceforth they must shell them in their shops and houses, and in the aforesaid places, and immediately send the shellings and husks to the river at the customary landing places and throw them into the current, under the same penalties.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p8"
+    },
+    {
+      "kind": "provision",
+      "label": "Daily cleaning by market leaseholders",
+      "sourcePages": [
+        368
+      ],
+      "original": "Che tutti gli Affittuarij delle Piazze di Roma siano obligati giornalmente portare, e far portar via alli Porti soliti tutte le immonditie, che si faranno in dette Piazze, e quelle mantenerle pulite, altrimente incorreranno nella pena della carceratione, e di scudi dieci per ciascheduna volta, oltre, che si faranno pulire, nettare, e portar via dette immonditie à tutte loro spese da esigersi dalli Affittuarij immediatamente senza altra Citatione, interpellatione, ò notificatione.",
+      "english": "All leaseholders of Rome’s market squares must daily carry or have carried away to the customary landing places all refuse produced in those squares and keep them clean. Otherwise they shall incur imprisonment and ten scudi for each offence; the cleaning and removal of refuse will also be carried out entirely at their expense, to be recovered from the leaseholders immediately without further summons, demand or notification.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p9"
+    },
+    {
+      "kind": "provision",
+      "label": "No pigs in streets and squares",
+      "sourcePages": [
+        368
+      ],
+      "original": "Che nessuna persona, come sopra, ardisca, ò presuma tenere, nè mandare per le strade, piazze, & altri luoghi della Città Porci, nè grandi, nè piccioli, sotto la pena della perdita di essi, & altre pene pecuniarie, e corporali à nostro arbitrio. Dando autorità al nostro Barigello, & Esecutori, che in ogni caso di contrauentione possano ammazzarli senza incorso di pena alcuna, con darne subito notitia all’Officio dell’infrascritto nostro Notaro per distribuirli à luoghi pij conforme alli altri Bandi.",
+      "english": "No person aforesaid shall keep or send pigs, large or small, through the streets, squares or other places of the city, on pain of forfeiting them and other monetary and corporal penalties at our discretion. Our chief enforcement officer and his officers are authorized, in every case of contravention, to kill them without incurring any penalty, immediately notifying the office of our undersigned notary so that they may be distributed to charitable institutions according to the other proclamations.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p10"
+    },
+    {
+      "kind": "provision",
+      "label": "Publication and binding force",
+      "sourcePages": [
+        368
+      ],
+      "original": "Et affisso, e publicato, che sarà il presente Editto in Campo di Fiore, all’Officio, e luoghi soliti di Roma, debba inuiolabilmente osseruarsi sotto le sudette pene, & altre pecuniarie, e corporali à nostro arbitrio, e di detti Signori Mastri di Strade, & astringa ogn’vno, come se li fosse stato personalmente intimato.",
+      "english": "Once this edict has been posted and published in Campo de’ Fiori, at the office and at Rome’s customary places, it must be observed without violation under the stated penalties and other monetary and corporal penalties at our discretion and that of the Masters of Streets. It shall bind everyone as if personally notified.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p11"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        368
+      ],
+      "original": "Dato in Roma li 26. Maggio 1656.",
+      "english": "Given in Rome on 26 May 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p12"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        368
+      ],
+      "original": "Per l’Em̃o Sig. C. A. C. F. A. Card. Rapaccioli.",
+      "english": "For the Most Eminent Lord C. A. C., F. A. Cardinal Rapaccioli.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p13"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        368
+      ],
+      "original": "Francesco Maria Antaldi Aud.",
+      "english": "Francesco Maria Antaldi, Auditor.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p14"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        368
+      ],
+      "original": "Francesco Orsino Mastro di Strade.",
+      "english": "Francesco Orsino, Master of Streets.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p15"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        368
+      ],
+      "original": "Marcello Crescentio Mastro di Strade.",
+      "english": "Marcello Crescentio, Master of Streets.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p16"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        368
+      ],
+      "original": "Vincentio Ottauiani Not.",
+      "english": "Vincentio Ottaviani, Notary.",
+      "language": "it",
+      "noteIds": [
+        "ch45-note1",
+        "ch45-note2",
+        "ch45-note3"
+      ],
+      "id": "ch45-p17"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch45-note1",
+      "type": "context",
+      "text": "The source explains cleansing through a historical theory of infected air and explicitly orders waste into the Tiber. This is a historical prescription, not modern wastewater management or evidence of effectiveness."
+    },
+    {
+      "id": "ch45-note2",
+      "type": "transcription",
+      "text": "The vegetable-shelling clause prints the awkward “e nelli luoghi sopradetti” after ordering work indoors. It is retained and translated literally rather than silently emended to “not in the aforesaid places.”"
+    },
+    {
+      "id": "ch45-note3",
+      "type": "translation",
+      "text": "“Tratti di corda” refers to rope-hoisting punishment (strappado), not lashes. “Matriciani” is retained as a historical occupational/community designation rather than assigned an unsupported modern equivalent. The abbreviated first countersignature is retained without a conjectural full expansion."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

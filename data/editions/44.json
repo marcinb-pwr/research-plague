@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 44,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Bando sopra le guardie delle marine per causa di peste",
+    "englishTitle": "Proclamation on coastal guards because of plague",
+    "date": "1656-05-22",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-44",
+    "printedPages": "282–284",
+    "scanPages": [
+      364,
+      365,
+      366
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n363/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=364",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "282",
+      "283",
+      "284"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 44 through its final signatures on printed pp. 282–284. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        364
+      ],
+      "original": "CAP. XLIV.\nBANDO\nSOPRA LE GVARDIE DELLE MARINE\nPER CAVSA DI PESTE.",
+      "english": "Chapter 44\nProclamation\nOn coastal guards\nBecause of plague.",
+      "language": "it",
+      "noteIds": [
+        "ch44-note1",
+        "ch44-note2"
+      ],
+      "id": "ch44-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Four approved landing places",
+      "sourcePages": [
+        364,
+        365
+      ],
+      "original": "Se bene per altri sospetti di Peste con Bando particolare publicato li 28. Agosto 1652. furono prescritte le regole da osseruarsi nelle Guardie, e Custodie delle Marine, nondimeno in riguardo de pericoli più prossimi del Mal Contagioso, per li quali si è venuto alla sospensione della Città di Napoli, suoi Borghi, e Territorio, conuenendo di premer maggiormente alla conseruatione della salute publica, l’Eminentissimo, e Reuerendissimo Signor Card. Sacchetti, rinouandole, ordina per commissione espressa di Nostro Signore à qualsiuoglia Gouernatore, Podestà, Commissario, Soldato, Custode di Torri, e ad ogn’altro Officiale, ò persona, che nella spiaggia dello Stato Ecclesiastico mediato, ò immediato, cominciando dal confine del Regno verso Terracina fino à Montalto, e suo Territorio inclusiue, non permetta lo sbarco, ò commercio ad alcun Vascello, ò robbe, animali, persone, e lettere, che in esso venissero da qualsiuoglia parte, benche sana, e lontana da ogni sospetto di mal Contagioso, ancorche fossero partite da luoghi dello Stato di Sua Santità, ò venendo da Stati alieni hauessero già hauuto commercio in altri Porti, ò luoghi del Dominio Ecclesiastico, eccettuando però li Pescatori conosciuti, che sono soliti à stare in quelle spiaggie, per li quali si daranno ordini, & instruttioni à parte; Poiche vuole Sua Eminenza, che solamente à Terracina, Nettunno, Fiumicino, e Ciuità Vecchia, e non altroue si dia sbarco, e prattica à quelli, che per Mare verranno da Paesi non sospetti, secondo gl’ordini, che si daranno à gli Officiali di detti luoghi:",
+      "english": "Although, on account of earlier suspicions of plague, a special proclamation published on 28 August 1652 prescribed rules for coastal guards and watch, the nearer dangers of contagious disease that have led to the suspension of Naples, its suburbs and territory now require greater attention to preserving public health. His Most Eminent and Most Reverend Lord Cardinal Sacchetti renews those rules and, by the express commission of Our Lord, orders every governor, podestà, commissioner, soldier, tower keeper, other official or person on the coast of the Papal State under direct or indirect rule, from the border of the Kingdom toward Terracina to Montalto and its territory inclusive, to permit no landing or dealings by any vessel, or by the belongings, animals, persons and letters it carries from anywhere, even a healthy place free of suspicion of contagious disease. This applies even if they departed from places within His Holiness’s State, or, coming from foreign states, have already had dealings at other ports or places of the Papal dominion. Known fishermen accustomed to those coasts are excepted; separate orders and instructions will be issued for them. His Eminence wishes landing and admission to dealings for those coming by sea from places not considered suspect to be granted only at Terracina, Nettuno, Fiumicino and Civitavecchia, and nowhere else, according to the orders to be given to the officials there.",
+      "language": "it",
+      "noteIds": [
+        "ch44-note1",
+        "ch44-note2"
+      ],
+      "id": "ch44-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Redirect vessels and report forced landings",
+      "sourcePages": [
+        365
+      ],
+      "original": "Si ordina però à ciascun Torriero, & Officiale, come sopra, che accostandosi alla spiaggia qualche Vascello per sbarcare, faccia precetto à’ Padroni, e Marinari, che sotto pena capitale si trasferischino ad vno delli detti quattro luoghi destinati allo sbarco, oue saranno riconosciute le loro fedi, e secondo la qualità d’esse sarà loro dato, ò negato il commercio, e quando alcuno violentemente sbarcasse, dourà il detto Torriero darne subito auuiso all’Officiale del luogo più vicino delli detti quattro nominati di sopra con significarli li contrasegni, e qualità del Vascello, e della persona, ò robba sbarcata.",
+      "english": "Every tower keeper and official aforesaid is therefore ordered, when a vessel approaches the shore to land, to command its masters and sailors, on pain of death, to proceed to one of the four designated landing places. Their certificates will be examined there, and dealings permitted or refused according to their character. If anyone lands by force, the tower keeper must immediately inform the official at the nearest of the four places named above, stating the identifying marks and characteristics of the vessel and of the person or goods landed.",
+      "language": "it",
+      "noteIds": [
+        "ch44-note1",
+        "ch44-note2"
+      ],
+      "id": "ch44-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Storm or corsair emergency",
+      "sourcePages": [
+        365
+      ],
+      "original": "Potendo occorrere, che alcuna Barca sia per forza di tempesta, ò per esser cacciata da’ Corsari costretta à dar alla spiaggia, in tal caso dourà il Torriero più vicino ordinare alli Marinari, ò altre persone, che non ardiscano sbarcare, ò hauer commercio con alcuno, e che subito cessata la tempesta, ò allontanato il Vascello Corsaro partano.",
+      "english": "If a boat is forced toward the shore by a storm or pursuit by corsairs, the nearest tower keeper must order the sailors and other persons not to disembark or have contact with anyone, and to depart as soon as the storm ceases or the corsair vessel withdraws.",
+      "language": "it",
+      "noteIds": [
+        "ch44-note1",
+        "ch44-note2"
+      ],
+      "id": "ch44-p4"
+    },
+    {
+      "kind": "provision",
+      "label": "Officials may accept nothing",
+      "sourcePages": [
+        365
+      ],
+      "original": "Si prohibisce parimente à ciascun Torriero, & Officiale, come sopra, il riceuere qualsiuoglia cosa, anche data spontaneamente da Marinari, ò altri, che vengono sopra le Barche.",
+      "english": "Every tower keeper and official aforesaid is likewise forbidden to receive anything, even when freely offered, from sailors or others arriving aboard boats.",
+      "language": "it",
+      "noteIds": [
+        "ch44-note1",
+        "ch44-note2"
+      ],
+      "id": "ch44-p5"
+    },
+    {
+      "kind": "provision",
+      "label": "Fishermen may not receive cargo or passengers",
+      "sourcePages": [
+        365
+      ],
+      "original": "Alli Pescatori, che stanno ne’ luoghi, e spiagge dello Stato Ecclesiastico, si ordina, che non ardiscano di pigliare robbe, ò persone, ò lettere d’altri Vascelli, ancorche questi vengano da parte non sospetta, nè contrattare con essi in modo alcuno.",
+      "english": "Fishermen in the places and along the coasts of the Papal State are ordered not to take belongings, persons or letters from other vessels, even if these come from a place not considered suspect, nor to deal with them in any way.",
+      "language": "it",
+      "noteIds": [
+        "ch44-note1",
+        "ch44-note2"
+      ],
+      "id": "ch44-p6"
+    },
+    {
+      "kind": "provision",
+      "label": "Penalties and responsibility for guards",
+      "sourcePages": [
+        365,
+        366
+      ],
+      "original": "E perche preme à Sua Eminenza, che il presente Bando sia in tutte le sue parti osseruato con quella fede, e diligenza, che richiede l’importanza della materia, si dichiara, che li trasgressori tanto gli Officiali deputati alle guardie, quanto li Marinari, e Passaggieri, & altre persone saranno puniti con pena della vita. E che li Padroni de’ luoghi, li quali vsassero negligenza nel far fare le necessarie, e sufficienti guardie, ò nel deputare à questo fine persone stimate communemente habili, ò hauessero in qualsiuoglia modo colpa nella trasgressione del presente Bando, incorreranno nelle pene arbitrarie à Sua Eminenza anco della vita, e confiscatione de’ beni.",
+      "english": "Because His Eminence requires this proclamation to be observed in every part with the fidelity and diligence demanded by the importance of the matter, it is declared that offenders—whether officials assigned to guard duty, sailors, passengers or other persons—shall be punished with death. The lords of places who are negligent in arranging necessary and sufficient guards, in appointing persons generally regarded as capable for this purpose, or are in any way at fault in a breach of this proclamation, shall incur penalties at His Eminence’s discretion, including death and confiscation of goods.",
+      "language": "it",
+      "noteIds": [
+        "ch44-note1",
+        "ch44-note2"
+      ],
+      "id": "ch44-p7"
+    },
+    {
+      "kind": "provision",
+      "label": "Universal application and publication",
+      "sourcePages": [
+        366
+      ],
+      "original": "Dichiarandosi, che il presente Bando comprenda qualsiuoglia persona etiam Ecclesiastica, e Regolare, e priuilegiata, ancorche di priuilegio tale, che fosse necessario farne special mentione; e che à minori non suffragherà la minorità in caso di contrauentione, come se commettessero delitto di lesa Maestà; E che publicato in Roma nelli luoghi soliti habbia la medesima forza, come se fosse publicato in ciascun luogo dello Stato Ecclesiastico, e che astringa ciascheduno, come se gli fosse personalmente intimato.",
+      "english": "It is declared that this proclamation includes every person, including ecclesiastics, members of religious orders and privileged persons, even those whose privilege would require special mention. Minority shall not avail minors in cases of contravention, as if they were committing the crime of lèse-majesté. Once published at the customary places in Rome, it shall have the same force as if published in every place of the Papal State and shall bind everyone as if personally notified.",
+      "language": "it",
+      "noteIds": [
+        "ch44-note1",
+        "ch44-note2"
+      ],
+      "id": "ch44-p8"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        366
+      ],
+      "original": "Dato in Roma li 22. Maggio 1656.",
+      "english": "Given in Rome on 22 May 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch44-note1",
+        "ch44-note2"
+      ],
+      "id": "ch44-p9"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        366
+      ],
+      "original": "G. Card. Sacchetti.",
+      "english": "G. Cardinal Sacchetti.",
+      "language": "it",
+      "noteIds": [
+        "ch44-note1",
+        "ch44-note2"
+      ],
+      "id": "ch44-p10"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        366
+      ],
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "language": "it",
+      "noteIds": [
+        "ch44-note1",
+        "ch44-note2"
+      ],
+      "id": "ch44-p11"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch44-note1",
+      "type": "translation",
+      "text": "“Prattica” concerns admission to contact or dealings after inspection; it is not merely permission to berth. The 1652 proclamation is recalled but is not reproduced here."
+    },
+    {
+      "id": "ch44-note2",
+      "type": "context",
+      "text": "The emergency clause does not authorize landing: people must remain aboard without contact and depart once the emergency passes. Prescribed capital penalties do not establish actual executions."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

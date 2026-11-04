@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 51,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Sospensione della Terra di Netunno",
+    "englishTitle": "Suspension of the town of Nettuno",
+    "date": "1656-06-14",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-51",
+    "printedPages": "292",
+    "scanPages": [
+      374
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n373/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=374",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "292"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 51 through its final signatures on printed pp. 292. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        374
+      ],
+      "original": "CAP. LI.\nSOSPENSIONE\nDELLA TERRA DI NETVNNO.",
+      "english": "Chapter 51\nSuspension\nOf the town of Nettuno.",
+      "language": "it",
+      "noteIds": [
+        "ch51-note1"
+      ],
+      "id": "ch51-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Suspension pending investigation",
+      "sourcePages": [
+        374
+      ],
+      "original": "Obligando la sicurezza, con che deue prouedersi alla salute publica, ad inuigilare con ogni più esquisita diligenza alla preseruatione della medesima, & essendo necessario in queste materie abondare nelle cautele; di quì è, che la Santità di N. S. in continuatione del suo Paterno zelo, e dell’applicatione sua vigilantissima verso la conseruatione de’ suoi sudditi, al primo auuiso hauutosi, che nella Terra di Netunno vi sia corso qualche male, benche non habbia apparenza di Contagio, & à quest’effetto si siano trasmessi Medici, e Periti per indagarne la verità, nondimeno hà risoluto à maggior cautela, che si sospenda alla Terra sudetta il commercio ad arbitrio di Sua Santità, con le pene contenute nel Bando publicato in materia simile, sotto li 20. di Maggio dell’anno corrente.",
+      "english": "The security with which public health must be provided for requires the most exact diligence in watching over its preservation, and in these matters abundant precautions are necessary. Therefore His Holiness Our Lord, continuing his paternal zeal and most vigilant attention to the preservation of his subjects, upon the first report that some illness has occurred at Nettuno, although it has no appearance of contagion and physicians and experts have been sent to investigate the truth, has nevertheless resolved, as a greater precaution, to suspend movement and dealings with that town at His Holiness’s discretion, under the penalties contained in the proclamation published on a similar matter on 20 May of the current year.",
+      "language": "it",
+      "noteIds": [
+        "ch51-note1"
+      ],
+      "id": "ch51-p2"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        374
+      ],
+      "original": "Dat. in Roma li 14. Giugno 1656.",
+      "english": "Given in Rome on 14 June 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch51-note1"
+      ],
+      "id": "ch51-p3"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        374
+      ],
+      "original": "G. Card. Sacchetti.",
+      "english": "G. Cardinal Sacchetti.",
+      "language": "it",
+      "noteIds": [
+        "ch51-note1"
+      ],
+      "id": "ch51-p4"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        374
+      ],
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "language": "it",
+      "noteIds": [
+        "ch51-note1"
+      ],
+      "id": "ch51-p5"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch51-note1",
+      "type": "context",
+      "text": "The source expressly says that the reported illness has no appearance of contagion and that experts have been sent. The suspension is precautionary; the passage is not a confirmed plague diagnosis."
+    }
+  ],
+  "relations": [
+    {
+      "chapterId": 42,
+      "kind": "recalls",
+      "label": "Penalties of the 20 May proclamation",
+      "segmentIds": [
+        "ch51-p2"
+      ]
+    }
+  ],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

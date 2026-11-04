@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 42,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Bando sopra la Sanità",
+    "englishTitle": "Proclamation on public health",
+    "date": "1656-05-20",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-42",
+    "printedPages": "271–272",
+    "scanPages": [
+      353,
+      354
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n352/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=353",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "271",
+      "272"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 42 through its final signatures on printed pp. 271–272. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        353
+      ],
+      "original": "CAP. XLII.\nBANDO\nSOPRA LA SANITA’.",
+      "english": "Chapter 42\nProclamation\nOn public health.",
+      "language": "it",
+      "noteIds": [
+        "ch42-note1",
+        "ch42-note2"
+      ],
+      "id": "ch42-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Suspension of Naples and penalties",
+      "sourcePages": [
+        353,
+        354
+      ],
+      "original": "Non hauendo la somma, e paterna vigilanza, & applicatione della Santità di Nostro Signore cosa, che maggiormente prema, e che più li sia a cuore, quanto la cura dello Stato, e salute de suoi Sudditi, e perciò attentamente pensando di preuenire tutti quegli accidenti, che potessero portarli detrimento, e particolarmente à questa Alma Città di Roma, quindi è, che per essersi hauuta notitia, che nella Città di Napoli siano scoperti mali, li cui effetti diano sospetto di Contagio, volendo la Santità Sua in affare tanto geloso valer si di quelle cautele, che sono proprie della sua infinita prouidenza, ha risoluto di sospendere, come fà per hora col presente Bando, il commercio alla sudetta Città, e suoi Borghi, fin tanto, che venutosi in chiaro (come si spera nella Diuina Misericordia) che li mali non siano di quella qualità, che si teme, possa con sicuro fondamento risoluersi altrimente, ò come più richieda il seruitio della publica salute. Però d’ordine espresso della Santità Sua si proibisce alle persone, mercantie, animali, e qualunque cosa, che venissero, ò fossero condotte da detta Città di Napoli, e suoi Borghi, e Territorio, ò poco, ò molto ne hauessero toccato, il poter entrare nello Stato Ecclesiastico mediato, ò immediato, benche per transito, sotto pena della vita, confiscatione de beni, e perdita della robba, animali, e mercantie, che fossero introdotte, ancorche non proprie di chi l’introducesse, d’applicarsi secondo il solito; e nella medesima pena incorreranno quelli, che à i trasgressori, ò à cose introdotte contro il presente Bando daranno alloggio, ò in qualsiuoglia modo ricetto, ò ingresso nello Stato Ecclesiastico, ò in altra maniera fossero complici di qualsisia trasgressione del presente Bando.",
+      "english": "Since nothing weighs more heavily upon, or is dearer to, the supreme and paternal vigilance and attention of His Holiness Our Lord than the care of the State and the health of his subjects, he considers attentively how to prevent every occurrence that might harm them, particularly this venerable city of Rome. News has been received that illnesses have appeared in Naples whose effects give rise to suspicion of contagion. Wishing in so delicate a matter to use the precautions proper to his infinite providence, His Holiness has resolved, and for the present does so by this proclamation, to suspend movement and dealings with that city and its suburbs until it becomes clear—as is hoped through Divine Mercy—that the illnesses are not of the kind feared, so that a different decision may be made on a sound basis, or as public health may require. Therefore, by His Holiness’s express command, persons, merchandise, animals and anything else coming or brought from Naples, its suburbs and territory, or having touched them however briefly, are prohibited from entering the Papal State, under direct or indirect rule, even in transit, on pain of death, confiscation of goods, and forfeiture of the belongings, animals and merchandise introduced, even if they do not belong to the person introducing them; these are to be applied in the customary manner. The same penalty shall apply to those who give offenders or things introduced contrary to this proclamation lodging, shelter or entry into the Papal State in any manner, or who are otherwise accomplices in any breach of this proclamation.",
+      "language": "it",
+      "noteIds": [
+        "ch42-note1",
+        "ch42-note2"
+      ],
+      "id": "ch42-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Scope and legal effect of publication",
+      "sourcePages": [
+        354
+      ],
+      "original": "Dichiarandosi, che il presente Bando comprenda qualsiuoglia persona, etiam Ecclesiastica, e Regolare, e priuilegiata, ancorche di priuilegio tale, che fosse necessario farne special mentione; e che à Minori non suffragherà la minorità in caso di contrauentione, come se commettessero delitto di lesa Maestà. E che publicato in Roma nelli luoghi soliti habbia la medesima forza, come se fusse publicato in ciaschedun luogo dello Stato Ecclesiastico, e che astringa ciascheduno, come se gli fusse personalmente intimato.",
+      "english": "It is declared that this proclamation includes every person, including ecclesiastics, members of religious orders and privileged persons, even those whose privilege would require special mention; and that minority shall not avail minors in cases of contravention, as if they were committing the crime of lèse-majesté. Once published at the customary places in Rome, it shall have the same force as if published in every place of the Papal State, and shall bind everyone as if personally notified.",
+      "language": "it",
+      "noteIds": [
+        "ch42-note1",
+        "ch42-note2"
+      ],
+      "id": "ch42-p3"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        354
+      ],
+      "original": "Dat. in Roma li 20. Maggio 1656.",
+      "english": "Given in Rome on 20 May 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch42-note1",
+        "ch42-note2"
+      ],
+      "id": "ch42-p4"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        354
+      ],
+      "original": "G. Card. Sacchetti.",
+      "english": "G. Cardinal Sacchetti.",
+      "language": "it",
+      "noteIds": [
+        "ch42-note1",
+        "ch42-note2"
+      ],
+      "id": "ch42-p5"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        354
+      ],
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "language": "it",
+      "noteIds": [
+        "ch42-note1",
+        "ch42-note2"
+      ],
+      "id": "ch42-p6"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch42-note1",
+      "type": "translation",
+      "text": "“Commercio” includes movement, contact and dealings, rather than only trade in merchandise. “Mediato, ò immediato” concerns indirect or direct papal rule. “Our Lord” means the pope in this formula."
+    },
+    {
+      "id": "ch42-note2",
+      "type": "context",
+      "text": "The proclamation states suspicion of contagion and leaves open a different decision if that suspicion is dispelled. Its penalties are prescribed sanctions, not evidence that they were carried out."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

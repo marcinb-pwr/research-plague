@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 62,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Bando",
+    "englishTitle": "Proclamation",
+    "date": "1656-06-26",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-62",
+    "printedPages": "309–311",
+    "scanPages": [
+      393,
+      394,
+      395
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n392/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=393",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "309",
+      "310",
+      "311"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 62 through its final signatures on printed pp. 309–311. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date, signatures and publication formula where printed"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        393
+      ],
+      "original": "CAP. LXII.\nBANDO\nAntonio Barberino per la Diuina misericordia Vescouo di Frascati\nCardinale Antonio della S. R. C. Camerlengo.",
+      "english": "Chapter 62\nProclamation\nAntonio Barberini, by divine mercy Bishop of Frascati,\nCardinal Antonio, Camerlengo of the Holy Roman Church.",
+      "language": "it",
+      "noteIds": [
+        "ch62-note1",
+        "ch62-note2",
+        "ch62-note3"
+      ],
+      "id": "ch62-p1"
+    },
+    {
+      "kind": "preamble",
+      "label": "Renewal of firewood inventory rules",
+      "sourcePages": [
+        393
+      ],
+      "original": "Hauendo li Mercanti di Legna tanto di Roma, quanto di fuori, trascurato nel prossimo passato mese di Aprile, di dare la nota giusta all’Officio di Ripetta, della Legna, Barche, Carri, Carreggiatori, & animali conforme alla dispositione de’ Bandi Generali di Ripetta, & altri Bandi particolari sopra ciò promulgati, siamo Noi, e Monsignor Illustrissimo, e Reuerendissimo Nerio Corsini Arciuescouo di Damiata, Chierico della Reuerenda Camera Apostolica, e Presidente delle Ripe, condescesi di ridurre à memoria li sudetti Bandi, il tenore de’ quali vogliamo, che si habbia qui per inserto intieramente, per hauere certa cognitione della quantità della Legna, che non solo al presente si troua in essere, mà anco nel prossimo futuro taglio, potrà per seruitio publico tagliarsi, e carreggiarsi respettivamente, acciò si conserui quest’Alma Città di Roma abondante, e ben prouista di Legna da Passo, sopra di che, come in ogni altra cosa, la Santità di Nostro Signore Alessandro Papa VII. hà particolar premura.",
+      "english": "The wood merchants, both of Rome and elsewhere, neglected in the past month of April to give the Ripetta office an accurate account of wood, boats, carts, hauliers and animals as required by Ripetta’s general proclamations and other special proclamations issued on this subject. We, together with the Most Illustrious and Most Reverend Monsignor Nerio Corsini, Archbishop of Damietta, cleric of the Reverend Apostolic Camera and President of the River Landings, have therefore agreed to recall those proclamations, whose wording we wish to be regarded as fully inserted here, so as to obtain certain knowledge of the quantity of wood both presently available and capable of being cut and transported for public service at the next cutting, that this venerable city of Rome may remain abundantly and well supplied with legna da passo. His Holiness Our Lord Pope Alexander VII has particular concern for this, as for every other matter.",
+      "language": "it",
+      "noteIds": [
+        "ch62-note1",
+        "ch62-note2",
+        "ch62-note3"
+      ],
+      "id": "ch62-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Eight-day inventory of wood and transport obstacles",
+      "sourcePages": [
+        393,
+        394
+      ],
+      "original": "Perciò d’ordine espresso della Santità Sua datoci à bocca, e per l’autorità del nostro Officio di Camerlengo si ordina, e strettamente comanda à tutte, e singole persone di qualsiuoglia stato, grado, e conditione, preminenza, e dignità, ancorche tale, che si douesse con special nota esprimere, quali per l’addietro hanno etiam per vna volta solamente tagliato, ò fatto tagliar Legna da Passo per seruitio di Roma nelle Selue, Macchie, Tenute, e luoghi sì proprij, come presi in affitto, ò in qualsiuoglia modo da loro posseduti, ò detenuti, spettanti à qualunque Monastero, Collegio, Communità, Luogo Pio, & altre persone benche degne di special mentione, come sopra espresse, debbano nel termine d’otto giorni dopo la publicatione del presente Bando, hauer data nelli atti del Notaro di Ripetta, e quelli che habitano fuori di Roma, in mano del Gouernatore, Podestà, ò altro Superiore del luogo, vna nota giusta, e vera sottoscritta di lor propria mano, di tutta la qualità, e quantità di Legna da Passo, che al presente si trouano hauere in essere, tagliata, & anco di quella, che possono nella seguente stagione tagliare, con distinguere, in quanto alla tagliata, quella che si trouano hauere in porto, e quella che si trouano hauere in macchia sì impostata, come sparsa, specificando le Selue, Macchie, Tenute, e Porti doue tengono dette Legne impostate, e sparse, con la loro distanza dal Porto doue sono soliti condurle, e gl’intoppi che sono nelle strade, per li quali può difficultarsi in qualsiuoglia modo il carreggio di detta Legna al Porto, ad effetto di leuare ogni impedimento.",
+      "english": "Therefore, by His Holiness’s express oral command and the authority of our office of Camerlengo, every person of whatever estate, rank, condition, precedence or dignity, even one requiring special mention, who has in the past, even once, cut or caused legna da passo to be cut for Rome in woods, scrublands, estates or places owned, rented, possessed or held in any manner, belonging to any monastery, college, community, charitable institution or other person, even one deserving special mention as above, is strictly ordered within eight days after publication of this proclamation to enter in the records of the Ripetta notary—or, for residents outside Rome, deliver to the governor, podestà or other local superior—an accurate and truthful account signed in their own hand of the kinds and quantities of cut legna da passo presently held, and of what they can cut in the coming season. For cut wood, they must distinguish what is at a landing place from what is in woodland, whether stacked or scattered, specifying the woods, scrublands, estates and landing places where it is kept, their distance from the landing place to which it is usually taken, and the obstacles on the roads that could impede its transport there, so that every obstruction may be removed.",
+      "language": "it",
+      "noteIds": [
+        "ch62-note1",
+        "ch62-note2",
+        "ch62-note3"
+      ],
+      "id": "ch62-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Vehicles, hauliers and animals",
+      "sourcePages": [
+        394
+      ],
+      "original": "Aggiungeranno in oltre in detta nota il numero preciso de’ Carri, Carrozze, Carreggiatori, & Animali di qualsiuoglia sorte, sì proprij, come incettati, che per il carreggio attualmente si trouano.",
+      "english": "They must also add to that account the exact number of carts, carriages, hauliers and animals of every kind, whether their own or procured, presently available for transport.",
+      "language": "it",
+      "noteIds": [
+        "ch62-note1",
+        "ch62-note2",
+        "ch62-note3"
+      ],
+      "id": "ch62-p4"
+    },
+    {
+      "kind": "provision",
+      "label": "Woodland capacity, routes and penalties for concealment",
+      "sourcePages": [
+        394
+      ],
+      "original": "Daranno ancor nota di tutte le Macchie, Selue, Cerqueti, Spallette, Alboreti, Coste, & altre Tenute alberate atte al taglio per Legna da Passo, Stanghe, Fascine, Fascinaccia, e Carbone sì proprie, come prese in affitto, ò in qualsiuoglia modo possedute, e detenute, come sopra, specificando la lor quantità, sito, confini, denominationi, distanze dal Fiume, commodità de’ viueri per li Carreggiatori, e pascoli per loro animali, qualità, e quantità di Legna, Stanghe, Fascine, e Carbone, che potrà nel taglio della seguente stagione cauarsene con tutte l’altre particolarità necessarie per hauere compita cognitione di quelle, sotto pena in tutti li sudetti casi, e ciascuno di essi, di Scudi 500., e perdita di tutta la Legna sì tagliata, come in piedi, e de gli Animali, Carri, & altri ordegni proprij atti al carreggio, che nel confrontare, che si farà le dette note con l’esistenza delle cose assegnate trouerassi essere state dolosamente occultate, e d’altre grauissime pene, etiam corporali ad arbitrio di Monsig. Presidente.",
+      "english": "They must also report all scrublands, woods, oakwoods, wooded slopes, groves, hillsides and other wooded estates suitable for cutting legna da passo, poles, faggots, brushwood and charcoal, whether owned, rented or otherwise possessed or held as above. They must specify their extent, situation, boundaries, names, distance from the river, availability of provisions for hauliers and pasture for their animals, and the kinds and quantities of wood, poles, faggots and charcoal obtainable in the next season’s cutting, with all other particulars needed for full knowledge. In every such case the penalty is five hundred scudi and forfeiture of all wood, cut or standing, animals, carts and other personally owned transport equipment found to have been fraudulently concealed when the accounts are compared with the actual things declared, together with other very severe penalties, including corporal penalties, at the President’s discretion.",
+      "language": "it",
+      "noteIds": [
+        "ch62-note1",
+        "ch62-note2",
+        "ch62-note3"
+      ],
+      "id": "ch62-p5"
+    },
+    {
+      "kind": "provision",
+      "label": "Monthly boat returns and exclusive wood service",
+      "sourcePages": [
+        394,
+        395
+      ],
+      "original": "Commandiamo in oltre, inherendo à gli altri Bandi, quali con il presente s’intendano rinouati, sotto le medesime pene, che tutti quelli, che hanno Barche debbano dar conto in fine di ciaschedun mese delle Barche, che seruono, ò possono seruire al carreggio della Legna, ordinando espressamente sotto le sudette pene, che le Barche destinate per seruitio della Legna, non possano impiegarsi in altra mercantia, ò vso, e li Barcaruoli, e Caporioni, che senza nostra licenza espressa condurranno le dette Barche cariche d’altra mercantia, che di Legna, caschino in pena di venticinque scudi, e di tre tratti di corda.",
+      "english": "Furthermore, adhering to the other proclamations, which are renewed by this one, we command under the same penalties that everyone with boats must give an account at the end of each month of the boats serving or capable of serving for wood transport. We expressly order under those penalties that boats assigned to wood service may not be employed for other merchandise or use. Boatmen and foremen who, without our express permission, convey those boats loaded with merchandise other than wood shall incur twenty-five scudi and three hoists of the rope.",
+      "language": "it",
+      "noteIds": [
+        "ch62-note1",
+        "ch62-note2",
+        "ch62-note3"
+      ],
+      "id": "ch62-p6"
+    },
+    {
+      "kind": "provision",
+      "label": "Official proceedings and publication",
+      "sourcePages": [
+        395
+      ],
+      "original": "Dichiarando, che in tutti li predetti casi, e ciascuno di essi si procederà irremissibilmente non solo à querela, denuncia, ò relatione, ma per inquisitione, ex officio, & in ogni altro miglior modo. Volendo, che la publicatione, & affissione del presente Bando fatta ne’ luoghi soliti di Ripetta serua per publicatione, affissione, & intimatione per tutti, & habbia l’istessa forza, come se à ciascuno fusse stato personalmente intimato. In fede &c.",
+      "english": "It is declared that in all these cases, and each of them, proceedings shall be taken without remission, not only on complaint, denunciation or report, but also by inquiry, on the authorities’ own initiative and in every other best manner. We wish publication and posting of this proclamation at Ripetta’s customary places to serve as publication, posting and notification for everyone, with the same force as if personally notified to each. In witness, etc.",
+      "language": "it",
+      "noteIds": [
+        "ch62-note1",
+        "ch62-note2",
+        "ch62-note3"
+      ],
+      "id": "ch62-p7"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        395
+      ],
+      "original": "Dato in Roma in Camera Apostolica questo dì 26. Giugno 1656.",
+      "english": "Given in Rome, at the Apostolic Camera, this 26 June 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch62-note1",
+        "ch62-note2",
+        "ch62-note3"
+      ],
+      "id": "ch62-p8"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        395
+      ],
+      "original": "V. N. Archiepiscopus Damiaten. C. A. C. Rip. Praef.",
+      "english": "V. N., Archbishop of Damietta, cleric of the Apostolic Camera, President of the River Landings.",
+      "language": "it",
+      "noteIds": [
+        "ch62-note1",
+        "ch62-note2",
+        "ch62-note3"
+      ],
+      "id": "ch62-p9"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        395
+      ],
+      "original": "Lazarus Bottus Com. Gen.",
+      "english": "Lazarus Bottus, Commissioner General.",
+      "language": "it",
+      "noteIds": [
+        "ch62-note1",
+        "ch62-note2",
+        "ch62-note3"
+      ],
+      "id": "ch62-p10"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        395
+      ],
+      "original": "Pro Domino Officij Curiae Ripettae Not.\nVincentius Raynerius Substitutus.",
+      "english": "For the lord notary of the office of the Ripetta court,\nVincentius Raynerius, Deputy.",
+      "language": "it",
+      "noteIds": [
+        "ch62-note1",
+        "ch62-note2",
+        "ch62-note3"
+      ],
+      "id": "ch62-p11"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch62-note1",
+      "type": "translation",
+      "text": "“Legna da Passo” is retained as the source’s wood-supply category rather than assigned an unsupported modern size specification. “Impostata” is understood as stacked or assembled wood. The order inventories both current stocks and future cutting capacity."
+    },
+    {
+      "id": "ch62-note2",
+      "type": "translation",
+      "text": "The first countersignature begins with printed initials “V. N.”, retained rather than expanded conjecturally. “Tratti di corda” are hoists of the rope (strappado), not ordinary lashes."
+    },
+    {
+      "id": "ch62-note3",
+      "type": "context",
+      "text": "The same proclamation covers transport capacity, route obstacles, food for hauliers and pasture for their animals. The wood-boat restriction has an express-permission exception; it is not an unconditional prohibition on every other cargo."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 68,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto",
+    "englishTitle": "Edict requiring specified persons to present themselves",
+    "date": "1656-07-02",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-68",
+    "printedPages": "320–321",
+    "scanPages": [
+      404,
+      405
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n403/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=404",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "320",
+      "321"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 68 through its final signatures on printed pp. 320–321. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date and signatures"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        404
+      ],
+      "original": "CAP. LXVIII.\nEDITTO.",
+      "english": "Chapter 68\nEdict.",
+      "language": "it",
+      "noteIds": [
+        "ch68-note1",
+        "ch68-note2"
+      ],
+      "id": "ch68-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Persons sought and duty to appear",
+      "sourcePages": [
+        404
+      ],
+      "original": "Complendo alla publica salute sapere, & hauer notitia delle persone di D. Marta moglie di N. Hortolano, e di N. sua figliuola, che habitauano nella Casa di Carlo Passarino Sartore, posta in Trasteuere di rincontro à S. Saluatore della Corte, e di Pietro Vignarolo d’Antonio Vassallo à Monte Verde. Monsig. Carlo Bonelli dell’vna, e l’altra Segnatura di Nostro Signore Referendario, di Roma, e suo Distretto Gouernator Generale, e Vicecamerlengo con il presente Editto, secondo anco la risolutione della Sacra Congregatione della Sanità, ordina, e comanda alli sudetti Marta, & N. sua figliuola, e Pietro Vignarolo, & à ciascheduno di essi, che sotto pena della vita debbano, e qualsiuoglia di essi debba subito presentarsi personalmente nell’Officio di Sua Signoria Illustrissima per obedire à quanto li sarà comandato.",
+      "english": "Because public health requires knowledge and information concerning D. Marta, wife of N., a gardener, and N., her daughter, who lived in the house of Carlo Passarino, tailor, in Trastevere opposite San Salvatore della Corte, and concerning Pietro, vineyard worker of Antonio Vassallo at Monte Verde, Monsignor Carlo Bonelli, Referendary of both Signatures of Our Lord, Governor General of Rome and its district and Vice-Camerlengo, by this edict and also in accordance with the Sacred Congregation of Health’s resolution, orders the aforesaid Marta, N., her daughter, and Pietro the vineyard worker, and each of them, on pain of death, immediately to present themselves personally at His Most Illustrious Lordship’s office to obey whatever shall be commanded them.",
+      "language": "it",
+      "noteIds": [
+        "ch68-note1",
+        "ch68-note2"
+      ],
+      "id": "ch68-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Reporting by hosts and others",
+      "sourcePages": [
+        405
+      ],
+      "original": "E sotto la medesima pena della vita ordina à quelli, che sapessero, ò hauessero in qualsiuoglia modo notitia oue si trouino le dette Donne, e detto Pietro, ò alcuno di essi, ò li hauessero, ò tenessero ricettati in Casa, ò altroue, debbano subito denuntiarli all’Officio sudetto. Auuertendo ciascuno ad obedire, perche si procederà contro li trasgressori all’esecutione di detta pena irremissibilmente, senza ammettere scusa alcuna.",
+      "english": "Under the same penalty of death, he orders anyone who knows or has information in any way about the whereabouts of those women or Pietro, or any of them, or who has given or is giving them shelter in a house or elsewhere, immediately to report them to the aforesaid office. Everyone is warned to obey, because execution of that penalty against offenders will proceed without remission and without admitting any excuse.",
+      "language": "it",
+      "noteIds": [
+        "ch68-note1",
+        "ch68-note2"
+      ],
+      "id": "ch68-p3"
+    },
+    {
+      "kind": "publication",
+      "label": "Legal effect of posting",
+      "sourcePages": [
+        405
+      ],
+      "original": "E vuole che il presente Editto affisso per li luoghi soliti di Roma ciascuno astringa, & oblighi, come se gli fusse stato personalmente intimato.",
+      "english": "Once posted at Rome’s customary places, this edict shall bind and oblige everyone as if personally notified.",
+      "language": "it",
+      "noteIds": [
+        "ch68-note1",
+        "ch68-note2"
+      ],
+      "id": "ch68-p4"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        405
+      ],
+      "original": "Dat. in Roma questo dì 2. Luglio 1656.",
+      "english": "Given in Rome this 2 July 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch68-note1",
+        "ch68-note2"
+      ],
+      "id": "ch68-p5"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        405
+      ],
+      "original": "Carlo Bonelli Gou. e Vicecamerlengo.",
+      "english": "Carlo Bonelli, Governor and Vice-Camerlengo.",
+      "language": "it",
+      "noteIds": [
+        "ch68-note1",
+        "ch68-note2"
+      ],
+      "id": "ch68-p6"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        405
+      ],
+      "original": "Gio: Andrea Genuense Not. per la Carità.",
+      "english": "Gio: Andrea Genuense, notary for the Carità.",
+      "language": "it",
+      "noteIds": [
+        "ch68-note1",
+        "ch68-note2"
+      ],
+      "id": "ch68-p7"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch68-note1",
+      "type": "translation",
+      "text": "“N.” is the source’s placeholder for an unspecified name; it is not a supplied modern identification. D. is left unexpanded. “Hortolano” and “Vignarolo” are rendered as occupational descriptions (gardener and vineyard worker); no surname or kinship for Pietro is inferred from “d’Antonio Vassallo”."
+    },
+    {
+      "id": "ch68-note2",
+      "type": "context",
+      "text": "The order gives a public-health rationale but does not state a confirmed diagnosis, name a specific exposure event, or establish that the threatened executions occurred. The catalogue’s earlier description of these people as suspected contacts is therefore made more cautious."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

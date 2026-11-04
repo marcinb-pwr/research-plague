@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 65,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto",
+    "englishTitle": "Edict on the Trastevere enclosures",
+    "date": "1656-06-28",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-65",
+    "printedPages": "317–318",
+    "scanPages": [
+      401,
+      402
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n400/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=401",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "317",
+      "318"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 65 through its final signatures on printed pp. 317–318. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date and signatures"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        401
+      ],
+      "original": "CAP. LXV.\nEDITTO.",
+      "english": "Chapter 65\nEdict.",
+      "language": "it",
+      "noteIds": [
+        "ch65-note1",
+        "ch65-note2"
+      ],
+      "id": "ch65-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "No crossing the enclosures",
+      "sourcePages": [
+        401
+      ],
+      "original": "Per ouuiare à tutto che potesse essere di pregiudicio alla conseruatione della publica salute, Monsig. Bonelli dell’vna e l’altra Segnat. Referendario di Roma, e suo Distretto Gouernator Generale, e V. Camerlengo, secondo anco la risolutione della Sacra Congreg. della Sanità, con il presente Bando ordina, & espressamente commanda, che nessuna persona, etiam Ecclesiastica, ò Regolare, ardisca sotto qualsiuoglia pretesto nè per Porte, Fenestre, ò con Scale, ò in qualsiuoglia modo trascendere li Cancelli, Muri, e repari, & introdursi dentro alli recinti fattisi nel Rione di Trasteuere, nè li habitanti, e rinchiusi dentro essi recinti venire, & vscir fuori di essi, ò tentare, e procurare d’introdursi, e trascender dentro, ò vscir fuori, sotto pene corporali, etiam della vita, ad arbitrio, da esseguirsi subito irremissibilmente contro li trasgressori.",
+      "english": "To prevent anything that might harm the preservation of public health, Monsignor Bonelli, Referendary of both Signatures, Governor General of Rome and its district and Vice-Camerlengo, also in accordance with the Sacred Congregation of Health’s resolution, orders and expressly commands by this proclamation that no person, including ecclesiastics or members of religious orders, shall dare under any pretext, through doors or windows, with ladders or in any manner, to cross the gates, walls and barriers and enter the enclosures made in Trastevere. Nor may inhabitants confined within those enclosures come or go outside them, or attempt or endeavour to enter, cross into or leave them, on pain of discretionary corporal penalties, including death, to be executed immediately and without remission against offenders.",
+      "language": "it",
+      "noteIds": [
+        "ch65-note1",
+        "ch65-note2"
+      ],
+      "id": "ch65-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Letters and goods require written permission",
+      "sourcePages": [
+        401,
+        402
+      ],
+      "original": "E sotto le medesime pene prohibisce il riceuere lettere, ò robbe da qualsiuoglia persona di dentro, & il mandarle di quà di fuori dentro, & introdurle senza licenza in scriptis di Monsig. Gouernatore di esso ristretto.",
+      "english": "Under the same penalties he forbids receiving letters or goods from anyone inside, or sending and introducing them from outside into the enclosure, without written permission from the governor of that confined area.",
+      "language": "it",
+      "noteIds": [
+        "ch65-note1",
+        "ch65-note2"
+      ],
+      "id": "ch65-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Necessary dealings at ten paces; guards’ responsibility",
+      "sourcePages": [
+        402
+      ],
+      "original": "E à quelli, che haueranno tal volta necessità di trattare con essi, che si trouano ristretti, sarà permesso di farlo dieci passi lontano, con l’assistenza della guardia, senza che si accostino per detti dieci passi, sotto le dette pene, alle quali vuole che soggiacciano, etiam li medesimi Soldati di guardia, che per loro stessi contrauenissero, ò fossero in qualsiuoglia modo partecipi della contrauentione de gli altri, ò l’hauessero permesso, ò tolerato in qualsiuoglia modo à contrauenire:",
+      "english": "Those who may need to have dealings with the confined persons shall be permitted to do so at a distance of ten paces, with the guard present, without approaching within those ten paces, under the aforesaid penalties. The same penalties shall also apply to the guards themselves if they offend, participate in others’ offences in any way, or permit or tolerate a breach in any manner.",
+      "language": "it",
+      "noteIds": [
+        "ch65-note1",
+        "ch65-note2"
+      ],
+      "id": "ch65-p4"
+    },
+    {
+      "kind": "publication",
+      "label": "Legal effect of publication",
+      "sourcePages": [
+        402
+      ],
+      "original": "& il presente Bando affisso, e publicato per li luoghi soliti di Roma ciascuno astringa, come se gli fusse personalmente intimato.",
+      "english": "Once posted and published at Rome’s customary places, this proclamation shall bind everyone as if personally notified.",
+      "language": "it",
+      "noteIds": [
+        "ch65-note1",
+        "ch65-note2"
+      ],
+      "id": "ch65-p5"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        402
+      ],
+      "original": "Questo dì 28. Giugno 1656.",
+      "english": "This 28 June 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch65-note1",
+        "ch65-note2"
+      ],
+      "id": "ch65-p6"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        402
+      ],
+      "original": "Carlo Bonelli Gou. e Vicecamerl.",
+      "english": "Carlo Bonelli, Governor and Vice-Camerlengo.",
+      "language": "it",
+      "noteIds": [
+        "ch65-note1",
+        "ch65-note2"
+      ],
+      "id": "ch65-p7"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        402
+      ],
+      "original": "Gio: Andrea Genuense Not. per la Carità.",
+      "english": "Gio: Andrea Genuense, notary for the Carità.",
+      "language": "it",
+      "noteIds": [
+        "ch65-note1",
+        "ch65-note2"
+      ],
+      "id": "ch65-p8"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch65-note1",
+      "type": "translation",
+      "text": "The original has only the generic heading “Editto”; the English catalogue title is descriptive. “Dieci passi” is retained as ten paces, without imposing a modern metric equivalent."
+    },
+    {
+      "id": "ch65-note2",
+      "type": "context",
+      "text": "The permission concerns necessary dealings with persons confined in the enclosures and requires the guard’s presence. It is not a general authorization to cross the cordon."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

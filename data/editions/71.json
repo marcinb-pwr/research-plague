@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 71,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Bando della Città di Beneuento, e suo Territorio",
+    "englishTitle": "Proclamation concerning Benevento and its territory",
+    "date": "1656-07-08",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-71",
+    "printedPages": "325",
+    "scanPages": [
+      409
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n408/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=409",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "325"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "Chapter LXXI begins below the end of LXX on printed p.325 (scan 409) and ends at its own signatures on that page. The preceding chapter remains visible in the full-page facsimile and is excluded from this transcription.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date and signatures"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        409
+      ],
+      "original": "CAP. LXXI.\nBANDO\nDella Città di Beneuento, e suo Territorio.",
+      "english": "Chapter 71\nProclamation\nConcerning the city of Benevento and its territory.",
+      "language": "it",
+      "noteIds": [
+        "ch71-note1",
+        "ch71-note2"
+      ],
+      "id": "ch71-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Explicit prohibition concerning Benevento",
+      "sourcePages": [
+        409
+      ],
+      "original": "Se bene nel Bando publicato colla sospensione del Commercio à tutto il Regno di Napoli, resta compresa anche la Città di Beneuento posta nelle viscere del Regno medesimo, nondimeno per maggior dichiaratione, e sicurezza, che non si ammettano gente, nè robbe, che vengano da quella parte, già che si presente esser in detta Città entrato il Contagio, co’l presente Bando d’ordine espresso di Nostro Signore si proibisce il Commercio alla stessa Città di Beneuento, & à tutto il suo Territorio, colle conditioni, e pene contenute nel Bando sudetto, publicato li 20. Maggio prossimo passato.",
+      "english": "Although the proclamation suspending movement and dealings with the whole Kingdom of Naples also includes Benevento, situated within that kingdom, nevertheless, for greater clarity and assurance that neither persons nor goods from that direction are admitted, since reports are heard that contagion has entered that city, this proclamation, by the express command of Our Lord, prohibits movement and dealings with Benevento and its entire territory, under the conditions and penalties contained in the aforesaid proclamation published this past 20 May.",
+      "language": "it",
+      "noteIds": [
+        "ch71-note1",
+        "ch71-note2"
+      ],
+      "id": "ch71-p2"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        409
+      ],
+      "original": "Dat. in Roma li 8. Luglio 1656.",
+      "english": "Given in Rome on 8 July 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch71-note1",
+        "ch71-note2"
+      ],
+      "id": "ch71-p3"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        409
+      ],
+      "original": "G. Card. Sacchetti.",
+      "english": "G. Cardinal Sacchetti.",
+      "language": "it",
+      "noteIds": [
+        "ch71-note1",
+        "ch71-note2"
+      ],
+      "id": "ch71-p4"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        409
+      ],
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "language": "it",
+      "noteIds": [
+        "ch71-note1",
+        "ch71-note2"
+      ],
+      "id": "ch71-p5"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch71-note1",
+      "type": "translation",
+      "text": "“Si presente” is understood as word being heard or reports circulating, not proof of a confirmed diagnosis. “Commercio” includes movement and dealings and should not be restricted to the sale of merchandise."
+    },
+    {
+      "id": "ch71-note2",
+      "type": "context",
+      "text": "The opening says the earlier prohibition already included Benevento; this order explicitly reiterates its application. Its geographical phrasing is translated as the source’s assertion, not a determination of Benevento’s constitutional status."
+    }
+  ],
+  "relations": [
+    {
+      "chapterId": 42,
+      "kind": "incorporates",
+      "label": "Restates the 20 May conditions and penalties for Benevento",
+      "segmentIds": [
+        "ch71-p2"
+      ]
+    }
+  ],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

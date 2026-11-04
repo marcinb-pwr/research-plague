@@ -1310,6 +1310,446 @@
       "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n392/mode/1up",
       "evidenceType": "Primary-source facsimile",
       "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-63",
+      "title": "Chapter 63 — Edict on allocating the districts for more prompt reports of every occurrence",
+      "description": "Complete original-page facsimile, paired with the original text and an English working translation on the chapter page.",
+      "chapterIds": [
+        63
+      ],
+      "printedPages": "311–314",
+      "scanPages": [
+        395,
+        396,
+        397,
+        398
+      ],
+      "readingGuide": "English analytical guide: Appoint district prelates and nobles alongside medical staff and notaries to visit households, identify needs and illness, and implement health rules.",
+      "notes": "Begins with chapter LXIII below the end of LXII on printed p.311 (scan 395), includes the complete fourteen-district roster after the signatures, and ends at the end of that roster on p.314 (scan 398). The preceding chapter text on p.311 is excluded from the transcription but remains visible in the full-page facsimile.",
+      "pdf": "excerpts/chapter-63.pdf",
+      "pdfSha256": "22ee8489356944713d583db42a859cc7e38bc76d5fbd5418c0e61d61ca7f99c9",
+      "pdfBytes": 140724,
+      "pages": [
+        {
+          "image": "excerpts/chapter-62-p3.webp",
+          "printedPage": "311",
+          "scanPage": 395,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n394/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/source-scan-396.webp",
+          "printedPage": "312",
+          "scanPage": 396,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n395/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/source-scan-397.webp",
+          "printedPage": "313",
+          "scanPage": 397,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n396/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/source-scan-398.webp",
+          "printedPage": "314",
+          "scanPage": 398,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n397/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-63-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n394/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-64",
+      "title": "Chapter 64 — Edict on old clothing and rags",
+      "description": "Complete original-page facsimile, paired with the original text and an English working translation on the chapter page.",
+      "chapterIds": [
+        64
+      ],
+      "printedPages": "315–317",
+      "scanPages": [
+        399,
+        400,
+        401
+      ],
+      "readingGuide": "English analytical guide: Restrict trade and movement of used clothing, bedding and rags; require declarations and records of suspect goods and public display of the order by dealers.",
+      "notes": "From the heading of chapter 64 through its final signatures on printed pp. 315–317. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-64.pdf",
+      "pdfSha256": "2af2b10a27d7598d89795dc6fe23992e597d781d09b73c5ae272e830d48b0be5",
+      "pdfBytes": 122039,
+      "pages": [
+        {
+          "image": "excerpts/source-scan-399.webp",
+          "printedPage": "315",
+          "scanPage": 399,
+          "width": 1280,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n398/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/source-scan-400.webp",
+          "printedPage": "316",
+          "scanPage": 400,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n399/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/source-scan-401.webp",
+          "printedPage": "317",
+          "scanPage": 401,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n400/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-64-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n398/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-65",
+      "title": "Chapter 65 — Edict on the Trastevere enclosures",
+      "description": "Complete original-page facsimile, paired with the original text and an English working translation on the chapter page.",
+      "chapterIds": [
+        65
+      ],
+      "printedPages": "317–318",
+      "scanPages": [
+        401,
+        402
+      ],
+      "readingGuide": "English analytical guide: Control entry, exit and goods movement in sealed Trastevere; permit only necessary dealings with outsiders under guards and distancing precautions.",
+      "notes": "From the heading of chapter 65 through its final signatures on printed pp. 317–318. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-65.pdf",
+      "pdfSha256": "af9016a38c5cd3ae83f5bd26f2ccc2732a561083c2c99a0b88034f64cdb6cc74",
+      "pdfBytes": 82093,
+      "pages": [
+        {
+          "image": "excerpts/source-scan-401.webp",
+          "printedPage": "317",
+          "scanPage": 401,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n400/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/source-scan-402.webp",
+          "printedPage": "318",
+          "scanPage": 402,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n401/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-65-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n400/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-66",
+      "title": "Chapter 66 — Renewal of proclamations suspending various places because of plague",
+      "description": "Complete original-page facsimile, paired with the original text and an English working translation on the chapter page.",
+      "chapterIds": [
+        66
+      ],
+      "printedPages": "318–319",
+      "scanPages": [
+        402,
+        403
+      ],
+      "readingGuide": "English analytical guide: Renew existing regional travel and commerce restrictions and publish lists distinguishing banned from suspended places.",
+      "notes": "From the heading of chapter 66 through its final signatures on printed pp. 318–319. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-66.pdf",
+      "pdfSha256": "4dfd01f0d4b49e4ff17a83928d8db8c1921dcea2186655fecf52af987ee49c43",
+      "pdfBytes": 78857,
+      "pages": [
+        {
+          "image": "excerpts/source-scan-402.webp",
+          "printedPage": "318",
+          "scanPage": 402,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n401/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/source-scan-403.webp",
+          "printedPage": "319",
+          "scanPage": 403,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n402/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-66-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n401/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-67",
+      "title": "Chapter 67 — Edict suspending Navona markets except for edible provisions",
+      "description": "Complete original-page facsimile, paired with the original text and an English working translation on the chapter page.",
+      "chapterIds": [
+        67
+      ],
+      "printedPages": "319–320",
+      "scanPages": [
+        403,
+        404
+      ],
+      "readingGuide": "English analytical guide: Prohibit markets at Piazza Navona and elsewhere in Rome, while exempting food and essential edible provisions.",
+      "notes": "From the heading of chapter 67 through its final signatures on printed pp. 319–320. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-67.pdf",
+      "pdfSha256": "f463e1ebcaa8ceffdffb717c2c1ff6be3d720cc422cce14d6fb45c207a58abb8",
+      "pdfBytes": 82599,
+      "pages": [
+        {
+          "image": "excerpts/source-scan-403.webp",
+          "printedPage": "319",
+          "scanPage": 403,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n402/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/source-scan-404.webp",
+          "printedPage": "320",
+          "scanPage": 404,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n403/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-67-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n402/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-68",
+      "title": "Chapter 68 — Edict requiring specified persons to present themselves",
+      "description": "Complete original-page facsimile, paired with the original text and an English working translation on the chapter page.",
+      "chapterIds": [
+        68
+      ],
+      "printedPages": "320–321",
+      "scanPages": [
+        404,
+        405
+      ],
+      "readingGuide": "English analytical guide: Require Marta, her unnamed daughter and Pietro the vineyard worker to appear at the governor’s office; require anyone knowing their whereabouts or sheltering them to report.",
+      "notes": "From the heading of chapter 68 through its final signatures on printed pp. 320–321. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-68.pdf",
+      "pdfSha256": "87412c0b24bd26122d553114d3b195dbc70956ac907524a83d21fc2a9d952d90",
+      "pdfBytes": 86429,
+      "pages": [
+        {
+          "image": "excerpts/source-scan-404.webp",
+          "printedPage": "320",
+          "scanPage": 404,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n403/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/source-scan-405.webp",
+          "printedPage": "321",
+          "scanPage": 405,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n404/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-68-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n403/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-69",
+      "title": "Chapter 69 — Edict with a new rule for bringing provisions to Rome",
+      "description": "Complete original-page facsimile, paired with the original text and an English working translation on the chapter page.",
+      "chapterIds": [
+        69
+      ],
+      "printedPages": "321–322",
+      "scanPages": [
+        405,
+        406
+      ],
+      "readingGuide": "English analytical guide: Require provincial food deliveries and designate separate markets outside city gates for livestock, grain, wine and other provisions; protect suppliers and their return journeys.",
+      "notes": "From the heading of chapter 69 through its final signatures on printed pp. 321–322. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-69.pdf",
+      "pdfSha256": "c6a6bf3760282c34c845c737303d8cccb8742c9716197b8fdf09bfd45ed92442",
+      "pdfBytes": 71705,
+      "pages": [
+        {
+          "image": "excerpts/source-scan-405.webp",
+          "printedPage": "321",
+          "scanPage": 405,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n404/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/source-scan-406.webp",
+          "printedPage": "322",
+          "scanPage": 406,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n405/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-69-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n404/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-70",
+      "title": "Chapter 70 — Notification on public health",
+      "description": "Complete original-page facsimile, paired with the original text and an English working translation on the chapter page.",
+      "chapterIds": [
+        70
+      ],
+      "printedPages": "323–325",
+      "scanPages": [
+        407,
+        408,
+        409
+      ],
+      "readingGuide": "English analytical guide: Improve rapid reporting of illness and death through appointed prelates; restrict unauthorized burials and removal of property from recently affected houses and monasteries.",
+      "notes": "From the heading of chapter 70 through its final signatures on printed pp. 323–325. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-70.pdf",
+      "pdfSha256": "dd1c4fcef0dd45df2750759145644b5fa3124ec057ae939cfaf7e1850b5b66c0",
+      "pdfBytes": 113632,
+      "pages": [
+        {
+          "image": "excerpts/source-scan-407.webp",
+          "printedPage": "323",
+          "scanPage": 407,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n406/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/source-scan-408.webp",
+          "printedPage": "324",
+          "scanPage": 408,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n407/mode/1up",
+          "rotation": 0
+        },
+        {
+          "image": "excerpts/source-scan-409.webp",
+          "printedPage": "325",
+          "scanPage": 409,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n408/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-70-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n406/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-71",
+      "title": "Chapter 71 — Proclamation concerning Benevento and its territory",
+      "description": "Complete original-page facsimile, paired with the original text and an English working translation on the chapter page.",
+      "chapterIds": [
+        71
+      ],
+      "printedPages": "325",
+      "scanPages": [
+        409
+      ],
+      "readingGuide": "English analytical guide: Prohibit commerce with Benevento and its territory after reports that contagion had reached the city.",
+      "notes": "Chapter LXXI begins below the end of LXX on printed p.325 (scan 409) and ends at its own signatures on that page. The preceding chapter remains visible in the full-page facsimile and is excluded from this transcription.",
+      "pdf": "excerpts/chapter-71.pdf",
+      "pdfSha256": "eca63b498bbb89a78490daaa09225e25d66c6d4b9e696151e0ae8c08483c1c06",
+      "pdfBytes": 36761,
+      "pages": [
+        {
+          "image": "excerpts/source-scan-409.webp",
+          "printedPage": "325",
+          "scanPage": 409,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n408/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-71-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n408/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
+    },
+    {
+      "id": "chapter-72",
+      "title": "Chapter 72 — Extension of the suspension of the tribunals",
+      "description": "Complete original-page facsimile, paired with the original text and an English working translation on the chapter page.",
+      "chapterIds": [
+        72
+      ],
+      "printedPages": "326",
+      "scanPages": [
+        410
+      ],
+      "readingGuide": "English analytical guide: Extend suspension of courts, while allowing enforceable and privileged urgent cases under arrangements avoiding crowds.",
+      "notes": "From the heading of chapter 72 through its final signatures on printed pp. 326. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+      "pdf": "excerpts/chapter-72.pdf",
+      "pdfSha256": "344a9cf485c11f5c5656c38c6162632f6c9c96d28c10271d75ff8298c4212d6b",
+      "pdfBytes": 45156,
+      "pages": [
+        {
+          "image": "excerpts/source-scan-410.webp",
+          "printedPage": "326",
+          "scanPage": 410,
+          "width": 1220,
+          "height": 2000,
+          "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n409/mode/1up",
+          "rotation": 0
+        }
+      ],
+      "thumbnail": "excerpts/chapter-72-thumb.webp",
+      "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n409/mode/1up",
+      "evidenceType": "Primary-source facsimile",
+      "explanationType": "Analytical English reading guide; complete working translation is separate on the chapter page"
     }
   ],
   "hero": {

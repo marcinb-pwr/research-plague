@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 67,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto. Sospensio de’ Mercati di Nauona, e del non far Piazze in luogo alcuno se non di robbe comestibili da Vitto",
+    "englishTitle": "Edict suspending Navona markets except for edible provisions",
+    "date": "1656-07-01",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-67",
+    "printedPages": "319–320",
+    "scanPages": [
+      403,
+      404
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n402/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=403",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "319",
+      "320"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 67 through its final signatures on printed pp. 319–320. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date and signatures"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        403
+      ],
+      "original": "CAP. LXVII.\nEDITTO\nSospensio de’ Mercati di Nauona, e del non far Piazze in luogo alcuno se non di robbe comestibili da Vitto.",
+      "english": "Chapter 67\nEdict\nSuspension of Navona’s markets and prohibition of markets anywhere except for edible provisions.",
+      "language": "it",
+      "noteIds": [
+        "ch67-note1",
+        "ch67-note2"
+      ],
+      "id": "ch67-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Prohibited goods and penalties",
+      "sourcePages": [
+        403,
+        404
+      ],
+      "original": "Con il presente Editto Monsig. Illustriss. Carlo Bonelli dell’vna, e l’altra Segnatura di Nostro Signore Referendario, di Roma, e suo Distretto Gouernatore Generale, e Vicecamerlengo, per ouuiare ad ogn’inconueniente, che potesse accadere in pregiuditio della publica salute, secondo anche la risolutione fattasi nella Sacra Congregatione della Sanità, con il presente Editto proibisce alli Ebrei, Regattieri, Calzolari, Scarpinelli, Giupponari, Retagliari, & ad ogni altra persona il portare à vendere in giorno di Mercato, nè in altro tempo in Nauona, nè in altre Piazze, e luoghi di Roma, nè in quelli comprarui panni, e robbe da vestire, ò da letto, ò per altro vso, nè nuoui, nè vecchi, Rami, Stagni, nè altri Mobili, nè di quelli farne mostra, nè piazze in detti luoghi, sotto pena à chi contrauerrà, oltre alla perdita delle dette robbe, della Galera, & anco dalla vita ad arbitrio.",
+      "english": "By this edict His Most Illustrious Lordship Carlo Bonelli, Referendary of both Signatures of Our Lord, Governor General of Rome and its district and Vice-Camerlengo, to prevent any occurrence harmful to public health and also in accordance with the Sacred Congregation of Health’s resolution, forbids Jews, secondhand dealers, shoemakers, shoe repairers, doublet makers, cloth-remnant dealers and every other person from bringing for sale, on market day or at any other time, to Navona or other squares and places in Rome, or buying there, textiles and goods for clothing, bedding or any other use, whether new or old, copperware, pewterware or other furnishings, or displaying them or holding markets in those places. Offenders incur, besides forfeiture of those goods, the galleys and even death at discretion.",
+      "language": "it",
+      "noteIds": [
+        "ch67-note1",
+        "ch67-note2"
+      ],
+      "id": "ch67-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Food exemption",
+      "sourcePages": [
+        404
+      ],
+      "original": "Ma solo sia lecito à ciascheduno portarui à vendere, ò comprare robbe da vitto, e comestibili.",
+      "english": "Everyone shall be permitted only to bring for sale or to buy food and edible provisions there.",
+      "language": "it",
+      "noteIds": [
+        "ch67-note1",
+        "ch67-note2"
+      ],
+      "id": "ch67-p3"
+    },
+    {
+      "kind": "publication",
+      "label": "Legal effect of publication",
+      "sourcePages": [
+        404
+      ],
+      "original": "E vuole, che il presente Editto affisso, e publicato ne’ luoghi soliti di Roma ogn’vno astringa, & oblighi, come se gli fusse personalmente intimato.",
+      "english": "Once posted and published at Rome’s customary places, this edict shall bind and oblige everyone as if personally notified.",
+      "language": "it",
+      "noteIds": [
+        "ch67-note1",
+        "ch67-note2"
+      ],
+      "id": "ch67-p4"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        404
+      ],
+      "original": "Dat. in Roma questo dì 1. Luglio 1656.",
+      "english": "Given in Rome this 1 July 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch67-note1",
+        "ch67-note2"
+      ],
+      "id": "ch67-p5"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        404
+      ],
+      "original": "Carlo Bonelli Gou. e Vicecamerlengo.",
+      "english": "Carlo Bonelli, Governor and Vice-Camerlengo.",
+      "language": "it",
+      "noteIds": [
+        "ch67-note1",
+        "ch67-note2"
+      ],
+      "id": "ch67-p6"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        404
+      ],
+      "original": "Gio: Andrea Genuense Not. per la Carità.",
+      "english": "Gio: Andrea Genuense, notary for the Carità.",
+      "language": "it",
+      "noteIds": [
+        "ch67-note1",
+        "ch67-note2"
+      ],
+      "id": "ch67-p7"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch67-note1",
+      "type": "transcription",
+      "text": "The printed subtitle reads “Sospensio”, an abbreviated or incomplete form retained here rather than silently completed. The prohibition covers new as well as used nonfood goods."
+    },
+    {
+      "id": "ch67-note2",
+      "type": "context",
+      "text": "The source explicitly names Jews among the persons prohibited, alongside occupational groups and all other persons. The translation preserves this discriminatory historical wording. The food exemption prevents the order being read as a closure of every food market."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 64,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto sopra i panni vecchi, e stracci",
+    "englishTitle": "Edict on old clothing and rags",
+    "date": "1656-06-28",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-64",
+    "printedPages": "315–317",
+    "scanPages": [
+      399,
+      400,
+      401
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n398/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=399",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "315",
+      "316",
+      "317"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 64 through its final signatures on printed pp. 315–317. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date and signatures"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        399
+      ],
+      "original": "CAP. LXIV.\nEDITTO.\nSOPRA I PANNI VECCHI, E STRACCI.",
+      "english": "Chapter 64\nEdict\nOn old clothing and rags.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Permitted sources of used goods",
+      "sourcePages": [
+        399
+      ],
+      "original": "In continuatione del paterno zelo, che tiene la Santità di Nostro Signore della conseruatione della publica salute Monsignor Bonelli di Roma, e suo Distretto Gouernatore generale, e Vicecamerlengo. D’ordine della Santità Sua inerendo anco alla dispositione de’ Bandi generali del Gouerno di Roma, publicati li 24. di Giugno 1655. in quello, che possino riguardare quanto si dispone nel presente Bando, ordina, e comanda, che nessuna persona sia di che qualità si voglia, etiam Ecclesiastica, Regolare, ò Claustrale, & in qualsiuoglia altro modo priuilegiata, ardisca comprare, pigliar in pegno, nè in prestito, ò serbo dentro la Città di Roma, e suo Distretto Veste di dosso di qualunque sorte, ò altra robba, Biancarie, e Mobili di casa buoni, ò cattiui, mentre siano cominciati ad vsare, Matarazzi vecchi, nè Ferri, ò altre robbe di metallo vecchie, se non da persone note habitanti in Roma, ò suo Distretto non sospette di male.",
+      "english": "Continuing His Holiness Our Lord’s paternal zeal for preserving public health, Monsignor Bonelli, Governor General of Rome and its district and Vice-Camerlengo, by His Holiness’s command and adhering also to the general proclamations of Rome’s government published on 24 June 1655 insofar as they concern the provisions of this proclamation, orders that no person of any condition, including ecclesiastics, members of religious orders or cloisters, or anyone otherwise privileged, shall dare to buy, take in pledge, borrow or hold for safekeeping within Rome and its district any clothing, other belongings, linens or household furnishings, good or bad, once they have been used, old mattresses, old ironwork or other metal goods, except from known inhabitants of Rome or its district who are not suspected of illness.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Report suspicious offers",
+      "sourcePages": [
+        399
+      ],
+      "original": "E quando se gl’offerissero in vendita, pegno, in serbo, ò in qualsiuoglia altro modo da dette persone non conosciute, e note, ò amalate, ò in qualsiuoglia modo sospette, debbano darne subito denuntia all’Officio di Sua Signoria Illustrissima.",
+      "english": "If such things are offered for sale, pledge, safekeeping or in any other manner by persons who are not known, or who are ill or in any way suspect, the offer must immediately be reported to His Most Illustrious Lordship’s office.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Transaction ledger and notification",
+      "sourcePages": [
+        399,
+        400
+      ],
+      "original": "E quelli che ne comprassero, & in qualsiuoglia modo riceuessero da persone cognite, e non sospette, debbano in vn libro particolare da tenersi da loro, annotarle, descriuerle, ò farle descriuere, & annotare con il nome, e cognome del venditore, di quello dal quale l’hanno hauute, e la qualità, e quantità di esse robbe, & il giorno, e mandarne immediatamente nota nell’Officio sudetto.",
+      "english": "Those who buy or otherwise receive them from known persons who are not suspect must record and describe them, or have them described and recorded, in a special ledger they keep, with the first name and surname of the seller or person from whom they received them, the kind and quantity of the goods, and the date; they must immediately send a record to the aforesaid office.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p4"
+    },
+    {
+      "kind": "provision",
+      "label": "Goods from households with illness or death",
+      "sourcePages": [
+        400
+      ],
+      "original": "E molto meno alcuno, etiam Ecclesiastico, come sopra, possa vendere, ò comprare robbe da vestire, ò da letto, ò per altro vso, che siano state nelle Case, oue siano stati amalati, ò morti dal Mese di Maggio prossimo passato in quà, & oue fossero per l’auuenire, senza licenza di Sua Signoria Illustrissima, sotto pena, così al venditore, come al Compratore, della vita.",
+      "english": "Still less may anyone, including ecclesiastics as above, sell or buy clothing, bedding or other goods that have been in houses where there have been sick or dead persons since this past May, or where there may be such persons in future, without His Most Illustrious Lordship’s permission, on pain of death for both seller and buyer.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p5"
+    },
+    {
+      "kind": "provision",
+      "label": "Street hawking and rag collection",
+      "sourcePages": [
+        400
+      ],
+      "original": "Prohibisce anco, che nissun Hebreo, ò altra persona possa andar vendendo per Roma panni, e robbe vecchie, nè cogliere, ò comprare stracci rotti da gli habitanti in Roma, e suo Distretto.",
+      "english": "He also prohibits any Jew or other person from going about Rome selling old clothing and goods, or collecting or buying torn rags from inhabitants of Rome and its district.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p6"
+    },
+    {
+      "kind": "provision",
+      "label": "Discarding rags in the street",
+      "sourcePages": [
+        400
+      ],
+      "original": "Come anche à chi si sia, etiam Ecclesiastico, come sopra, il lasciarne, ò gettarne per strada, in particolare à Sarti, Ragattieri, Barbieri, ò altri, che habbiano hauuti amalati, ò morti in Casa.",
+      "english": "Likewise, no one, including ecclesiastics as above, may leave or throw them in the street, particularly tailors, secondhand dealers, barbers or others who have had sick or dead persons in their houses.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p7"
+    },
+    {
+      "kind": "provision",
+      "label": "Declare existing stocks within eight days",
+      "sourcePages": [
+        400
+      ],
+      "original": "In oltre ordina, e comanda à tutti quelli, che attendono à comprare, ò vendere panni vecchi, così da vestire, come di qualsiuoglia altra sorte, debbano in termine di otto giorni prossimi hauer dato nota, & inuentario nell’Officio di Sua Signoria Illustrissima di cosa per cosa, che hanno, e ritengono di detta arte, con esprimere la qualità, e quantità di esse robbe, & il tempo, e luoghi, e persone, da quali l’hanno hauute, e comprate.",
+      "english": "He further orders everyone engaged in buying or selling old clothing or textiles of any other kind to submit within the next eight days to His Most Illustrious Lordship’s office a record and item-by-item inventory of everything they possess or hold in that trade, stating the kind and quantity of the goods and the times, places and persons from whom they received or bought them.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p8"
+    },
+    {
+      "kind": "provision",
+      "label": "Mattress repairers and garment remakers",
+      "sourcePages": [
+        400
+      ],
+      "original": "Et à quelli, che acconciano Matarazzi, e Letti, ò disfanno panni vecchi per ridurli in altra forma, siano tenuti, & obligati all’inuiolabil osseruanza degl’istessi ordini, come se fossero de’ sudetti, che comprano, e vendono stracci, adattando proportionatamente tutti li sopra posti ordini à ciascheduno della loro professione, & in particolare quella di non poter andare per le strade gridando, e quella di non metter mano in robba de’ morti, amalati, ò persone non note.",
+      "english": "Those who repair mattresses and beds, or take old garments apart to remake them, shall be bound to observe these same orders without violation, as if they were among the aforesaid buyers and sellers of rags. All the preceding orders shall be adapted proportionately to each person’s trade, particularly the prohibition on going through the streets calling out and on handling goods belonging to the dead, the sick or unknown persons.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p9"
+    },
+    {
+      "kind": "provision",
+      "label": "Air stored goods",
+      "sourcePages": [
+        400
+      ],
+      "original": "Vuole anco, che li Hebrei, Ragattieri, ò altri, come sopra, oltre all’osseruanza delli sopradetti ordini debbano riuedere, e ponere all’aria spesso le robbe, che tengono ammucchiate per tanto più conseruarle senza poter allegar scusa di hauer deputato gente, & ordinato ad altri il farlo.",
+      "english": "He also requires Jews, secondhand dealers and others as above, besides observing the preceding orders, to inspect and frequently expose to the air the goods they keep piled up, to preserve them the better, without being able to plead that they appointed people or ordered others to do it.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p10"
+    },
+    {
+      "kind": "provision",
+      "label": "Display the edict in shops",
+      "sourcePages": [
+        400
+      ],
+      "original": "E che ogni Bottegaro, il quale per professione propria, ò per altra occasione delle sudette, habbia bottega, debba in essa tener affisso il presente Editto, non per lui, perche non gli suffragherà allegar ignoranza, ma per chi capiterà per comprare, ò vendere, dare, ò riceuere, come sopra, acciò sappia li presenti ordini.",
+      "english": "Every shopkeeper who has a shop for their own trade or another of the foregoing purposes must keep this edict posted there—not for their own benefit, since pleading ignorance will not avail them, but so that anyone arriving to buy, sell, give or receive as above may know these orders.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p11"
+    },
+    {
+      "kind": "provision",
+      "label": "Penalties and proceedings",
+      "sourcePages": [
+        400,
+        401
+      ],
+      "original": "E che ogn’vno, come sopra, debba osseruare il presente Editto, e tutte le cose in essi vietate, e comandate, & ordinate sotto pena della perdita della robba, e d’altre pecuniarie, & anche corporali, e della vita inclusiuè, da incorrersi ipso facto ad arbitrio, secondo la qualità della contrauentione, e delli contrauentori, contro de’ quali si procederà per inquisitione, ex officio, & in ogni altro miglior modo, &c.",
+      "english": "Everyone as above must observe this edict and everything it forbids, commands and orders, on pain of forfeiture of the goods and other financial and corporal penalties, up to and including death, incurred by the act itself at discretion according to the nature of the breach and the offenders. Proceedings against them shall be by inquisition, on the authority’s own initiative, and in any other appropriate manner, etc.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p12"
+    },
+    {
+      "kind": "publication",
+      "label": "Legal effect of posting",
+      "sourcePages": [
+        401
+      ],
+      "original": "Et il presente affisso, e publicato per li luoghi soliti di Roma ciascuno astringa, & oblighi, come se gli fosse stato personalmente intimato.",
+      "english": "Once posted and published at Rome’s customary places, this edict shall bind and oblige everyone as if personally notified.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p13"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        401
+      ],
+      "original": "Dat. in Roma questo dì 28. Giugno 1656.",
+      "english": "Given in Rome on 28 June 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p14"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        401
+      ],
+      "original": "Carlo Bonelli Gou. e Vicecamerlengo.",
+      "english": "Carlo Bonelli, Governor and Vice-Camerlengo.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p15"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        401
+      ],
+      "original": "Gio: Andrea Genuense Not. per la Carità.",
+      "english": "Gio: Andrea Genuense, notary for the Carità.",
+      "language": "it",
+      "noteIds": [
+        "ch64-note1",
+        "ch64-note2"
+      ],
+      "id": "ch64-p16"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch64-note1",
+      "type": "context",
+      "text": "The edict expressly singles out Jews in two provisions while also extending them to other persons. The translation retains this historical discriminatory wording rather than replacing it with a neutral occupational category."
+    },
+    {
+      "id": "ch64-note2",
+      "type": "translation",
+      "text": "“Serbo” is safekeeping, not purchase; “ipso facto” means that a penalty is incurred through the act itself. The prescribed penalties do not establish that they were carried out."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

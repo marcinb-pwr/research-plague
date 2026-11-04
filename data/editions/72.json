@@ -1,0 +1,276 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 72,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Proroga della sospensione de’ Tribunali",
+    "englishTitle": "Extension of the suspension of the tribunals",
+    "date": "1656-07-09",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-72",
+    "printedPages": "326",
+    "scanPages": [
+      410
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n409/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=410",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "326"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 72 through its final signatures on printed pp. 326. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date and signatures"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        410
+      ],
+      "original": "CAP. LXXII.\nPROROGA\nDella sospensione de’ Tribunali.",
+      "english": "Chapter 72\nExtension\nOf the suspension of the tribunals.",
+      "language": "it",
+      "noteIds": [
+        "ch72-note1",
+        "ch72-note2",
+        "ch72-note3"
+      ],
+      "id": "ch72-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Extension of suspension",
+      "sourcePages": [
+        410
+      ],
+      "original": "Per euitare il pericolo, che dall’vnione di gente potesse sortire, furono sino sotto li 25. del mese passato sospesi gli essercitij de i Tribunali, e con il presente Editto se ne indica la Proroga ad arbitrio della Congregatione della Sanità.",
+      "english": "To avoid the danger that might result from people gathering, the tribunals’ activities were suspended as early as the 25th of last month; this edict announces an extension at the discretion of the Congregation of Health.",
+      "language": "it",
+      "noteIds": [
+        "ch72-note1",
+        "ch72-note2",
+        "ch72-note3"
+      ],
+      "id": "ch72-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Enforcement and privileged urgent matters",
+      "sourcePages": [
+        410
+      ],
+      "original": "Si eccettuano però li oblighi Camerali, e materie esecutiue, etiam per Contradictas, & Edictum, Attentati, Alimenti, Pigioni di casa, Pensioni, & altri decreti meri prouisionali, e di materie priuilegiate.",
+      "english": "Exceptions are made for obligations enforceable through the Camera and enforcement matters, including those per Contradictas and Edictum; Attentati (a historical procedural category); maintenance, house rents and pensions; and other purely provisional decrees and privileged matters.",
+      "language": "it",
+      "noteIds": [
+        "ch72-note1",
+        "ch72-note2",
+        "ch72-note3"
+      ],
+      "id": "ch72-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Witness examinations",
+      "sourcePages": [
+        410
+      ],
+      "original": "Gli Esami de’ Testimonij.",
+      "english": "Examinations of witnesses.",
+      "language": "it",
+      "noteIds": [
+        "ch72-note1",
+        "ch72-note2",
+        "ch72-note3"
+      ],
+      "id": "ch72-p4"
+    },
+    {
+      "kind": "provision",
+      "label": "Orders and instruments already decreed",
+      "sourcePages": [
+        410
+      ],
+      "original": "Li Mandati, e speditioni decretate auanti l’Editto, con la essecutione de’ mandati da decretarsi.",
+      "english": "Orders and the issuing of instruments decreed before the edict, together with execution of orders yet to be decreed.",
+      "language": "it",
+      "noteIds": [
+        "ch72-note1",
+        "ch72-note2",
+        "ch72-note3"
+      ],
+      "id": "ch72-p5"
+    },
+    {
+      "kind": "provision",
+      "label": "Appeals and stays",
+      "sourcePages": [
+        410
+      ],
+      "original": "Le appellationi con le inibitioni.",
+      "english": "Appeals together with prohibitory or stay orders.",
+      "language": "it",
+      "noteIds": [
+        "ch72-note1",
+        "ch72-note2",
+        "ch72-note3"
+      ],
+      "id": "ch72-p6"
+    },
+    {
+      "kind": "provision",
+      "label": "Monitory notices and related instruments",
+      "sourcePages": [
+        410
+      ],
+      "original": "Monitorij, & altre speditioni, etiam consecutiuè, per la causa de partibus.",
+      "english": "Monitory notices and other instruments, including subsequent ones, for the causa de partibus.",
+      "language": "it",
+      "noteIds": [
+        "ch72-note1",
+        "ch72-note2",
+        "ch72-note3"
+      ],
+      "id": "ch72-p7"
+    },
+    {
+      "kind": "provision",
+      "label": "Risk of flight and security for proceedings",
+      "sourcePages": [
+        410
+      ],
+      "original": "Li sospetti di fuga, e prouisioni pro assecuratione Iudicij.",
+      "english": "Matters involving suspected flight and measures to secure the judicial proceedings (pro assecuratione Iudicij).",
+      "language": "it",
+      "noteIds": [
+        "ch72-note1",
+        "ch72-note2",
+        "ch72-note3"
+      ],
+      "id": "ch72-p8"
+    },
+    {
+      "kind": "provision",
+      "label": "Rota and Camera cases; avoiding crowds",
+      "sourcePages": [
+        410
+      ],
+      "original": "Quanto alle Cause di Rota, e di Camera possa procedersi non solo nelle Cause sudette, ma anche in tutte le altre, le quali sono state disputate, e presone le risolutioni, e possano anco spedirsi quelle per sentenze, benchè li termini siano caduti, e seruati dentro li quindici giorni della sospensione precedente. Rimettendo alla prudenza de’ Giudici il modo di tenere la loro audienza senza tumulto, e concorso di persone per li rispetti accennati.",
+      "english": "For cases before the Rota and the Camera, proceedings may continue not only in the aforesaid matters but also in all other cases that have been argued and on which resolutions have been taken. Those cases may also be disposed of by judgments, even though the procedural periods fell and were observed within the fifteen days of the preceding suspension. The manner of holding hearings without disorder or crowds, for the reasons already stated, is left to the judges’ prudence.",
+      "language": "it",
+      "noteIds": [
+        "ch72-note1",
+        "ch72-note2",
+        "ch72-note3"
+      ],
+      "id": "ch72-p9"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        410
+      ],
+      "original": "Dat. in Roma li 9. Luglio 1656.",
+      "english": "Given in Rome on 9 July 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch72-note1",
+        "ch72-note2",
+        "ch72-note3"
+      ],
+      "id": "ch72-p10"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        410
+      ],
+      "original": "G. Card. Sacchetti.",
+      "english": "G. Cardinal Sacchetti.",
+      "language": "it",
+      "noteIds": [
+        "ch72-note1",
+        "ch72-note2",
+        "ch72-note3"
+      ],
+      "id": "ch72-p11"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        410
+      ],
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "language": "it",
+      "noteIds": [
+        "ch72-note1",
+        "ch72-note2",
+        "ch72-note3"
+      ],
+      "id": "ch72-p12"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch72-note1",
+      "type": "translation",
+      "text": "The Latin procedural labels “per Contradictas”, “Edictum”, “causa de partibus”, and “pro assecuratione Iudicij” are retained where a confident modern equivalent would require specialist legal-historical analysis. “Attentati” is retained as a procedural category rather than assigned a modern criminal-law meaning."
+    },
+    {
+      "id": "ch72-note2",
+      "type": "translation",
+      "text": "The final clause on procedural periods (“li termini siano caduti, e seruati”) is rendered closely and should be checked by a legal historian before drawing conclusions about deadline computation. The order retains a list of exceptions and is not a complete closure of all judicial business."
+    },
+    {
+      "id": "ch72-note3",
+      "type": "transcription",
+      "text": "The image reads 25 of the preceding month in the opening; OCR gives 15. The dateline is 9 July 1656. The references are preserved as printed rather than harmonized with another document’s date."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 69,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto con nuoua regola sopra l’introduttione delle Grascie nella Città di Roma",
+    "englishTitle": "Edict with a new rule for bringing provisions to Rome",
+    "date": "1656-07-07",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-69",
+    "printedPages": "321–322",
+    "scanPages": [
+      405,
+      406
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n404/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=405",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "321",
+      "322"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 69 through its final signatures on printed pp. 321–322. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date and signatures"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        405
+      ],
+      "original": "CAP. LXIX.\nEDITTO\nCon nuoua regola sopra l’introduttione delle Grascie nella Città di Roma.",
+      "english": "Chapter 69\nEdict\nWith a new rule for bringing provisions into the city of Rome.",
+      "language": "it",
+      "noteIds": [
+        "ch69-note1",
+        "ch69-note2"
+      ],
+      "id": "ch69-p1"
+    },
+    {
+      "kind": "preamble",
+      "label": "Rationale stated by the order",
+      "sourcePages": [
+        405
+      ],
+      "original": "Se bene con altro Editto publicato sotto li 28. di Giugno furono stabilite alcune regole per il riceuimento delle Grascie, nondimeno vedendosi, che per la Dio gratia, dopo essersi serrata quella parte di Trasteuere, oue diedero principio alcuni accidenti di mal Contagioso, questo per l’esattezza delle diligenze, che si pratticano, non hà potuto dilatare li suoi mali effetti, e che nel resto di quest’Alma Città di Roma si viue con perfetta salute, la Santità di Nostro Signore, oltre à questa riflessione, considerando, che il mantenimento de’ suoi Sudditi, in che sommamente preme, procede in gran parte dal Commercio, & esito delle loro entrate, e che à questo beneficio segue ancora quello di mantenere più abondante la stessa Città di Roma d’ogni sorte di Grascia,",
+      "english": "Although another edict published on 28 June established certain rules for receiving provisions, it is now seen that, by God’s grace, after the part of Trastevere where some occurrences of contagious disease began was sealed, the disease has been unable to spread its harmful effects because of the exact precautions being practised, and the rest of this venerable city of Rome lives in perfect health. Besides this consideration, His Holiness Our Lord reflects that his subjects’ livelihood, about which he is deeply concerned, depends in large part on trade and the sale of their produce, and that this benefit also helps keep Rome more abundantly supplied with provisions of every kind.",
+      "language": "it",
+      "noteIds": [
+        "ch69-note1",
+        "ch69-note2"
+      ],
+      "id": "ch69-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Obligation to bring supplies",
+      "sourcePages": [
+        406
+      ],
+      "original": "hà risoluto, e comanda espressamente, che tutti quelli del suo Stato, che hanno mercantie, e qualsiuoglia sorte di Grascie da esitare, debbano portarle, ò trasmetterle sino alle Mura, e Porte di Roma, e particolarmente Grano, Biade, Vino, Olio, Frutti di qualunque sorte, Polami, Salami, Oua, e simili, & anco Vaccine, Vitelle, Seccaticce, Castrati, e qualsiuoglia sorte d’Animali.",
+      "english": "He has resolved and expressly commands that everyone in his State who has merchandise or provisions of any kind to sell must bring or send them as far as Rome’s walls and gates, particularly wheat, other grain and fodder, wine, oil, fruit of every kind, poultry, preserved meats, eggs and the like, as well as cows, calves, non-milking cows, wethers and animals of every kind.",
+      "language": "it",
+      "noteIds": [
+        "ch69-note1",
+        "ch69-note2"
+      ],
+      "id": "ch69-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Grain and wine gates; other provisions",
+      "sourcePages": [
+        406
+      ],
+      "original": "Si determinano però, & assegnano per il riceuimento de’ Grani, Biade, e Vini li luoghi di Porta S. Giouanni, e Porta Angelica, e per tutte l’altre Grascie la Porta del Popolo.",
+      "english": "The places at Porta San Giovanni and Porta Angelica are designated for receiving wheat, other grain and fodder, and wine; Porta del Popolo is designated for all other provisions.",
+      "language": "it",
+      "noteIds": [
+        "ch69-note1",
+        "ch69-note2"
+      ],
+      "id": "ch69-p4"
+    },
+    {
+      "kind": "provision",
+      "label": "Livestock market",
+      "sourcePages": [
+        406
+      ],
+      "original": "Per gli Animali di qualsiuoglia sorte si farà il Campo à Porta Pia.",
+      "english": "For animals of every kind, the market ground shall be at Porta Pia.",
+      "language": "it",
+      "noteIds": [
+        "ch69-note1",
+        "ch69-note2"
+      ],
+      "id": "ch69-p5"
+    },
+    {
+      "kind": "provision",
+      "label": "River deliveries",
+      "sourcePages": [
+        406
+      ],
+      "original": "E quelle Grascie, che da Otricoli verranno portate per Fiume, si riceueranno fuori della Porta del Popolo nel luogo chiamato gli Olmi.",
+      "english": "Provisions brought by river from Otricoli shall be received outside Porta del Popolo at the place called Gli Olmi.",
+      "language": "it",
+      "noteIds": [
+        "ch69-note1",
+        "ch69-note2"
+      ],
+      "id": "ch69-p6"
+    },
+    {
+      "kind": "provision",
+      "label": "Separated exchange and certificates for return",
+      "sourcePages": [
+        406
+      ],
+      "original": "Per togliere nel medemo tempo ogni ombra di sospetto, che potesse indurre il ritorno alle Patrie delle Genti, che porteranno quà le Grascie, e robbe, come sopra, si notifica, che le compre, e le consegne di esse si faranno con cautele tali, che non solo quelli, che verranno per Fiume, ma tutti gli altri ancora ritorneranno senza hauer hauuto ingresso nella Città, ò presoui commercio di veruna sorte, e di ciò porteranno anco le attestationi necessarie dalli Commissarij, ò Deputati assistenti à ciascuna delle Porte di questa Città, & al luogo sudetto, detto de gli Olmi.",
+      "english": "To remove at the same time any shadow of suspicion that might be caused by the suppliers’ return to their home places, notice is given that purchases and deliveries shall be made with such precautions that not only those arriving by river but all the others shall return without having entered the city or had dealings of any kind within it. They shall also carry the necessary attestations of this from the commissioners or deputies attending at each city gate and at the aforesaid place called Gli Olmi.",
+      "language": "it",
+      "noteIds": [
+        "ch69-note1",
+        "ch69-note2"
+      ],
+      "id": "ch69-p7"
+    },
+    {
+      "kind": "provision",
+      "label": "Penalties and publication",
+      "sourcePages": [
+        406
+      ],
+      "original": "E perche vuole la Santità Sua, che segua onninamente la trasmissione delle Grascie, e mercantie sudette, si dichiara col presente Editto, che contro li renitenti si procederà à rigorose pene estensiue anco à quelle della vita, e confiscatione de’ Beni ad arbitrio della Congregatione sopra la Sanità, e che il presente Editto affisso in Roma nelli luoghi soliti habbia la medesima forza, come se fusse stato à ciascuno personalmente intimato.",
+      "english": "Because His Holiness wishes the aforesaid provisions and merchandise to be sent without fail, this edict declares that those who refuse shall face severe penalties extending even to death and confiscation of goods, at the discretion of the Congregation of Health. Once posted at Rome’s customary places, this edict shall have the same force as if personally notified to everyone.",
+      "language": "it",
+      "noteIds": [
+        "ch69-note1",
+        "ch69-note2"
+      ],
+      "id": "ch69-p8"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        406
+      ],
+      "original": "Dat. in Roma li 7. Luglio 1656.",
+      "english": "Given in Rome on 7 July 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch69-note1",
+        "ch69-note2"
+      ],
+      "id": "ch69-p9"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        406
+      ],
+      "original": "G. Card. Sacchetti.",
+      "english": "G. Cardinal Sacchetti.",
+      "language": "it",
+      "noteIds": [
+        "ch69-note1",
+        "ch69-note2"
+      ],
+      "id": "ch69-p10"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        406
+      ],
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "language": "it",
+      "noteIds": [
+        "ch69-note1",
+        "ch69-note2"
+      ],
+      "id": "ch69-p11"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch69-note1",
+      "type": "context",
+      "text": "The preamble’s claims that disease had not spread and that the rest of Rome was healthy are claims made by the order, not independently established epidemiological findings or proof that the precautions worked."
+    },
+    {
+      "id": "ch69-note2",
+      "type": "translation",
+      "text": "“Grascia/Grascie” denotes provisions and food supply; “esito delle loro entrate” concerns sale or disposal of produce or revenues. “Seccaticce” is provisionally rendered as non-milking cows; the historical livestock category warrants specialist review. “Castrati” here denotes wethers, not human persons."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

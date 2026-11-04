@@ -1,0 +1,445 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 63,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Editto sopra la distributione de i Rioni per hauer più pronta notitia d’ogni accidente",
+    "englishTitle": "Edict on allocating the districts for more prompt reports of every occurrence",
+    "date": "1656-06-27",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-63",
+    "printedPages": "311–314",
+    "scanPages": [
+      395,
+      396,
+      397,
+      398
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n394/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=395",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "311",
+      "312",
+      "313",
+      "314"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "Begins with chapter LXIII below the end of LXII on printed p.311 (scan 395), includes the complete fourteen-district roster after the signatures, and ends at the end of that roster on p.314 (scan 398). The preceding chapter text on p.311 is excluded from the transcription but remains visible in the full-page facsimile.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date and signatures",
+      "Complete district staffing roster after signatures"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        395
+      ],
+      "original": "CAP. LXIII.\nEDITTO\nSopra la distributione de i Rioni per hauer più pronta notitia d’ogni accidente.",
+      "english": "Chapter 63\nEdict\nOn allocating the districts for more prompt reports of every occurrence.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "District visits and the reporting of illness",
+      "sourcePages": [
+        395,
+        396
+      ],
+      "original": "Per preuenire ogni pericolo di male Contagioso, che potesse, ò dalla corrutela delli humori, ò dalla malignità degl’huomini introdursi nella Città di Roma, la cui total preseruatione gioua sperarsi dalla Diuina Misericordia, mediante la Paterna cura della Santità di Nostro Signore. Si è presa risolutione di assegnare à ciascun Rione, oltre à i Medici, e Chirurghi, alcuni particolari Prelati, e Gentilhuomini, quali anteponendo la salute publica ad ogni lor interesse, pratticando l’Amore douuto alla Patria, haueranno pensiero di visitare personalmente, almeno alternatiue vn giorno sì, e l’altro nò, tutte le Case del loro Quartiero, con prender nota delli Habitanti in esse, e delle qualità, essercitio, bisogni, e sanità de i medesimi; al quale effetto li faranno venir alla loro presenza mentre siano sani; E trouandone alcuno amalato, ordineranno prontamente à i Medici, ò Chirurgici destinati alla Cura del Rione, che li vadano à visitare, e trasmettano alli Notari destinati per li Rioni nota distinta delle Persone amalate, e delle qualità del lor male, perche vi si possa applicare prontamente l’opportuno rimedio. Et à i medesimi Gentilhuomini si dà facoltà di costituire Artegiani Capi di Strade, che li solleuino visitando li Habitanti, e referendo le loro occorrenze. E per maggior notitia di ciascuno, saranno qui sotto notati non solo li Rioni con li Medici, e Chirurgici, ma li nomi de i Gentilhuomini, à i quali si adossa la cura, ne se gl’impone alcuna pena nel ministerio assegnatoseli, perche la carità verso il publico beneficio dà sufficiente stimolo alla loro nascita, e si reputa per loro sufficiente paga il merito con Dio, con il Principe, e con la Patria.",
+      "english": "To prevent every danger of contagious disease that might be introduced into Rome either through corruption of the humours or through human malice—its complete preservation may be hoped for from Divine Mercy through the paternal care of His Holiness Our Lord—it has been resolved to assign particular prelates and gentlemen to each district, in addition to physicians and surgeons. Putting public health before every interest of their own and practising the love owed to their homeland, they shall personally visit every house in their quarter at least every other day, recording its inhabitants and their condition, occupation, needs and health. For this purpose they shall have the inhabitants come before them while healthy. If they find anyone ill, they shall promptly order the physicians or surgeons assigned to the district to visit them and transmit to the district notaries a detailed record of the sick persons and the nature of their illness, so that a suitable remedy may promptly be applied. These gentlemen are also authorized to appoint artisans as street heads to assist them by visiting inhabitants and reporting their circumstances. For everyone’s information, the districts, physicians and surgeons, and the names of the gentlemen entrusted with this care, are listed below. No penalty is imposed upon the gentlemen for their assigned service, because charity toward the public good sufficiently spurs their noble birth; merit before God, the Prince and their homeland is considered sufficient payment for them.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Household disclosure",
+      "sourcePages": [
+        396
+      ],
+      "original": "Alli habitanti delle Case quando, non riuelino puramente, e prontamente la verità della salute, che godano tutti di lor Casa, s’impone pena arbitraria estensiua alla perdita della vita.",
+      "english": "Inhabitants who do not truthfully and promptly disclose the health of everyone in their household incur a discretionary penalty extending to death.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Medical duties and penalties",
+      "sourcePages": [
+        396
+      ],
+      "original": "Alli Medici, e Chirurghi, mentre non esseguiscano prontamente l’impostoli da i Gentilhuomini, e non adempiscano la forma dataseli, se gl’impone la pena di scudi 500. per ciascuna volta estensiua à pena corporale, etiam delle maggiori, restando ferme così rispetto alli Habitanti, come ne’ Medici, e Chirurgici, tutte le altre pene per altri Bandi comminate.",
+      "english": "Physicians and surgeons who do not promptly carry out the gentlemen’s instructions or comply with the prescribed procedure incur a penalty of 500 scudi for each offence, extending to corporal punishment, including the severest forms. All other penalties threatened by other proclamations remain in force for inhabitants, physicians and surgeons alike.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p4"
+    },
+    {
+      "kind": "provision",
+      "label": "Exhortation",
+      "sourcePages": [
+        396
+      ],
+      "original": "Procuri però ciascuno adempir le parti sue, come si spera.",
+      "english": "Let everyone therefore strive to fulfil their duties, as is hoped.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p5"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        396
+      ],
+      "original": "Dat. in Roma il dì 27. Giugno 1656.",
+      "english": "Given in Rome on 27 June 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p6"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        396
+      ],
+      "original": "G. Card. Sacchetti.",
+      "english": "G. Cardinal Sacchetti.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p7"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        396
+      ],
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p8"
+    },
+    {
+      "kind": "provision",
+      "label": "Monti district roster",
+      "sourcePages": [
+        396
+      ],
+      "original": "Rione, de’ Monti. Prelato, Monsig. Brunengo. Gentilhuomini, Sig. Gio: Battista della Molara, e Sig. Prospero Alli. Medici, Sig. Giuseppe Barlesi, e Sig. Giuseppe Bazzani Sostituto. Chirurgo, Guglielmo Riua à Monte Tarpeio. Notaro, Marchetti à Tor de’ Conti.",
+      "english": "Monti district. Prelate: Monsignor Brunengo. Gentlemen: Gio: Battista della Molara and Prospero Alli. Physicians: Giuseppe Barlesi and deputy Giuseppe Bazzani. Surgeon: Guglielmo Riua at Monte Tarpeio. Notary: Marchetti at Tor de’ Conti.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p9"
+    },
+    {
+      "kind": "provision",
+      "label": "Trevi district roster",
+      "sourcePages": [
+        397
+      ],
+      "original": "Rione, di Treui. Prelato, Monsig. Muti. Gentilhuomini, Sig. Abbate Vaini, e Sig. Abbate Palmieri. Medici, Sig. Francesco Storni, e Sig. Florido in casa del Sig. Prencipe Giustiniano Sostituto. Chirurgo, Francesco Talami incontro al Prencipe Pamfilio. Notaro, Arigone vicino alla Fontana di Treui.",
+      "english": "Trevi district. Prelate: Monsignor Muti. Gentlemen: Abbot Vaini and Abbot Palmieri. Physicians: Francesco Storni and deputy Florido, in Prince Giustiniano’s house. Surgeon: Francesco Talami, opposite Prince Pamfilio. Notary: Arigone, near the Trevi Fountain.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p10"
+    },
+    {
+      "kind": "provision",
+      "label": "Colonna district roster",
+      "sourcePages": [
+        397
+      ],
+      "original": "Rione, di Colonna. Prelato, Monsig. Carpegna. Gentilhuomini, Sig. Carlo Verospi, e Sig. Domenico Roncalli. Medici, Sig. Lodouico Berlenzani, e Sig. Andrea Mancinelli Sostituto vicino al Sig. Card. di Retz. Chirurgo, Nicolò Centini in Casa di Monsig. Vecchiarelli. Notaro, Tenaglino vicino à Piazza Colonna.",
+      "english": "Colonna district. Prelate: Monsignor Carpegna. Gentlemen: Carlo Verospi and Domenico Roncalli. Physicians: Lodouico Berlenzani and deputy Andrea Mancinelli, near Cardinal de Retz. Surgeon: Nicolò Centini, in Monsignor Vecchiarelli’s house. Notary: Tenaglino, near Piazza Colonna.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p11"
+    },
+    {
+      "kind": "provision",
+      "label": "Campo Marzo district roster",
+      "sourcePages": [
+        397
+      ],
+      "original": "Rione, di Campomarzo. Prelato, Monsig. Marescotti. Gentilhuomini, Sig. Fabritio Boccapadulli, e Sig. Giordano Boccabella. Medici, Sig. Paolo Reale, e Sig. Medico de Prosperis Sostituto à Ripetta. Chirurgo, Ottauiano altre volte Sostituto di San Giacomo à strada de’ Pontefici. Notaro, Antonetti sotto Cecchini.",
+      "english": "Campo Marzo district. Prelate: Monsignor Marescotti. Gentlemen: Fabritio Boccapadulli and Giordano Boccabella. Physicians: Paolo Reale and deputy physician de Prosperis at Ripetta. Surgeon: Ottauiano, formerly a deputy at San Giacomo, in Strada de’ Pontefici. Notary: Antonetti, below Cecchini.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p12"
+    },
+    {
+      "kind": "provision",
+      "label": "Ponte district roster",
+      "sourcePages": [
+        397
+      ],
+      "original": "Rione, di Ponte. Prelato, Monsig. de Totis. Gentilhuomini, Sig. Giulio Abbate Ricci, e Sig. Abbate degl’Atti. Medici, Sig. Michele Ricci, e Sig. Bonamoneta Sostituto in Borgo. Chirurgo, Francesco Maria Baccinetti in Panico. Notaro, Rubino Notaro di Camera in Banchi.",
+      "english": "Ponte district. Prelate: Monsignor de Totis. Gentlemen: Abbot Giulio Ricci and Abbot degl’Atti. Physicians: Michele Ricci and deputy Bonamoneta in Borgo. Surgeon: Francesco Maria Baccinetti in Panico. Notary: Rubino, notary of the Camera, in Banchi.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p13"
+    },
+    {
+      "kind": "provision",
+      "label": "Parione district roster",
+      "sourcePages": [
+        397
+      ],
+      "original": "Rione, di Parione. Prelato, Monsig. Maculano. Gentilhuomini, Sig. Diego Cinquini, e Sig. Diego Cornouaglia. Medici, Sig. Gio: Battista Benci, e Sig. Bartolomeo Lancetta Sostituto à San Girolamo della Carità. Chirurgo, Gio: Battista Pieri al Pellegrino. Notaro, Al Tribunale di Monsig. Gouernatore.",
+      "english": "Parione district. Prelate: Monsignor Maculano. Gentlemen: Diego Cinquini and Diego Cornouaglia. Physicians: Gio: Battista Benci and deputy Bartolomeo Lancetta at San Girolamo della Carità. Surgeon: Gio: Battista Pieri at Pellegrino. Notary: at the Governor’s tribunal.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p14"
+    },
+    {
+      "kind": "provision",
+      "label": "Regola district roster",
+      "sourcePages": [
+        397
+      ],
+      "original": "Rione, di Regola. Prelato, Monsig. Grimaldi. Gentilhuomini, Sig. Pompeo Abbate Rocci, e Sig. Priore Bangiouanni. Medici, Sig. Gio: Caterino, e Sig. Gasparo Celebrati Sostituto à S. Nicola in Carcere. Chirurgo, Gio: Battista Foruia vicino alli Falconieri. Notaro, Al successor del Vespignano alli Giupponari.",
+      "english": "Regola district. Prelate: Monsignor Grimaldi. Gentlemen: Abbot Pompeo Rocci and Prior Bangiouanni. Physicians: Gio: Caterino and deputy Gasparo Celebrati at San Nicola in Carcere. Surgeon: Gio: Battista Foruia, near the Falconieri. Notary: Vespignano’s successor at Giupponari.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p15"
+    },
+    {
+      "kind": "provision",
+      "label": "Sant’Eustachio district roster",
+      "sourcePages": [
+        397
+      ],
+      "original": "Rione, di S. Eustachio. Prelato, Monsig. Crescentio. Gentilhuomini, Sig. Hercole Bolognetti, e Sig. Abbate Marino. Medici, Il sudetto Sig. Lodouico Berlenzani, & il Mancinelli Sostituto. Chirurgo, Francesco Galli alli Coronari. Notaro, Al Moro incontro la Chiesa di S. Eustachio.",
+      "english": "Sant’Eustachio district. Prelate: Monsignor Crescentio. Gentlemen: Hercole Bolognetti and Abbot Marino. Physicians: the aforesaid Lodouico Berlenzani and deputy Mancinelli. Surgeon: Francesco Galli at Coronari. Notary: at Moro’s, opposite the church of Sant’Eustachio.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p16"
+    },
+    {
+      "kind": "provision",
+      "label": "Pigna district roster",
+      "sourcePages": [
+        397,
+        398
+      ],
+      "original": "Rione, di Pigna. Prelato, Monsig. Serlupi. Gentilhuomini, Sig. Pietro Alberino, e Sig. Guiscardo Lana. Medici, il sudetto Sig. Francesco Storni, & il Sig. Florido Sostituto. Chirurgo, Lodouico Gradi al Vicolo de’ Polacchi. Notaro, Al Massari incontro à Maddaleni.",
+      "english": "Pigna district. Prelate: Monsignor Serlupi. Gentlemen: Pietro Alberino and Guiscardo Lana. Physicians: the aforesaid Francesco Storni and deputy Florido. Surgeon: Lodouico Gradi in Vicolo de’ Polacchi. Notary: at Massari’s, opposite Maddaleni.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p17"
+    },
+    {
+      "kind": "provision",
+      "label": "Campitelli district roster",
+      "sourcePages": [
+        398
+      ],
+      "original": "Rione, di Campitelli. Monsig. Tassi. Gentilhuomini, Sig. Gio: Paolo Muti, e Sig. Michel Angelo Mattei. Medici, Il sopradetto Sig. Giuseppe Barlesi, & il Sig. Bazzani Sostituto. Chirurgo, Michele vicino à Rocci. Notaro, Al Bonanni all’Olmo.",
+      "english": "Campitelli district. Monsignor Tassi. Gentlemen: Gio: Paolo Muti and Michel Angelo Mattei. Physicians: the aforesaid Giuseppe Barlesi and deputy Bazzani. Surgeon: Michele, near Rocci. Notary: at Bonanni’s at Olmo.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p18"
+    },
+    {
+      "kind": "provision",
+      "label": "Sant’Angelo district roster",
+      "sourcePages": [
+        398
+      ],
+      "original": "Rione, di S. Angelo. Prelato, Monsig. Zeloni. Gentilhuomini, Sig. Francesco Caetano, e Sig. Canonico Carducci. Medici, il sopradetto Sig. Gio: Caterino, & il Sig. Celebrati Sostituto. Chirurgo, Girolamo à Macel de’ Corbi. Notaro, Al Cozzardi à Piazza Giudea.",
+      "english": "Sant’Angelo district. Prelate: Monsignor Zeloni. Gentlemen: Francesco Caetano and Canon Carducci. Physicians: the aforesaid Gio: Caterino and deputy Celebrati. Surgeon: Girolamo at Macel de’ Corbi. Notary: at Cozzardi’s in Piazza Giudea.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p19"
+    },
+    {
+      "kind": "provision",
+      "label": "Ripa district roster",
+      "sourcePages": [
+        398
+      ],
+      "original": "Rione, di Ripa. Prelato, Il sudetto Monsig. Zeloni. Gentilhuomini, Sig. Marc’Antonio Marescotti, e Sig. Conte Federico Ventimiglia. Medici, Il Sig. Valentini Honorati, e Sig. Cintio Colettici Sostituto. Chirurgo, Lorenzo Sostituto della Consolatione. Notaro, Al Constantini à Tor de’ Specchi.",
+      "english": "Ripa district. Prelate: the aforesaid Monsignor Zeloni. Gentlemen: Marc’Antonio Marescotti and Count Federico Ventimiglia. Physicians: Valentini Honorati and deputy Cintio Colettici. Surgeon: Lorenzo, deputy at the Consolatione. Notary: at Constantini’s at Tor de’ Specchi.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p20"
+    },
+    {
+      "kind": "provision",
+      "label": "Trastevere district roster",
+      "sourcePages": [
+        398
+      ],
+      "original": "Rione, di Trasteuere. Prelato, Monsig. Barbarigo. Gentilhuomini, Sig. Giulio Moroni, e Sig. Angelo Lana. Medici, Il sudetto Sig. Valentini Honorati, & il detto suo Sostituto. Chirurgo, Nicolò Pizzi à Pasquino. Notaro, Al successore del Decio à Ponte Sisto.",
+      "english": "Trastevere district. Prelate: Monsignor Barbarigo. Gentlemen: Giulio Moroni and Angelo Lana. Physicians: the aforesaid Valentini Honorati and his aforesaid deputy. Surgeon: Nicolò Pizzi at Pasquino. Notary: Decio’s successor at Ponte Sisto.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p21"
+    },
+    {
+      "kind": "provision",
+      "label": "Borgo district roster",
+      "sourcePages": [
+        398
+      ],
+      "original": "Rione, di Borgo. Prelato, Monsig. Accoramboni. Gentilhuomini, Sig. Abbate Filicaia, e Sig. Vrbano Erasmi. Medici, Il sopradetto Sig. Michele Ricci, & il Sig. Bonamoneta Sostituto. Chirurgo, Bernardino Gentiluzzi incontro al Caualetto. Notaro, Al Notaro di Borgo.",
+      "english": "Borgo district. Prelate: Monsignor Accoramboni. Gentlemen: Abbot Filicaia and Vrbano Erasmi. Physicians: the aforesaid Michele Ricci and deputy Bonamoneta. Surgeon: Bernardino Gentiluzzi, opposite Caualetto. Notary: at the Borgo notary’s.",
+      "language": "it",
+      "noteIds": [
+        "ch63-note1",
+        "ch63-note2",
+        "ch63-note3"
+      ],
+      "id": "ch63-p22"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch63-note1",
+      "type": "transcription",
+      "text": "The scan reads 27 June 1656 and 500 scudi; OCR misreads the date as 17 June and the amount as 300. The roster after the signatures belongs to this chapter and is included in full."
+    },
+    {
+      "id": "ch63-note2",
+      "type": "translation",
+      "text": "The opening invokes the historical theory of corrupted humours and human malice. “Nascita” appeals to noble birth. Neither statement is a modern explanation of plague transmission."
+    },
+    {
+      "id": "ch63-note3",
+      "type": "transcription",
+      "text": "Personal names and address-like directions are retained in their printed forms, including abbreviated Gio:, Riua, Foruia, and Valentini Honorati. These readings have been checked against the images but have not been independently identified in biographical sources."
+    }
+  ],
+  "relations": [],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

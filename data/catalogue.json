@@ -1177,8 +1177,8 @@
     {
       "id": 68,
       "roman": "LXVIII",
-      "title": "Search for specified suspected contacts",
-      "summary": "Seek specified persons suspected of contagion; impose reporting duties and severe penalties on them, their hosts and knowledgeable non-reporters.",
+      "title": "Locate specified persons for a public-health inquiry",
+      "summary": "Require Marta, her unnamed daughter and Pietro the vineyard worker to appear at the governor’s office; require anyone knowing their whereabouts or sheltering them to report.",
       "primaryGroup": "surveillance_tracing",
       "groupIds": [
         "surveillance_tracing",
@@ -1186,16 +1186,17 @@
       ],
       "tags": [
         "enforcement",
-        "contact tracing"
+        "public-health reporting"
       ],
       "action": "specific_order",
       "actionLabel": "Specific order",
       "printedPages": "320",
       "provisions": [
-        "Publish a specific search for named or described Trastevere contacts and require them to present themselves; require hosts and anyone knowing their whereabouts to report."
+        "Require Marta, wife of an unnamed gardener, her unnamed daughter and Pietro the vineyard worker to present themselves immediately at the governor’s office on pain of death.",
+        "Require hosts and anyone who knows their whereabouts to report immediately under the same penalty; give no confirmed diagnosis or specific exposure history."
       ],
       "provisionKind": "expanded",
-      "verificationNote": "Full operative body reviewed against the primary-source scan/OCR; analytical paraphrase, with recurring legal boilerplate condensed. Not a diplomatic transcription or a count of unique interventions.",
+      "verificationNote": "Complete operative text and names checked against the chapter images (printed pp.320–321). The order supplies a public-health rationale but no confirmed diagnosis or specific exposure event. Full paired reading edition available; human specialist review pending.",
       "source": {
         "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n403/mode/1up",
         "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=404",

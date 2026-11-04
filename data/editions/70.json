@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 70,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Notificatione sopra la Sanità",
+    "englishTitle": "Notification on public health",
+    "date": "1656-07-08",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-70",
+    "printedPages": "323–325",
+    "scanPages": [
+      407,
+      408,
+      409
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n406/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=407",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "323",
+      "324",
+      "325"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 70 through its final signatures on printed pp. 323–325. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date and signatures"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        407
+      ],
+      "original": "CAP. LXX.\nNOTIFICATIONE\nSOPRA LA SANITA’.",
+      "english": "Chapter 70\nNotification\nOn public health.",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p1"
+    },
+    {
+      "kind": "preamble",
+      "label": "Faster decentralized reporting",
+      "sourcePages": [
+        407
+      ],
+      "original": "Affinche gli ordini publicati con Bando particolare li 20. Giugno sopra le diligenze, e regole prefisse per hauer in questa Città di Roma le notitie degli amalati, e de’ morti, e poter prouedere opportunamente à ciò, che appartiene alla salute, e beneficio publico, vengano con maggior puntualità osseruati, si è considerato, che in riguardo dell’ampiezza della Città, e delle difficoltà di far peruenire colla necessaria sollecitudine le notitie sudette, possa esser miglior espediente di deputare più Prelati, li quali secondo la dispositione de’ Rioni assegnati loro, riceuano le denuncie de gli amalati, e morti sudetti, che douranno darsi loro da’ Medici, e Cirurcici in vigore del sopradetto Bando.",
+      "english": "So that the orders published by the special proclamation of 20 June concerning the precautions and rules for obtaining reports of the sick and dead in Rome, and for providing appropriately for public health and benefit, may be observed more exactly, it has been considered that, given the city’s size and the difficulty of transmitting those reports with the necessary speed, it may be better to appoint several prelates. According to the allocation of their districts, they shall receive the aforesaid reports of the sick and dead that physicians and surgeons must submit under that proclamation.",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Appointment of receiving prelates",
+      "sourcePages": [
+        407
+      ],
+      "original": "Hà però la Santità di Nostro Signore eletti per riceuer le denuncie, come sopra, li Monsignori Cerri, Celsi, e Carafa, destinando",
+      "english": "His Holiness Our Lord has therefore selected Monsignors Cerri, Celsi and Carafa to receive those reports, assigning:",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Cerri’s districts",
+      "sourcePages": [
+        407
+      ],
+      "original": "A Monsig. Cerri li Rioni di Ponte, Parione, Regola, e Borgo.",
+      "english": "To Monsignor Cerri: the districts of Ponte, Parione, Regola and Borgo.",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p4"
+    },
+    {
+      "kind": "provision",
+      "label": "Celsi’s districts",
+      "sourcePages": [
+        407
+      ],
+      "original": "A Monsig. Celsi quelli de’ Monti, Ripa, Campitello, Pigna, e Sant’Angelo.",
+      "english": "To Monsignor Celsi: Monti, Ripa, Campitello, Pigna and Sant’Angelo.",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p5"
+    },
+    {
+      "kind": "provision",
+      "label": "Carafa’s districts",
+      "sourcePages": [
+        407
+      ],
+      "original": "A Monsig. Carafa quelli di Treui, Colonna, Campo Marzo, e S. Eustachio.",
+      "english": "To Monsignor Carafa: Trevi, Colonna, Campo Marzo and Sant’Eustachio.",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p6"
+    },
+    {
+      "kind": "provision",
+      "label": "Rivaldi’s institutions and Trastevere",
+      "sourcePages": [
+        407,
+        408
+      ],
+      "original": "A Monsig. Riualdi si riserua il riceuere le denuncie de gli amalati, e morti nelli Monasteri, e Conuenti di Regolari, ò di qualsiuoglia Religione, de’ Mendicanti ristretti, e delli Hospedali fuor delle Porte, come anco del Rione di Trasteuere, del quale si prenderà insieme la cura l’Eminentissimo Signor Cardinale Barberino.",
+      "english": "To Monsignor Rivaldi is reserved the receipt of reports of the sick and dead in monasteries and convents of regular clergy or any religious order, among confined beggars, and in hospitals outside the gates, as also in Trastevere, whose care His Eminence Cardinal Barberini shall share.",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p7"
+    },
+    {
+      "kind": "provision",
+      "label": "Notaries must forward reports immediately and unaltered",
+      "sourcePages": [
+        408
+      ],
+      "original": "Si ordina però di commissione espressa di Nostro Sig., che quei Notari, che secondo la dichiaratione fattasi col Bando nominato di sopra, sono stati deputati à riceuer le sudette denuncie, siano tenuti subito, che saranno peruenute alle loro mani, portarle à quel Prelato, sotto la cui cura siano li Rioni, da’ quali vengono dette denuncie, auuertendo, che queste siano fedelmente consegnate alli Prelati, senza aggiunger, nè mutilare in esse cosa alcuna sotto le pene contenute nel Bando sudetto.",
+      "english": "By the express commission of Our Lord, the notaries appointed under the proclamation mentioned above to receive those reports are therefore required, immediately upon receiving them, to take them to the prelate responsible for the districts from which they come. They must deliver them faithfully to the prelates without adding or removing anything, under the penalties contained in that proclamation.",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p8"
+    },
+    {
+      "kind": "provision",
+      "label": "Clergy’s independent duty to report",
+      "sourcePages": [
+        408
+      ],
+      "original": "E perche l’istesse denuncie possano hauersi intieramente, e prouedersi secondo la qualità de’ casi colle diligenze, e rimedij opportuni, si comanda nuouamente col presente Editto alli Parochi, Vicarij, ò altri, li quali sotto qualsiuoglia titolo, habbiano cura d’Anime, che debbano dar subito nell’Officio del Notaro deputato nel loro Rione la denuncia degl’infermi, e morti, che sono, ò che in auuenire saranno nella loro Parochia, ancorche sappiano, che altri sieno già stati denunciati.",
+      "english": "So that these reports may be obtained in full and appropriate precautions and remedies provided according to the nature of each case, this edict again orders parish priests, vicars and others having care of souls under any title immediately to report at the office of their district’s appointed notary the sick and dead now or in future in their parish, even if they know that others have already reported them.",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p9"
+    },
+    {
+      "kind": "provision",
+      "label": "Written burial permission",
+      "sourcePages": [
+        408
+      ],
+      "original": "E di più si comanda alli medesimi, & alli Beccamorti, & à qualsiuoglia altra persona, che non dia sepoltura, nè permetta, ò faccia sepellire alcun cadauero, se prima non hauerà la licenza in scritto dal Prelato del Rione destinato come sopra.",
+      "english": "They, the gravediggers and every other person are further ordered not to bury, permit the burial of, or have any corpse buried without first obtaining written permission from the district prelate appointed as above.",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p10"
+    },
+    {
+      "kind": "provision",
+      "label": "Removing property from affected premises",
+      "sourcePages": [
+        408
+      ],
+      "original": "Si ordina di più, che non ardisca alcuna persona di leuare, ò far leuare qualsiuoglia robba da alcuna Casa, Monasterio, Conuento, ò altro luogo, oue sia, ò sia stato per dieci giorni auanti alcun amalato, ò morto senza licenza in scritto del Prelato del Rione, e di Monsig. Riualdi per li luoghi à lui assegnati, ancorche il male non habbia dato sospetto di Contagio, & ancorche le robbe fossero scritture, metallo, danari, gioie, ò qualsiuoglia robba, anco non soggetta à riceuere qualità Contagiosa, & ancorche fussero cose proprie della persona, che tentasse di leuarle, e che si leuassero per qualsiuoglia poco tempo, anco per riportarle subito. Si vuole parimente, che alcuno non ardisca di riceuere, ò ritenere le robbe leuate contro la dispositione del presente Capitolo.",
+      "english": "No person shall dare to remove or have removed any belongings from a house, monastery, convent or other place where there is, or has been within the preceding ten days, anyone sick or dead, without written permission from the district prelate, or from Monsignor Rivaldi for the places assigned to him. This applies even if the illness has not raised suspicion of contagion; even if the things are documents, metal, money, jewels or any goods, including those not considered susceptible to acquiring a contagious quality; even if they belong to the person attempting to remove them; and even if they are removed only briefly, with immediate return intended. Likewise, no one shall dare to receive or retain things removed contrary to this provision.",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p11"
+    },
+    {
+      "kind": "provision",
+      "label": "Earlier rules retained; duration",
+      "sourcePages": [
+        408,
+        409
+      ],
+      "original": "Si dichiara in oltre, che col presente Editto non s’intende di derogare al Bando sudetto in data de’ 20. Giugno in quelle parti però, che non vengono riportate in questo; e si vuole, che alle pene espresse in esso soggiacciano li trasgressori del presente Editto, il quale si dichiara, che doppo publicato ne’ luoghi soliti, habbia da osseruarsi inuiolabilmente, come se fusse stato personalmente intimato à qualsiuoglia persona, e durerà solamente per tutto il tempo, che si terranno le guardie alle Porte per sospetto di Contagio.",
+      "english": "It is further declared that this edict is not intended to derogate from those parts of the aforesaid proclamation dated 20 June that are not reproduced here. Offenders against this edict shall incur its stated penalties. After publication at the customary places, this edict must be observed without violation as if personally notified to everyone, and shall remain in force only for as long as the guards are kept at the gates on suspicion of contagion.",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p12"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        409
+      ],
+      "original": "Dat. in Roma li 8. Luglio 1656.",
+      "english": "Given in Rome on 8 July 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p13"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        409
+      ],
+      "original": "G. Card. Sacchetti.",
+      "english": "G. Cardinal Sacchetti.",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p14"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        409
+      ],
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "language": "it",
+      "noteIds": [
+        "ch70-note1",
+        "ch70-note2"
+      ],
+      "id": "ch70-p15"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch70-note1",
+      "type": "transcription",
+      "text": "The earlier reporting proclamation is dated 20 June in both references here, not 10 June as the OCR reads at the opening. The printed spelling “Cirurcici” is retained."
+    },
+    {
+      "id": "ch70-note2",
+      "type": "translation",
+      "text": "The ten-day condition concerns illness or death in the premises during the preceding ten days. This is not a universal ten-day quarantine. The claim that some materials do not receive a contagious quality is the document’s historical classification, not a modern finding."
+    }
+  ],
+  "relations": [
+    {
+      "chapterId": 55,
+      "kind": "extends",
+      "label": "Extends the illness-reporting proclamation of 20 June",
+      "segmentIds": [
+        "ch70-p2",
+        "ch70-p12"
+      ]
+    }
+  ],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}

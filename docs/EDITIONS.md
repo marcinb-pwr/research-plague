@@ -70,3 +70,10 @@ The representation follows lightweight principles from the Text Encoding Initiat
 - [TEI: representation of primary sources](https://tei-c.org/release/doc/tei-p5-doc/en/html/PH.html)
 - [TEI: unclear readings](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-unclear.html)
 - [TEI: revision descriptions](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-revisionDesc.html)
+
+
+## Chapters 63–72 — 4 November 2026
+
+Ten complete reading editions add 110 paired passages and ten chapter-specific PDF facsimiles (printed pp.311–326, scans 395–410). The site now has 32 chapter editions and 39 excerpt records. Shared full-page images are reused between adjacent excerpts without changing chapter-specific PDF boundaries.
+
+Chapter 63 includes the entire fourteen-district staffing roster after the signatures. Image checks corrected OCR errors in its date (27 June) and medical penalty (500 scudi), chapter 66’s “all of Poland”, and chapter 72’s reference to the 25th of the preceding month. Chapter 68 is catalogued cautiously: the order seeks named or described persons but does not establish a diagnosis or specific exposure. Legal and livestock terminology requiring specialist review is retained or qualified in the individual notes. Human review remains pending.

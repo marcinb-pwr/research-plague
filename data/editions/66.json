@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 66,
+  "version": "0.1.0",
+  "document": {
+    "originalTitle": "Rinouatione de’ Bandi fatti in diuersi tempi colla sospensione de’ varij luoghi per causa di Peste",
+    "englishTitle": "Renewal of proclamations suspending various places because of plague",
+    "date": "1656-06-30",
+    "place": "Rome",
+    "languages": [
+      "it"
+    ]
+  },
+  "source": {
+    "archiveId": "bub_gb_7JW_fmB33XEC",
+    "pdfSha256": "71d4e5d487fb5d18ec66408a4828e44bcddaf7c782bc48198e723d2a042309a3",
+    "excerptId": "chapter-66",
+    "printedPages": "318–319",
+    "scanPages": [
+      402,
+      403
+    ],
+    "readerUrl": "https://archive.org/details/bub_gb_7JW_fmB33XEC/page/n401/mode/1up",
+    "pdfUrl": "https://archive.org/download/bub_gb_7JW_fmB33XEC/bub_gb_7JW_fmB33XEC.pdf#page=402",
+    "editionYear": 1684,
+    "printedPageLabels": [
+      "318",
+      "319"
+    ]
+  },
+  "coverage": {
+    "scope": "complete-chapter",
+    "boundaryNote": "From the heading of chapter 66 through its final signatures on printed pp. 318–319. Adjoining chapters on shared pages are excluded from the text but remain visible in the full-page facsimiles.",
+    "includes": [
+      "Historical heading",
+      "Complete operative text, conditions, exceptions and sanctions",
+      "Date and signatures",
+      "Both territorial lists in their separate columns"
+    ],
+    "excluded": [
+      "Running headers, page numbers, catchwords, printer signatures and ornaments",
+      "Text belonging to adjoining chapters on shared pages"
+    ]
+  },
+  "transcriptionPolicy": "Reading transcription of the text printed in Gastaldi’s 1684 edition. Long s is rendered as s; line-end divisions are joined; typographic spacing and apostrophes are regularized. Historical spelling and abbreviations are retained. Uncertain readings and substantive editorial choices are identified in the notes. OCR was used as a reading aid and compared against page images.",
+  "paragraphPolicy": "Paired passages follow printed paragraphs where practicable. The heading, dateline and signatures are separated for citation; paragraph identifiers and English descriptive labels are editorial. Source page arrays include every page crossed by a passage.",
+  "segments": [
+    {
+      "kind": "heading",
+      "label": "Historical heading",
+      "sourcePages": [
+        402
+      ],
+      "original": "CAP. LXVI.\nRINOVATIONE\nDe’ Bandi fatti in diuersi tempi colla sospensione de’ varij luoghi per causa di Peste.",
+      "english": "Chapter 66\nRenewal\nOf proclamations issued at various times suspending different places because of plague.",
+      "language": "it",
+      "noteIds": [
+        "ch66-note1",
+        "ch66-note2"
+      ],
+      "id": "ch66-p1"
+    },
+    {
+      "kind": "provision",
+      "label": "Renewal and incorporation of earlier conditions",
+      "sourcePages": [
+        402
+      ],
+      "original": "Perche fin dal 1652. con diuersi Editti si sono bandite, e sospese molte Città, e Prouincie per sospetto di mal Contagioso, e continua tuttauia il bisogno di guardarsi, e di non ammettere le Persone, Animali, Robbe, e Mercantie, che vengono da quelle parti. Per commissione espressa di Nostro Signore se ne rinoua col presente Bando la notitia, ristringendosi qui sotto la nota de’ luoghi sudetti, in ordine alla puntuale osseruanza della dispositione de’ Bandi sudetti colle conditioni, e pene espresse particolarmente in quello publicato li 20. Maggio dell’anno corrente.",
+      "english": "Because since 1652 various edicts have banned and suspended many cities and provinces on suspicion of contagious disease, and there remains a need to keep watch and not admit persons, animals, belongings and merchandise coming from those parts, by the express commission of Our Lord this proclamation renews notice of those restrictions. A consolidated list of the aforesaid places is given below for exact observance of the proclamations, with the conditions and penalties expressed particularly in the proclamation published on 20 May of the current year.",
+      "language": "it",
+      "noteIds": [
+        "ch66-note1",
+        "ch66-note2"
+      ],
+      "id": "ch66-p2"
+    },
+    {
+      "kind": "provision",
+      "label": "Banned places — left column",
+      "sourcePages": [
+        403
+      ],
+      "original": "BANDITI.\nL’Isola di Sardegna.\nL’Isola di Maiorica.\nLa Prouincia di Linguadoca.\nPerpignano con tutto il Contado di Rossiglione.\nTorox.\nValeimalega.\nFrigiliana.\nNerxa.",
+      "english": "BANNED.\nThe island of Sardinia.\nThe island of Majorca.\nThe province of Languedoc.\nPerpignan with the whole county of Roussillon.\nTorox.\nValeimalega.\nFrigiliana.\nNerxa.",
+      "language": "it",
+      "noteIds": [
+        "ch66-note1",
+        "ch66-note2"
+      ],
+      "id": "ch66-p3"
+    },
+    {
+      "kind": "provision",
+      "label": "Suspended places — right column",
+      "sourcePages": [
+        403
+      ],
+      "original": "SOSPESI.\nL’Isola di Minorica.\nLa Prouincia del Delfinato, e Principato d’Oranges.\nLa Catalogna.\nL’Isola d’Euizza.\nLa Città di Malega in Spagna.\nLa Polonia tutta.\nLa Città di Danzica.\nCostantinopoli con tutte le parti di Leuante.\nLa Città di Napoli con tutto il suo Regno.\nLa Terra di Ciuità Vecchia, e\nLa Terra di Nettunno.",
+      "english": "SUSPENDED.\nThe island of Minorca.\nThe province of Dauphiné and the Principality of Orange.\nCatalonia.\nThe island of Ibiza.\nThe city of Málaga in Spain.\nAll of Poland.\nThe city of Danzig.\nConstantinople with all parts of the Levant.\nThe city of Naples with its whole kingdom.\nThe town of Civitavecchia, and\nThe town of Nettuno.",
+      "language": "it",
+      "noteIds": [
+        "ch66-note1",
+        "ch66-note2"
+      ],
+      "id": "ch66-p4"
+    },
+    {
+      "kind": "dateline",
+      "label": "Date and place",
+      "sourcePages": [
+        403
+      ],
+      "original": "Dat. in Roma li 30. Giugno 1656.",
+      "english": "Given in Rome on 30 June 1656.",
+      "language": "it",
+      "noteIds": [
+        "ch66-note1",
+        "ch66-note2"
+      ],
+      "id": "ch66-p5"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        403
+      ],
+      "original": "G. Card. Sacchetti.",
+      "english": "G. Cardinal Sacchetti.",
+      "language": "it",
+      "noteIds": [
+        "ch66-note1",
+        "ch66-note2"
+      ],
+      "id": "ch66-p6"
+    },
+    {
+      "kind": "signature",
+      "label": "Signature",
+      "sourcePages": [
+        403
+      ],
+      "original": "Cesare Rasponi Secr.",
+      "english": "Cesare Rasponi, Secretary.",
+      "language": "it",
+      "noteIds": [
+        "ch66-note1",
+        "ch66-note2"
+      ],
+      "id": "ch66-p7"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch66-note1",
+      "type": "transcription",
+      "text": "The source prints two parallel columns, headed BANDITI and SOSPESI. They are transcribed separately in column order. The scan reads “La Polonia tutta” (all of Poland), not the OCR’s “Polonia turca”."
+    },
+    {
+      "id": "ch66-note2",
+      "type": "translation",
+      "text": "The smaller Spanish place-names Torox, Valeimalega and Nerxa are retained as printed, without silently replacing them with proposed modern identifications. “Banned” and “suspended” remain distinct source categories; this list itself does not explain every legal distinction."
+    }
+  ],
+  "relations": [
+    {
+      "chapterId": 42,
+      "kind": "incorporates",
+      "label": "Incorporates conditions and penalties of the 20 May proclamation",
+      "segmentIds": [
+        "ch66-p2"
+      ]
+    }
+  ],
+  "review": {
+    "transcription": {
+      "status": "ai-checked",
+      "description": "An AI assistant compared the reading transcription with the chapter page images, including its beginning and ending boundaries. Local notes identify unresolved wording. Human specialist review is pending."
+    },
+    "translation": {
+      "status": "ai-draft",
+      "description": "Complete English working translation paired with the original passages. Qualifications, exceptions, sanctions, dates and signatures are retained. Human specialist review is pending."
+    },
+    "humanReview": {
+      "status": "pending"
+    },
+    "events": [
+      {
+        "date": "2026-11-04",
+        "actor": "AI assistant",
+        "action": "Prepared the paired reading edition, inspected the chapter page images and boundaries, and checked passage-to-page links. Human specialist review remains pending."
+      }
+    ]
+  }
+}
